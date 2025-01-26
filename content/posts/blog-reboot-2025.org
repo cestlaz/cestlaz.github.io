@@ -5,7 +5,7 @@ tags:
 - misc
 categories:
 - blogging
-draft: true
+draft: false
 --- 
 
 Time to reboot the blog.
