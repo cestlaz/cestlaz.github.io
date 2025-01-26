@@ -1,0 +1,43 @@
+---
+title: "About"
+meta: false
+---
+
+
+* Who's this Z guy?
+
+Hi, I'm Mike Zamansky. 
+
+I'm a retired computer science teacher living in New York City
+considering what to do for my next chapter.
+
+I finished out my career at Hunter College but spent most of it
+building the computer science program at Stuyvesant High School.
+
+Prior to that I taught at Seward Park High School and before teaching,
+did computer work on Wall Street at Goldman Sachs.
+
+At Hunter College I created New York's first operating state approved
+computer science teacher certification programs. By the time I left,
+we had trained and the state certified New York's first 100 licensed
+computer science teachers.
+
+I also created Hunter's undergraduate compute science honors
+program. A scholarship program that allowed students to receive a
+great undergraduate computer science education with many advantages
+that students at the "elite" programs of the city don't enjoy at a
+fraction of the cost.
+
+Prior to my tenure at Hunter, I had built Stuyvesant High School's
+computer science program, arguably the finest high school computer
+science program in the country.
+ 
+I also love tabletop gaming, cooking, baking, biking and a variety of
+other things.
+
+Hope you enjoy my ramblings.
+
+If you want to connect, you can always email me at [[mailto:zamansky@gmail.com][zamansky@gmail.com]].
+
+
+

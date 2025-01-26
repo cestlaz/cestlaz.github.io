@@ -1,0 +1,47 @@
+---
+title: Blog Reboot
+date: 2025-01-25T14:32:53-04:00
+tags:
+- misc
+categories:
+- blogging
+draft: true
+--- 
+
+Time to reboot the blog.
+
+Why? Because of my new tablet.
+
+So, I got a new tablet a week or so ago. A Oneplus Pad 2. It's a 12"
+android tablet. I really only use it in the mornings in the winter and
+inclement weather. I use it with my Wahoo bike trainer both to run the
+trainer controls and to watch videos. In nice weather I usually run
+outside.
+
+This particular tablet has a pretty cheap add on keyboard so I
+thought, if I get the keyboard, it could be a lightweight travel
+laptop replacement. It's already good for media consumption and it can
+also run ssh so I can connect to a remote computer and do more serious
+work as well as things like write blog posts when traveling.
+
+So, I went to a DigitalOcean droplet - a Linux box in the cloud,
+cloned my blog and installed Hugo - my blog generator, and the go
+language.
+
+It didn't work. It turns out that the custom theme I downloaded had
+issues with the current version of Hugo and the older version of Hugo
+I was running had issues running under the current version of
+Go. Serves me right for not keeping on top of things since I moved my
+blog to Hugo in 2018 and updated the theme in  2020.
+
+So, it was time for a reboot. Still using Hugo but a new but similar
+theme. I linked to the older versions of my blog in the menu up
+top. I'll probably also clean things up over the next few weeks but
+already the new theme has the Bluesky link up top to replace Twitter
+which I ditched months ago.
+
+Even though blogging seems to be dying I'll probably continue writing
+on CS with some Emacs mixed in and probably expand the range of topics
+a bit since now, in retirement I'm not so immersed in CS Education.
+
+We'll see where things go from here.
