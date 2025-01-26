@@ -6,7 +6,15 @@ title = "C'est la Z"
 # theme ="hugo-kiera"
 theme ="anubis2"
 
+[outputs]
+  home = ['html', 'rss']
+  section = ['html', 'rss']
+  taxonomy = ['html']
+  term = ['html']
 
+[outputFormats.RSS]
+mediatype='application/rss'
+baseName='rss'
 pygmentsCodeFences = true
 mathjax=true
 [pagination]
