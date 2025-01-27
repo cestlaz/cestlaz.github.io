@@ -19,7 +19,7 @@
             {{ .Content }}
         </div>
       
-      {{$tmp:=printf  "Check out the latest post by @zamanskybsky.social %s" .Permalink}}
+      {{$tmp:=printf  "Check out the latest post by @zamansky.bsky.social %s" .Permalink}}
 {{$tmp := $tmp | urlquery}}
       {{$tmp2:= printf "https://bsky.app/intent/compose?text=%s" $tmp}}
 
