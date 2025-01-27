@@ -1,0 +1,114 @@
+---
+title: Hitch, Groucho, and Cavett
+date: 2025-01-27T14:54:01-04:00
+tags: 
+- culture
+- classics 
+categories:
+- culture
+draft: false
+--- 
+
+I spent yesterday evening at the Leanord Nimoy Thalia theater. Once an
+art house cinema, I spent many hours there watching all sorts of
+movies - timeless classics, B films, cult movies, and cartoon
+nights. Last night, my buddy Ben hosted a movie night screening two
+Hitchcock classics - The 39 Steps and The Lady Vanishes. The evening
+also included a screening of that Wagnerian masterpiece, What's Opera
+Doc!
+
+Now, this doesn't sound like a CS post and it isn't, but I said I'd
+expand my range of topics. Hope regular readers don't mind or maybe
+even enjoy it.
+
+While I've seen a fair amount of Hitchcock, I hadn't seen either of
+these two before.
+
+Besides enjoying the evening it got me thinking - does the upcoming
+generation even know Hitchcock.
+
+This wasn't a new thought for me. A couple of weeks ago I was at a
+party and I was in a circle of younger people. Something came up and I
+mentioned that just the day before I was watching a special on PBS
+about Groucho Marx, specifically, his relationship with Dick Cavett,
+who interviewed him on television a number of times. Now, I figured
+these youngsters would have no idea as to who Dick Cavett was but they
+also had no clue about Groucho.
+
+I was a little surprised. I mean the Marx Brothers, and Groucho in
+particular as well as Alfred Hitchcock were just ingrained into
+American culture. Even if you never saw a Marx Brothers movie you knew
+Groucho's walk, mannerisms, and some one liners and even now, I just
+searched "Groucho glasses" on line and of course, the iconic
+nose/glasses/moustache combo came up. Hitchcock as well. The
+"Goodevveenning," the iconic silhouette and of course him being the
+master of suspense. We all knew this before ever seeing a Hitchcock
+movie as well.
+
+I mean, I get why entertainment icons prior to film and then
+television haven't left their mark. Sure, we have the works of the
+great composers and authors, but since there was no recorded media, we
+have no real knowledge of great singers, comedians, play directors and
+the like.
+
+I remember a bunch of years ago learning about [[https://en.wikipedia.org/wiki/George_L._Fox_(clown)][George Washington
+Lafayette Fox]] - a super popular, well, clown in the mid to late
+1800s. There are some photographs but of course no film. I only
+learned about him by seeing Bill Irwin's amazing tribute, [[https://variety.com/2004/legit/markets-festivals/mr-fox-a-rumination-1200534002/][Mr. Fox a
+rumination]]. Of course, Bill Irwin's tribute, while a wonderful show
+was in some ways something of a research project.
+
+Years ago I wondered if cultural influences of the film and TV
+generations and later would have more staying power. True, media today
+has so much of a greater reach than say in the 1950s or even when I
+grew up in the 70s and 80s but at least there's a visual record from
+the relatively early 20th century, lost films not withstanding and a
+visual and audible record since talkies.
+
+The thing is, media consumption has also changed. When I grew up, we
+only a handful of channels on TV. Even when cable came in, the choices
+were limited. We also didn't have onscreen guides so unless we kept
+the NYTimes program guide around or got something like TV Guide
+magazine we'd have to flip through the channels. We also, for the most
+part didn't have remotes so changing the channel meant getting up,
+walking to the TV and clicking the dial - if you missed your channel
+you had to go all the way around again.
+
+This meant we'd leave something on becuase it was easier, or we'd be
+flipping through the channels and land on something new and we'd just
+check it out.
+
+That's how I discovered a lot of old movies - both good and bad and
+developed my tastes. From classics aired at random times to Kung Fu
+movies on weekends and Chiller theater.
+
+Now, everything's on demand for shows and movies - no discovery, all
+active decisions and even worse (from my point of view) the short form
+stuff like TicTock and Reels.
+
+So what does this mean for the future? I don't know. It would be a
+shame if classics and classic comedy were lost to the future. Sure,
+some is just of historic interest but the good stuff really holds up.
+
+Here's a bit of classic Marx Brothers:
+
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4zRe_wvJw8?si=5QUWsxQ0M-aIlftH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#+end_export
+
+
+and part of one of Cavett's interviews with Hitch:
+
+#+begin_export html
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITzRmCedJnc?si=-EApAiV_NVLADHTb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+#+end_export
+
+
+More of the interview can be found on Youtube. Actually, there are
+tons of Dick Cavett interviews on Youtube and I highly recommend all
+of them.
+
+Okay, that's it for today. Probably back to CS and Tech next time out.
+
