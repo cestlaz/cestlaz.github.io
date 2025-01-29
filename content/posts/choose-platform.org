@@ -1,0 +1,26 @@
+---
+title: Choosing our platforms
+date: 2025-01-29T15:23:26-04:00
+tags: 
+categories: 
+draft: true
+---
+
+In my [[/posts/blog-reboot-2025/][Blog Reboot]] post I talked about blogging being a fading
+pastime. Over at [[https://irreal.org/blog/?p=12744][Irreal]], JCS responded that his experience says
+otherwise and that his RSS feeds in fact experiencing a rebirth.
+
+Both can be true. I've also seen an increase in what are essentially
+bogs - more people on Substack and the like - I regularly read Kareem
+Abdul-Jabbar's [[https://kareem.substack.com/p/police-union-furious-over-trumps][substack]] as well as others. On the other hand, there's
+clearly been a dropoff in CS Education related blogging and also less
+dialog on the blogs that are around.
+
+Part of what led me to my blogging is dying side comment is something
+that I've been thinking about a lot recently which is our choice of
+platforms.
+
+
+
+
+
