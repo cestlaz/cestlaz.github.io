@@ -1,9 +1,12 @@
 ---
 title: Choosing our platforms
 date: 2025-01-29T15:23:26-04:00
-tags: 
-categories: 
-draft: true
+tags:
+- policy
+- internet
+categories:
+- policy
+draft: false
 ---
 
 In my [[/posts/blog-reboot-2025/][Blog Reboot]] post I talked about blogging being a fading
@@ -20,6 +23,73 @@ Part of what led me to my blogging is dying side comment is something
 that I've been thinking about a lot recently which is our choice of
 platforms.
 
+The most active CS Ed communities I'm aware of live on Facebook. I've
+always felt that Facebook was a problematic platform. It's a closed
+silo. I'm not talking about the fact that groups are controlled by
+their respective admins. The CS Ed groups, by and large seem to have
+reasonable ones. I'm talking about the Facebook platform. The groups
+are not discoverable from the outside and while searchable, only from
+within each individal group. If Meta decides to change policies, the
+group or groups might go away, all data is lost and all membership is
+lost.
+
+Contrast that with what I use for my StuyCS family (or Mafia as some
+call it). That's just a mailing list. The entire email archive is
+stored online but can be downloaded at any time and even if the
+provider closes up shop, I've got all the email addresses and can
+restart elsewhere. Of course, a mailing list has it's own limitations
+but that's another discussion.
+
+While I've been concerned about Facebook for a while, Zuck's most
+current actions makes me even more disturbed about using it. While I
+can't speak for the entire CS Ed community, certainly the subset on
+the Facebook platform seem pretty concerned with DEI, equity, and the
+like. Well, we know what Zuck did there. Then there's also the fact
+checking.
+
+Maybe as a community we should walk the walk and not just talk the
+talk.
+
+Personally I've been spending less time on Facebook in general. Other
+than the CS Ed and a couple of other communities I'm finding it less
+useful. It used to be great to keep in touch with a subset of former
+students. The ones that I might not be close enough with to have an
+ongoing connection but still enough to care to see updates and send a
+hello now and the. Well, more and more, those people are opting off
+the platform, or at least the algorihtm isn't sharing there stuff as
+much and just giving me algorithm generated garbage.
+
+Of course, one needs alternatives. It would be great to see a CS Ed
+blogging rennaisance but that's dependent on both creaters to create
+and readers to comment.
+
+CSTA has forums  but their platform is slow and clunky and I think it
+might only be for CSTA+ members. If that's true, I don't like the
+exclusivity. Reddit's a much better platform technically but is also
+its own silo.
+
+Oh for the days of usenet news. a set of cs.education.* newsgroups
+would be just perfect.
+
+SIGCSE has some mailing lists and those are easy to set up but I just
+don't think another mailing list would gain traction.
+
+To be consistent I want to point out that I'm not just down on
+Facebook. I'm also looking to degoogle. Their capitulating on The Gulf
+of America so quickly might have been my last straw with them.
+
+I'm heading to Savannah next week for a little vacation but when I get
+back I'll probably switch over to Fastmail.
+
+Then for me there's also GitHub. I've already moved most of my git
+based work to GitLab but this blog still lives at github.io. When I
+get back from down south, I'll also probably move that to another
+domain.
+
+Of course everyone has to keep their own concience but I do really
+think that as a community of educators, particularly one that claims
+that equity and diversity is important, we should be thinking long and
+hard about the platforms we use and the products we support.
 
 
 
