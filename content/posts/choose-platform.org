@@ -14,7 +14,7 @@ pastime. Over at [[https://irreal.org/blog/?p=12744][Irreal]], JCS responded tha
 otherwise and that his RSS feeds in fact experiencing a rebirth.
 
 Both can be true. I've also seen an increase in what are essentially
-bogs - more people on Substack and the like - I regularly read Kareem
+blogs - more people on Substack and the like - I regularly read Kareem
 Abdul-Jabbar's [[https://kareem.substack.com/p/police-union-furious-over-trumps][substack]] as well as others. On the other hand, there's
 clearly been a dropoff in CS Education related blogging and also less
 dialog on the blogs that are around.
@@ -75,7 +75,7 @@ SIGCSE has some mailing lists and those are easy to set up but I just
 don't think another mailing list would gain traction.
 
 To be consistent I want to point out that I'm not just down on
-Facebook. I'm also looking to degoogle. Their capitulating on The Gulf
+Facebook. I'm also looking to de-google. Their capitulating on The Gulf
 of America so quickly might have been my last straw with them.
 
 I'm heading to Savannah next week for a little vacation but when I get
