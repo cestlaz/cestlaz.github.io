@@ -1,0 +1,33 @@
+---
+title: Switching Domains
+date: 2025-01-30T14:26:18-04:00
+tags:
+- internet
+- hosting 
+categories:
+- policy
+draft: false
+
+---
+
+So, while I'm working on getting off of Google, I thought it was also
+time to unlink my blog from GitHub.
+
+It's still, at least for the time being, hosted on GitHub but I've
+switched it over to my domain.
+
+The blog's official address is now [[https://cestlaz.zamansky.net][cestlaz.zamansky.net]]. The old
+address of [[https://cestlaz.github.io][cestlaz.github.io]] should still work since it's still hosted
+on GitHub. I'll probably move the actual hosting somewhere else at
+some point int he future.
+
+*IMPORTANT for RSS PEOPLE:* If you read this blog using RSS, switch to
+ the new RSS feed at [[https://cestlaz.zamansky.net/rss.xml][https://cestlaz.zamansky.net/rss.xml]]. I think the
+ old feed still works.
+
+ Finally, could somebody leave and/or reply to a comment here - I
+ think I switched those over correctly but would love to test it out.
+
+ Thanks
+ Mike
+ 
