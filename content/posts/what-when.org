@@ -66,7 +66,7 @@ Now, as to what, why, and when, is it really important to teach
 abstract classes? In APCS, probably not. Abstract classes are useful
 and arguably important when writing libraries and when working on
 *large* codebases. You do neither of those things in APCS-A nor in
-pretty much any CS1 class. Sure, you might write a libary but it'll be
+pretty much any CS1 class. Sure, you might write a library but it'll be
 pretty small, probably contrived, and you won't then have to use it in
 multiple circumstances. Similarly, you won't be writing a large
 project, there just isn't the time. You might add code to an already
