@@ -1,0 +1,142 @@
+---
+title: What we teach and when we teach it Java edition
+date: 2025-02-04T20:06:40-04:00
+tags:
+- language features
+- teaching
+- OOP
+categories:
+- CS Education
+draft: false
+--- 
+
+It seems that every year or so we have a discussion as to what's the
+best programming language to teach first.
+
+I thought today I'd look at a variation of that question. What
+language features should we teach, when and why.
+
+I was thinking about this after someone in my StuyCS alumni community
+asked about which Java version was used in APCS. He was tutoring a
+current Stuy student and was wondering about language
+features. Specifically things like interfaces and abstract classes. Of
+course the question got murkier when he was reminded that Stuy doesn'
+just teach APCS-A but rather a superset of the old APCS-AB which
+included both programming and data structures.
+
+Now, in terms of APCS-A, it no longer covers Interfaces and Abstract
+classes and I think inheritance is also on its way out the door.
+
+I also seem to recall that the College board was thinking about
+removing Java Arrays from APCS-A and only requiring the teaching of
+ArrayLists but I might be misremembering.
+
+From a pratcical "we want more people taking our exams and we want
+them to get reasonably high scores" point of view, removing all this
+material makes sense. I mean, when I took APCS the first year it was
+offered it covered a full year of college in a full year of High
+School. When they dropped the data structures, it became a half year
+of college in one year of high school. As they remove more and more
+material, the class is becoming less and less of a college course and
+more of a high school one. Now, this isn't necessarily a bad thing *if*
+those students are getting a solid foundation in the basics.
+
+In my last few years teachig at hunter, I had about half my students
+come in having taken APCS-A. Hunter didn't award placement for APCS,
+partly because Hunter used C++ as their core language but truth be
+told, all my Hunter kids that came from Stuy and took Stuy's APCS
+could have easily started in CS2 and most could have started in CS3
+with a short C++ for Java programmers workshop.
+
+On the other hand, the vast majority of my non Stuy students who came
+in with APCS-A were not ready to be placed in to Hunter's CS 2 (data
+structures) class. A few were ready for CS2 or even CS3 but most
+weren't. Now, these were all very bright kids and had a very easy time
+with Hunter's CS1 it's just that the APCS-A classes they took in High
+School, by and large didn't cover enough to get them ready to be
+placed out of a college CS1, particularly one in a different language.
+
+I do want to emphasize though that all my students who took APCS-A in
+high school breezed through my CS1 in college and then did well in my
+CS2. That APCS-A course they took was very valuable. Was it college
+level? Probably not but who cares, the courses they took did them a
+lot of good.
+
+Now, as to what, why, and when, is it really important to teach
+abstract classes? In APCS, probably not. Abstract classes are useful
+and arguably important when writing libraries and when working on
+*large* codebases. You do neither of those things in APCS-A nor in
+pretty much any CS1 class. Sure, you might write a libary but it'll be
+pretty small, probably contrived, and you won't then have to use it in
+multiple circumstances. Similarly, you won't be writing a large
+project, there just isn't the time. You might add code to an already
+existing large project - maybe implement something off of an abstract
+class but doing so will either probably be contrived or it'll be seen
+as just something you do, like implementing the comparable
+interface. Students probably won't "get it."
+
+Same with interfaces. Java implemented them to get around the
+limitation that resulted by getting rid of multiple inheritence. They
+got rid of multiple inheritance due to its complexity and things like
+it leading to circular references. Still, this left some problems
+unsolved an interfaces took care of them.
+
+Still, teaching them in APCS-A was always forced.
+
+The truth is, for things like abstract classes and interfaces, even if
+they're considered basic building blocks in Java, one doesn't really
+grok them until they're writing a long term reusable library or
+working on and in a large codebase, again, usually over time. A single
+semester early in sequence class just doesn't have the time and the
+students don't have the experience.
+
+Things like abstract classes and interfaces probably make more sense
+in a more advanced Programming Languages / Paradigms or OOP course or
+maybe better a Software Engineering course.
+
+Unfortunately, if they're not tought in CS1 or CS2 they might never be
+taught. More unfortunately, if they are taught in CS1 or CS2, students
+likely won't "get" their importance so it won't be much better.
+
+Now, does any of this matter? Maybe and maybe not. For interfaces or
+abstract classes, I don't know how important it is for someone on the
+academic computers science path. That is, the path that most college
+CS programs prepare you for under the false belief that most CS majors
+will pursue PhDs. Of course, the reality is that the vast
+majority of CS majors will seek to go into tech, many as software
+engineers so maybe the software engineering and software architecture
+concepts underlying abstract classes and interfaces are actually
+important.
+
+There's the rub.
+
+It's generally not a big deal if you remove some concept from APCS-A
+or any CS1 as long as, if it's important, you address it at some point
+in the future - hopefully at better point in the case of the two
+topics I've been discussing.
+
+Of course, this has happened before. Back when APCS switched from C++
+to Java, memory management disappeared. That was all fine and good,
+particularly since memory management's a tricky topic to cover early
+on but for some students, it was never covered. This is one danger
+with taking your CS1 (and back then potentiall CS2) in High School, or
+rather in one institution and the rest in another. If you took APCS-AB
+in high school and then went to a college that say, used C++ and
+tought memory management in their CS1 or CS2 then you'd totally miss
+out on an important topics.
+
+Now, for memory managment you might say that most people will never
+need it - Java, Python and many popular languages take care of that
+for you. True, but many don't and having a good understanding of
+what's going on under the hood makes for a better software engineer or
+tech professional.
+
+Same for the Java topics. While I don't think CS1 is a great place for
+Abstract classes or interfaces, the concepts beneath them are
+important for a well educated CS person or Software Engineer.
+
+The trouble is, we spend too much time looking at courses and not at
+complete programs and pipelines.
+
+Just something to think about.
+
