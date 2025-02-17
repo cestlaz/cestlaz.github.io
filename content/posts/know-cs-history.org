@@ -39,7 +39,7 @@ effects and consequences. Uninitialized dates appearing to be 150
 years ago being one of them. On the Unix side, the time has typically
 been stored in a 32 bit number. With 32 bits, we'll hit our largest
 time, or maximum date early in 2038 at which point, the calendar will
-roll over back to 1/1/1970. Tis is known as the 2038 problem and it's
+roll over back to 1/1/1970. This is known as the 2038 problem and it's
 not good. Now, this problem might be averted if by then all systems
 use a 64 bit representation for the time and date but I wouldn't hold
 my breath. I mean, the systems which falsely show "150 year old
