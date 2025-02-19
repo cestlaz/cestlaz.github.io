@@ -1,0 +1,146 @@
+---
+title: Getting Back in the Game
+date: 2025-02-19T11:26:32-04:00
+tags:
+- workforce
+categories:
+- workforce
+draft: false
+---
+
+Even before I retired I knew that after a break I'd want to get back
+in the game. Not full time, but in a limited capacity when interesting
+opportunities presented themselves.
+
+Well, it's time to start dipping my toes back in the water.
+
+Next week I'll be at SIGCSE but that doesn't really count. Last year I
+attended both SIGCSE and the CSTA conference so that's nothing new.
+
+After I get back from SIGCSE though, I'll be covering computer science
+classes for a friend at Stuy who's going to be out on Grand Jury
+Duty. It's three sections mid day, the second half of Stuy's intro
+class - now dubbed CS Foundations. The material should be
+straightforward. I think they're still learning the basics of Python.
+
+I've got a couple of concerns though. First, in the email that told
+the classes that I'd be covering, I was introduced as the guy who
+created the course. Now, I'm a good classroom teacher but really, my
+value isn't in individual super lessons. I'm not Edward James Olmos as
+Jaime Escalante (though I wonder if Jaime Escalante was Edward James
+Olmos as Jaime Escalante). I've got my moments but my rapport with my
+kids builds over time - a semester, a year, or even multiple
+years. I'd rather under promise and over deliver so I hope I'm not
+being oversold.
+
+My other concern, well, not really concern, is that I hope they're far
+enough along for me to do something fun. I'm only with them for two
+weeks. If they've gotten to or close to lists, I can do some fun and
+interesting applications. If not, well, teaching if statements can
+only be so interesting.
+
+In any event, I hope to have fun with this.
+
+One extra surprise is that I'll be getting a grand-student out of
+this. I'll be teaching a child of one of my former students.
+
+I'm also getting back involved by supporting [[https://www.careerwiseusa.org/][CareerWise]], an
+organization that sets up apprenticeships for high school students. I
+was introduced to my new friends at CareerWise by an older mutual
+friend and it was exactly the type of intro I was looking for. A
+friend thinking "hey Mike and these people should do something
+together."
+
+CareerWise sets up and supports apprenticeships in a bunch of fields
+but I'm of course working with them on the tech side. They've got a
+software engineering track and a cybersecurity track. The basic plan
+is that the students come from schools all across New York City, they
+receive training over the summer - think of it as some sort of boot
+camp, and then go to their apprenticeship along with continued support
+from CareerWise.
+
+They're doing great work but tech apprenticeships are a particular
+challenge. As I wrote [[https://cestlaz.zamansky.net/cestlaz-old-hugo.github.io/post/the-new-entry-level/][earlier]], companies are expecting even interns
+and entry level employees to know more and more coming in. It's not
+like the old days when companies trained up their workforce. Of course
+it's even harder with high school apprentices. They'll come in knowing
+even less and will have even more limited exposure to how one operates
+in the workforce.
+
+Now, as I said, the apprentices get some training the summer prior to
+their placements but that's a real challenge. First off, while a small
+number of the kids might have had some serious CS, most probably had
+APCS-Principles or maybe not even. Think about it, in a short summer
+program you have to take a high schooler who at most has written very
+short programs in a drag and drop environment and industry wants them
+to be ready to go with a text programming language, version control,
+using an IDE and more.
+
+Not gonna happen.
+
+Even harder, one company might be looking to place their apprentices
+on a front end team using Javascript and React, another a backend Java
+team, another something in Python and so on.
+
+This is really tricky. How do you design a boot camp for that? Even if
+you focus on the basics, if you prepare them for one shop, you wont be
+preparing them for another one.
+
+That's where I come in. The hope is I can help manage expectations
+with the partner companies - help them to understand that these are
+high school kids with limited backgrounds and experience. They're
+smart and they'll work hard but a twelfth grader is very different
+than a college rising junior starting an internship let alone an entry
+level grad. The other hope is that I can help direct the training so
+that the training and the company expectations meet in the middle.
+
+This is not an easy task and I don't have any magic bullets but I do
+have some ideas.
+
+Well, on the expectation management side, that's easy. Well, not easy
+to actually manage them but easy to have the conversation. We've
+already started so hopefully we're going in the right direction.
+
+The boot camp / training is harder. What to do? After noodling about
+it a while, I thought to redirect the training a bit. Instead of
+focusing on a bootcamp where kids create their own frontend only app
+(well, really more of a demo with very limited functionality) or some
+other completed program, I thought, maybe we should make the
+application "testing." That is, as the kids are going through the
+training, have them write tests for existing code bases (provided by
+the company that runs the training). This could evolve into tweaking
+and extending code as well.
+
+When the kids start their software engineering internships, they'd
+start by writing tests rather than creating new features and again,
+they could, as they get comfortable in their apprenticeship be pushed
+then towards creating new code.
+
+Why do I think this makes sense?
+
+From the companies point of view, writing tests is super low risk and
+is something they always need more of. It also keeps the kids out of the
+codebase until their ready. From the kids point of view at the
+company, it will probably be easier for a kid to read and understand a
+small chunk of code and write a test for it rather than creating
+something new to integrate into a complex codebase.
+
+From a training point of view, this exposes the kids to code reading
+and understanding - something rarely done  and writing tests is
+probably a more gradual ramp up than diving into full programs. The
+kids will also learn professional workflows.
+
+True, they'll still only be doing it in one language so if the
+training is in Javascript and their apprenticeship is in Python there
+will still be a professional ramp up but it will probably be easier to
+write tests in the new language given the example code of the code
+base, the code their testing, and probably other tests to mimic.
+
+We'll see how it goes
+
+So, that's what I'll be spending some time on over the next few weeks
+and months. Still just part time but happy to be back in the game.
+
+
+
+
