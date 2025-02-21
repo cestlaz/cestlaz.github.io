@@ -1,0 +1,153 @@
+---
+title: Has the CSTA jumped the shark?
+date: 2025-02-21T11:50:55-04:00
+tags:
+- CSTA
+- PD
+- Professional Development
+categories:
+- CSTA
+draft: false
+---
+
+That's the Computer Science Teacher's Association to you.
+
+Has it?
+
+Well, that's a personal question. I think it has for me but I'm sure
+for other people, that jump the shark moment will be far off or never.
+
+I'm ruminating on this now as a result of a recent change in their
+membership policy. Going from two tiers - one free and one costing $50
+a year to a single tier $50 membership. If you're currently a member,
+you can elect not to pay the $50 and still keep access to a limited
+set of resources.
+
+Alfred Thompson wrote a great blog post with his take on the
+change [[https://blog.acthompson.net/2025/02/csta-ends-free-membership.html][here]].
+
+When CSTA started it was free. Back then, there were far fewer
+computer science teachers and while I joined early on, I saw very few
+opportunities to get involved. That's not to say there weren't any or
+plenty, just none crossed my path. At one point I did try to reach out
+to their leadership but I found them dismissive. I got an email back
+seeming to indicate "well, you're at Stuyvesant so what you do doesn't
+count."
+
+Anyway, in 2009 or so I had the opportunity to get more involved so I
+did. That led me to feeling that back then the CSTA existed for CSTA and they
+expected the membership to work for the benefit of the central
+organization.
+
+Some time around 2018 or 2019, I felt that changed. To me, anyway, it
+seemed like the emphasis really turned around to support the teachers
+and local chapters. I applauded the change and many of the efforts.
+
+That was around the same time that CSTA announced CSTA+ - the $50
+membership. I immediately joined. Not for the extras that it provided
+but just to support the organization. I think a lot of other people
+joined for the same reasons.
+
+Personally, I've never found the CSTA materials and resources useful. That's not an
+indictment of them. I haven't found anything on code.org useful
+either. That's probably because I came in to teaching with a strong CS
+background and had developed a robust High School CS program before
+CSTA ever existed - I was ahead of the curve. I wasn't happy then and
+still am disappointed when I see a lack of actual CS coming out of
+CSTA but in any event, I knew that the materials weren't for me, they
+were for newer teachers and teachers just coming to the subject.
+
+For a while there, even though I wasn't really the audience, I felt I
+could get behind and support the CSTA.
+
+
+Fast forward to today. Why to me has CSTA jumped the shark?
+
+Some time in the last year, I decided that I wasn't happy with the
+direction of CSTA. I was particularly unhappy with the board of
+directors election process. I had applied to be on the slate. I
+assumed there would be some manner of open process - the membership
+would either vote or they'd cull down the candidates in some open and
+fair way and then vote on the final slate.
+
+Nope.
+
+I was told that the committee decided to go with other candidates for
+the election.
+
+Is my opinion on this sour grapes? Maybe but I don't think so. When I
+read the candidate bios I left feeling that some candidates were
+equally or better qualified to be on the slate than I was but then,
+some, in my opinion brought much less to the table.
+
+Had there been an open process that left me and others off the slate I
+would have been fine with it but I was left feeling that the committee
+that made the decision was massaging the slate so as to get the board
+of directors they wanted.
+
+I was also unhappy with the tone and direction of CSTA for a variety
+of other reasons.
+
+So that's when I decided to drop down from CSTA+ to CSTA free tier.
+
+I still wanted to go to this years conference, however. When I went to
+register, I saw that the free tier registration was $50 more
+expensive, which was fine, and that those additional $50 would pay to
+put me back into CSTA+. Every time I think I'm out, they pull me back
+in!!!!! :-)
+
+Then I started getting the emails about the new dues structure urging
+me to upgrade.
+
+Weird. I though when I registered for the conference, that took care
+of the upgrade. Turns out, I won't be upgraded until the actual
+conference. Okay, weird and not a great look based on emails but
+that's fine.
+
+So that's why the CSTA has jumped the shark for me but I wouldn't be
+surprised if this membership change makes them jump the shark for a
+much wider set of CS teachers.
+
+Alfred, in his post already talked about the cost and how many CS
+teachers are also from other disciplines and those costs multiply
+across subjects.
+
+The big one to me though is that CSTA central will only support local
+chapter events solely for paid CSTA members. I hope I'm understanding
+this one incorrectly but a big part of local meetings should be
+working to get more teachers involved. That means meetings with non
+CSTA members in the hopes of roping them in.
+
+If CS was like math and had been around as a school subject area
+forever then saying "hey, pay $50 and then and only then can you go to
+the club meetings" might play a little better.  Might but that's no
+certainty and we're nowhere near being close to ready for it.
+
+I get that money might be tight but in my opinion, if the CSTA wants
+to be long term viable as a teachers organization (as opposed to a top
+down organization paid for by say the Googles of the world) then they
+have to support local efforts that bring in more teachers even if
+those local efforts are still working to get their legs under them.
+
+I'm also curious as to what the messaging will be with conference
+registration. If they're smart, since there will only be on $50 tier
+it will be marketed as "come to our conference and get a free years
+membership."
+
+So, will this positively or negatively affect membership? While I
+don't have any numbers, at least CSTA meeting numbers in New York City
+isn't particularly high and is largely dominated by teaching adjacent
+people. This always struck me as odd since New York City's CSForAll
+initiative has resulted in tons of schools offering CS but those
+teachers don't come out. Add a $50 membership fee and I don't expect
+the numbers to rise.
+
+Of course, outside of New York City, things could be very different. 
+
+In any event, we'll see how many more CSTA conferences I attend but I
+don't see myself engaging much with CSTA other than that under the new
+proposed model with the CSTA going in its current direction.
+
+It'll be interesting to see how membership and attitudes change moving
+forward.
+
