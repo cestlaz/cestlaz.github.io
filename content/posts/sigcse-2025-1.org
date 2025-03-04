@@ -1,0 +1,85 @@
+---
+title: SIGCSE 2025 - Opening Keynote
+date: 2025-03-03T19:40:54-04:00
+tags:
+- sigcse
+- keynote
+categories:
+- sigcse
+draft: false
+--- 
+
+I spent last week in Pittsburgh for The SIGCSE Technical Symposium,
+that's SIGCSETS to you. Lots of talks, lots of sessions and lots of
+people. 
+
+We drove in on Tuesday since Batya had a workshop Wednesday
+afternoon. Devorah and I along with a cousin who was also at the
+conferences spent the day playing tourist. We hit the Warhol museum
+and also wandered by [[https://randyland.club/][Randyland]]. Even made it to Carnegie Hall without
+practicing.
+
+#+ATTR_HTML: :width 500
+[[/images/pittsburgh/carnegie.jpg]]
+
+The opening keynote was given by Cecilia Aragon from the University of
+Oregon, the topic "What is Human Centered AI and why does it matter."
+The gist being that algorithms aren't free of bias regardless and that
+keeping the human element in CS is both critical and beneficial.
+
+Here are some of what I felt were highlights. Some were core parts of
+the talk and others might have been a throwaway line but it still
+resonated with me or I otherwise thought it was memorable.
+
+Early on, Aragon questioned if human centered was soft or easy with
+easy being erroneously perceived as either not rigorous or otherwise
+bad. She used to believe the easy is bad mantra due to CS's weed out
+culture but has since learned otherwise. This part of the talk was
+reminiscent of Felienne Herman's [[https://www.youtube.com/live/-Br66SUjsdQ?t=12100s][talk]] that's recently been making the
+rounds.
+
+Aragon also talked about believing that ethics should be woven into
+all classes and not merely be a standalone even if required. This
+echoed with me as I've been saying this for years. 
+
+In another part of the speach, Aragon spoke on how she was working on
+a project to identify supernovas and how she moved it forward
+significantly in spite of two prior teams and team leaders failing to
+do so. She attributed the advancements to two factors. One was some
+technical, specifically algorithmic changes she implemented but the
+other was the human element. Aragon encouraged more collaboration and
+discussion and as this was an astronomy project, cross collaboration
+and discussion between the CS people and the astronomy people. It was
+that cross pollination that led to the technical improvements and was
+cited as an example of the "human side."
+
+It was a good story and I agree but the sad part is that the example
+she gave shouldn't be an example of the "human side of AI" it's just
+how a good manager and good colleagues should work. Sadly it isn't
+always the case.
+
+Another theme of the talk, and I mentioned this already is the fact
+that bias is already baked in. Our creations are biased because we are
+biased and that's something that we need constant reminders of and we
+have to do better.
+
+A final point that was raised which I felt was particularly important
+given our current world situation, or more specifically, our current
+America situation was about a survey published by Stack Overflow. I
+forget the year and didn't copy down the specific numbers but you'll
+get the idea.
+
+First question Aragon presented asked developers if they'd work on an
+ethically questionable. The majority said no which was a positive
+sign. Unfortunately, a later question asked something like what amount
+of responsibility a developer had when working on something
+unethical. In this case, the majority blamed management taking no
+responsibility for themselves. I was just following orders as it
+were. It was an old survey but I don't doubt the same mindset persists
+and it's greatly troubling.
+
+Professor Aragon concluded the talk with recommendations on how we can
+do better.
+
+Overall, a strong opening to the conference.
+
