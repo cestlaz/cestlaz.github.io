@@ -1,0 +1,103 @@
+---
+title: SIGCSETS 2025 - day 2 keynote - What belongs in CS
+date: 2025-03-06T19:06:41-04:00
+tags:
+SIGCSETS
+SIGCSE
+Curriculumg
+categories:
+SIGCSETS
+draft: false
+--- 
+
+The day 2 keynote was really a treat. After giving out the years
+SIGCSE awards, instead of getting a standard talk, all three
+recipients, Jonathan Mwaura, Mitchel Resnick and Manuel Pérez-Quiñones
+participated in a fireside chat with Dan Garcia. The only letdown was
+that since Dan was moderating the chat, we also didn't get his views
+into the mix. 
+
+With three independent voices, the chat pushed in a few different
+directions but the theme that spoke most to me was when Pérez
+Quiñones, commenting on what the future held for CS Education said "I
+hope the future is less so we can do more." The gist being that
+college CS curricula has become really bloated.
+
+Of course, it's much more than that and at the same time the statement
+is pretty nuanced.
+
+On the one hand, CS Curricula has become more and more packed. Course
+after course has been added while none have been removed. Now, that's
+not entirely true. I seem to recall that Compilers was a frequently
+required course back in my day and that's no longer the case but what
+about operating systems? Does every undergrad need a 3 credit OS
+course? What about the core sequence? Is it necessary to implement
+every sort? If not, how many, which ones and why? I'll return to this
+question when I write up some of the individual sessions.
+
+Maybe we could take the important parts of all the current classes,
+ditch the cruft and distill it all down to fewer requirements. This
+would allow programs to more comfortably add in some of the new topics
+that might currently not fit - software engineering, HCI, Ethics,
+stuff relating CS to the humanities, and more.
+
+Another spin on this was the question of what would or should remain
+in CS and what would spin off? Should their be a separate Software
+Engineering Major? What about AI? How about CS classes for non majors?
+Should all of this be in CS or should CS become a small program that
+just focuses on the theoretical core?
+
+I don't thin the panelists nor the audience were or are ready to
+propose a hard answer here but I'm really glad the questions were
+raised.
+
+Coincidentally, or maybe not, Mark Guzdial just wrote a [[https://computinged.wordpress.com/2025/03/05/cs-doesnt-have-a-monopoly-on-computing-education-programming-is-for-everyone/][post]] asking a
+related question, his focus being on CS for non CS majors. Alfred
+Thompson responded with his related thoughts on the [[https://blog.acthompson.net/2025/03/rethinking-high-school-computer-science.html][High School level]].
+
+For the high school level, I feel that our job for all students is three
+fold. Give them enough of a background to as a lay person understand
+the fundamentals of CS. Give them some practical tools
+(ie. programming) that they can employ regardless of their future
+path, and finally provide inspiration for those who sync with CS so
+that they can take future courses and pursue CS (or more likely
+software engineering) as a field of study.
+
+This is what we do, or try to do in most other subject areas. Everyone
+takes Biology. They learn a bit about the field, they learn something
+about the field that's in theory relevant to their lives and hopefully
+some will be inspired to study more advanced bio either in the upper
+High School grades or beyond.
+
+I think we did and are doing a very good job with this at Stuy where I
+designed a course specifically for this around 25 years ago. AP CS Principles
+could be this but while I've seen some solid implementations, I've
+also seen far too many weak implementations.
+
+College is another matter and is tricky. Should everyone take a CS0?
+Should it be focused on majors, non majors, or try to do both? Should
+CS departments run a whole bunch of intros? There is at least one
+college that does this - I'm blanking on the name, and it seems to
+work very well for them. On the other hand, this leads to all sorts of
+resource questions. Another option is for other departments to take
+over intro CS courses appropriate for their disciplines.
+
+No easy answers but I'm super happy that the conversations are
+starting. Nothing will resolve itself any time soon as education moves
+slowly but as they say, the best time to plant a tree is 20 years ago,
+the second best time is now.
+
+There were other topics addressed in the chat - CS education for
+giving everyone agency. Not merely using all the modern tools and
+advances to do the same thing better but to move closer to the type of
+world we want to live in.
+
+AI of course also came up with Pérez Quiñones talking about how having
+copilot took away a teaching moment between him and a student -
+something I've seen myself with older code help tools.
+
+I'll talk more about my thoughts about what belongs in CS and were it
+belongs in another post and might also share my thoughts on Mark and
+Alfred's posts but for now, I've got to say, this was my favorite
+keynote in a long time.
+
