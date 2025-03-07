@@ -2,11 +2,11 @@
 title: SIGCSETS 2025 - day 2 keynote - What belongs in CS
 date: 2025-03-06T19:06:41-04:00
 tags:
-SIGCSETS
-SIGCSE
-Curriculumg
+- SIGCSETS
+- SIGCSE
+- Curriculum
 categories:
-SIGCSETS
+- SIGCSETS
 draft: false
 --- 
 
