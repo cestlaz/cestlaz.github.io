@@ -1,0 +1,107 @@
+---
+title: Back in the classroom - week 1
+date: 2025-03-09T13:55:20-04:00
+tags:
+- teaching
+categories:
+- teaching
+draft: false
+--- 
+
+As you might have heard, I'm back at Stuyvesant teaching.
+
+Not permanent or full time - just covering for a CS teacher who's on
+grand jury duty. She's out for three week but since I was at SIGCSETS
+for the first one, I'm only covering for two. Last week and the one
+upcoming.
+
+I wouldn't be covering all 5 of the teacher's classes, just 3 -
+periods 6, 7, and 8, the second half of Stuy's intro CS class. A class
+that I actually designed ages ago, of course, the class had evolved
+since I left Stuy about a decade ago.
+
+The class used Python and the classes were at a nice place. They had
+learned up through and including lists. I could have just ploughed
+ahead and covered the rest of Python, starting with dictionaries but I
+decided better would be to do a couple of interesting applications.
+
+My thought process was that I'm not the regular teacher and while
+their regular teacher brings certain things to the classroom that I
+don't, similarly I bring some things that she doesn't. If I did list
+application lessons that let me work my spin on the class, the kids
+would potentially be getting more out of the class than just someone
+teaching mundane syntax.
+
+I decided for the first unit I'd do [[https://cestlaz.zamansky.net/cestlaz-old-hugo.github.io/posts/2013-03-23-who_won_the_election-quadratic_to_linear_time/][this]] lesson. It's a nice
+application of lists, introduces some deep runtime concepts, and is an
+overall nice gateway subject. I won't talk about the unit I'll start
+tomorrow on the off chance that one of the students happens upon this
+blog. I don't want to give away any surprises.
+
+I figured I'd have fun with the gig but I did have a number of
+concerns.
+
+First and foremost, I'd be "the sub." The classes were sent an email
+saying I'd be coming and that I had originally developed the course
+but who knows how many kids paid attention to the email or what that
+meant to them. I figured I'd get a certain level of respect - Stuy
+kids are good kids but still, I'd be the sub.
+
+I also knew that by having only two weeks, I wouldn't be able to set
+up my culture. It wouldn't be enough time for me to really get to know
+my students nor for them to really get my schtick. Similarly I
+wouldn't have time to set new class protocols and procedures
+effectively.
+
+On top of that, I had my first "grand student." Specifically the
+child of former students and in fact students that I've grown close
+to.
+
+On the one hand, I was the sub, on the other hand, if there were
+expectations due to reputation, since I was only there for two weeks,
+I'd likely not meet them.
+
+On the third hand, if I weren't there, they'd be going multiple weeks
+with no live CS instruction, anything I did get done was a bonus.
+
+So, I figured I'd keep things simple. I'd use my usual bag of tricks -
+live coding with questions and predictions, Eliciting subgoals, and
+similar techniques that don't require deep knowledge of my students.
+
+So, how'd it go?
+
+Well first off, the kids haven't really changed in a decade. It was
+similar to when I started a class in the Fall. Students by and large
+well behaved, mostly quiet with a few more frequent contributors and
+all in all good kids and smart kids. Over the week it seemed like more
+kids were warming up to me as the teacher and to my take on the
+class. Sure, it was mid semester but the dynamic was pretty much like
+when I'd start any class at Stuy.
+
+It was notably different though from starting a class at Hunter
+college but I attribute that to the fact that I meet with the Stuy
+kids every day and at Hunter it was only twice a week.
+
+The students acted in ways I expected and made mistakes that I
+expected them to make. All in all it's been a fun experience for me
+and I hope worthwhile for them.
+
+Now, things haven't been perfect. There have been kids spending the
+class period doing other work or on their phones but as long as they
+haven't been a distraction to the kids who've wanted to learn, I've
+let it slide. I figure that this is on them and with two weeks, I'm
+going to give everything I can to the people who want to learn rather
+than putting time and energy into the few who don't. Were this my
+actual full time class, I'd handle things differently.
+
+I guess another thing worth commenting on is that this is the first
+time in years when I've had to be somewhere to do something five
+straight days. While I'm enjoying the teaching, I'm not enjoying the
+every day specific time obligation. Maybe if it were first thing in
+the morning it would be different but teaching between around 11:50 -
+2:00 is just a bit awkward.
+
+So week's in the books. Starting another topic that I think is pretty
+fun tomorrow and we'll finish off the week with an AMA.
+
+
