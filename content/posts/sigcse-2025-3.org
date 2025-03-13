@@ -1,0 +1,94 @@
+---
+title: SIGCSETS 2025 part 3 - BOFs
+date: 2025-03-12T11:02:32-04:00
+tags:
+- SIGCSETS
+- SIGCSE
+- BOFS
+categories:
+- SIGCSE
+draft: false
+--- 
+
+Once again, there were three sets of Birds of a Feather sessions. Two
+at the end of the day on Thursday but before the big reception and one
+partly over lunch on Friday.
+
+Last year I enjoyed two but walked out o the third mid session. This
+year, I enjoyed two but just missed the third because I got caught up
+talking to an old friend.
+
+Both of the sessions I enjoyed suffered from the usual BOF problems -
+since the sessions were well attended and time was short, it was tough
+to get deep discussions going and also keep  the entire BOF together.
+
+While both of the sessions I attended had to deal with these issues,
+the organizing teams of both really did a great job within the
+constraints of the session.
+
+The first session was "Teaching Computing in Prison" run by Emma
+Hogan, Keith O'Hara, and Leo Porter. I already knew Emma and Keith but
+didn't realize they were running the session so it was nice to chat
+with them prior to the BOF starting.
+
+Now, I've never taught in prison. The closest was in my very first
+class of my very first year of teaching. I taught a remedial math
+class and a good portion of the students in that class were recently
+out of prison and some would be soon to go in. I was also a little
+familiar with a coding bootcamp type effort but I think that focused
+on people recently released and not those actually still incarcerated. 
+
+The BOF was fascinating. It's amazing the restrictions both
+instructors in prison as well as the students have to work
+under. Nothing connected to the internet, frequent interruptions
+(alarms), students coming and going and that's the easy stuff. In many
+cases, can't even run their actual code - it has to be printed out and
+submitted to the instructor who can then, if they chose to and have
+the time, they can run the code (after typing it in) and test it and
+give feedback.
+
+Other interesting tidbits, though I could be misremembering some of
+this - neither the students nor the instructors decides who gets into
+the class. It's assigned by some third party (the prison
+administration???). The prisoners in the program are all part of the
+same major and it isn't CS.
+
+The whole thing was fascinating. I'm interested in learning more. A
+big question I have is what's the point of the CS course or the major
+for that matter? Pure academic exploration? It seems a poor design for
+job prospects although that's something that Keith brought up - the
+push and pull between what he taught which was purely academic, being
+from a small liberal arts college and the prison's desire for a more
+jobs oriented program.
+
+The other BOF I attended and loved was titled "Towards a Computer
+Science Curriculum “Microkernel" and raised the questions of if
+there's a common core that could/should be taught in CS. This was very
+much related to some of the themes that came up during Friday's
+keynote and is something I've thought long and hard about for years.
+
+Many similar themes as the keynote but we talked about them in small
+groups - do we need all the courses that we teach? Do we need to teach
+as much about sorting as we do? What's the point of teaching any
+particular topic?
+
+I don't have too much to say in terms of specifics, but I'm glad this
+conversation is happening and happening in public. It's so hard to
+move institutions and even when you can steer the ship it can take
+years or even longer. At Hunter, there were some people who wanted to
+reform the CS major but all it took was a couple of "we always did it
+this way" people to sink any innovation.
+
+Still, with the conversation happening maybe some places will have
+success.
+
+So, those were the keynotes. Stay tuned for more on a bunch of other
+types of sessions.
+
+
+
+
+** prison
+
+
+** CS Microkernel BOF
