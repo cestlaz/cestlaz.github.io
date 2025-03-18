@@ -1,0 +1,119 @@
+---
+title: Back in the Classroom - Week 2 
+date: 2025-03-18T07:55:33-04:00
+tags:
+- teaching
+categories:
+- teaching
+draft: false
+--- 
+
+So last week I completed my second and final week back at Stuy
+teaching CS. We spent Monday finishing up the mode lesson and then
+spent most of the week on [[https://cestlaz.zamansky.net/cestlaz-old-hugo.github.io/posts/2014-01-07-rot13-gateway/][this]] topic - writing a computer program to
+automatically decode something "encrypted" with a Caesar Cipher. The
+post I just linked to was from when I first taught the lesson. I've
+refined and reworked it considerable since then but the gist is the
+same.
+
+This time, after running the cipher, we took a detour - I asked about
+what things they considered when purchasing a new laptop - they gave
+me all sorts of features like price, weight, screen size and more.
+
+We then compared laptops by a single feature, say price, then two -
+maybe price and weight. This led to an x y graph - one axis price, the
+other weight. Ultimately this led to us normalizing the features
+(making them all within the same range) and then the distance formula
+which we can use in 2D, 3D or any higher dimension.
+
+When everything was done, we were able to apply the distance formula
+to all the rotations of an encoded sentence and for each, compare the
+letter frequencies of the rotated sentence with the letter frequencies
+expected in an English sentence. The rotation closest to the expected
+frequencies was always the answer, provided that we had a long enough
+sentence to provide sufficient data.
+
+We didn't get to build a completed program to do the decryption in
+class but we build some of the code, all of the key algorithms and did
+end up building the scaffolding needed - a subgoal labeled Python
+file.
+
+That took us through Thursday. We probably could have completed the
+program if we continued on Friday but I thought that doing an AMA
+might be more fun and more valuable. After the weekend passed I did
+send along a finished program in case anyone wanted it and I
+encouraged them to write their own.
+
+After my last class, I spent about an hour speaking with a few Stuy
+seniors and then I was off. This week, back to retirement with their
+regularly scheduled teacher back from grand jury duty.
+
+I hope the kids had a good two weeks and got something out of the
+classes. I certainly enjoyed the time I spent with them.
+
+Overall the in class vibe was similar to what I was used to,
+particularly if you allow for the fact that I was only in for two
+weeks so couldn't develop the same level of rapport with the
+students. I mean, I think I did okay - I was even gifted a mini lemon
+pie on my last day (3/14) which my me and my family promptly devoured
+later that evening. On the other hand, I was told by some Stuy faculty
+members that some things have changed - phone use, for instance is
+much more rampant with more kids glued to their devices when in the
+halls. In my classes, I had a few kids on devices or even on the
+computers doing non class stuff while in class but I didn't stress
+about it due to the nature of my time there. Also, it didn't
+necessarily mean the student wasn't engaged. I had one kid who kept
+playing a snake type game on the computer. Once, the person who was
+the official sub chastised her (I was unofficial, but that's another
+story). After class, I apologized to her and told her I didn't mind
+that she was on the computer doing something that I consider a modern
+day version of doodling. The reason was because she was actually
+always engaged - participating in discussion, completing assignments
+and in every respect, besides the "doodling" being an active engaged
+student.
+
+I also, over the course of the two weeks got to meet a number of
+StuyCS seniors and had great informal conversations with a number of
+them. I'm going to save that though for a concluding post on my time
+back at Stuy. 
+
+As a final note, the CS and Math teachers were amazingly warm and
+welcoming - it was like I had never left, even with the people I had
+never met before. Likewise with the teachers I ran into from other
+departments.
+
+On the other hand, one particular AP made for a much less smooth
+experience. Not the person in charge of the CS department - she was
+delightful and helpful, but rather the AP Admin. When I was first
+asked to do this, I said okay but the AP Admin said they couldn't hire
+me for a partial schedule of only 3 classes (rather than 5). That's
+false. Then other obstacles were thrown in the way. Apparently, he
+thought it better that the students receive no instruction rather than
+make the least effort to smooth the way. Finally, when it was okayed
+that I come in (on a volunteer basis), he refused to let me get a
+temporary ID which necessitated other people being inconvenienced
+daily to come and sign me in.
+
+Now, had a decent AP Admin been at the helm, I would just have been
+hired part time. If something came up to make that impossible, they
+would have appealed to the PA or Alumni association for a modest
+honorarium and certainly they'd have given me the ability to come in
+without stealing precious time from some teacher on a non teaching
+period to sign me in.
+
+So, those were my two weeks back as a teacher. It was weird to have to
+be at a specific place and time every day for two weeks - I had gotten
+used to the freedom of having no set time obligations but it was a fun
+two weeks.
+
+No way I'll be going back full time, but if the StuyCS team needs me
+again, I'd be ready and able to pinch hit. 
+
+
+
+
+
+
+
+
+
