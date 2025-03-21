@@ -1,0 +1,103 @@
+---
+title: Sigcse 2025 part 4 - sessions and the rest
+date: 2025-03-21T11:06:57-04:00
+tags:
+- SIGCSETS
+- SIGCSE
+- sessions
+categories:
+- SIGCSE
+draft: false
+--- 
+
+To finish up, we'll look at some of the other sessions I attended but
+first a couple of notes.
+
+One thing I again noticed was the lack of pedagogy sessions. Maybe I
+missed something but other than Nifty Assignments, which isn't really
+about pedagogy and doesn't interest me much anymore I didn't see
+anything. This is nothing new but at least a couple of years ago we
+had "It seemed a like a good idea at the time" coordinated by Jim
+Huggins and Dan Garcia in all their pink suited glory and Colleen
+Lewis's "Micopedagogy" session (I hope I'm remembering the  name
+right). Jim and Dan's session wasn't purely about pedagogy but as it
+happened there was a good deal of it covered.
+
+That's a shame given that the higher ed teaching community could
+probably use it.
+
+The other was a format change. The paper sessions all had an
+additional paper per session which cut the time per paper down by a
+few minutes. I think the stated goal was to keep the number of
+accepted papers up and to minimize the number of parallel
+sessions. I'm not sure if it affected the # of parallel sessions in
+practice - there were fewer rooms but since moving from room to room
+mid paper is far from ideal I wonder if there was any benefit. In any
+event, I'm glad the organizing team is thinking about things like this
+and trying things to improve the conference.
+
+For this run through though, I think it led to some unevenness in
+presentation. Some sessions I went to, the speaker basically just
+covered their methodology barely speaking about the paper before
+running out of time. Another wasn't able to get to the methodology at
+all. I'm sure, assuming this time format remains the same, speakers
+will readjust so not a big deal, just something I noticed.
+
+I attended a couple of sessions that came back to the BOF and keynote
+theme I wrote about earlier - reforming and possibly simplifying the
+CS major. One speaker talked about how at his their institution they
+looked at prerequisite trees for both their CS major and CS minor and
+found a good deal of redundancy as well as superficial
+information. They found, for instance, that a course  might have one
+or two important topics for the CS student - say dot product for
+instance but the majority of the class had no relevance to the later
+CS classes. They also found redundancy in that one needed topic might
+be covered both in multiple prerequisite classes as well as in other
+required CS classes.
+
+I'm betting this is true for most CS programs across the country and
+I'm really glad that there seems to be more light being shed on it.
+
+This was followed by a session run by Richard of Regis University who
+looked at similar issues by proposing "10 wicked curricular issues."
+
+There were a few sessions on pedagogical topics but I wouldn't call
+them about pedagogy. A couple were on live coding. These were
+interesting because they were back to back and while one seemed to
+find that the live coding did result in improved student learning, the
+other did not. Just shows the complexity of education. Another session
+talked about algorithm classes and noted that classes and texts were
+taught from a mathy theoretical point of view and argued for a more
+experiential approach with students writing programs to implement
+algorithms and then make use of them. I was in agreement with the
+speaker and left wondering how correct he was in his premise. What's
+going on in algorithm classes out there? Are students just learning a
+catalog of Data Structures and Algorithms and proving runtimes or are
+instructors working to develop a problem solving sense with their
+students while exploring key known data structures and algorithms
+along the way?
+
+I attended a bunch of other sessions but for brevity I'll only share
+my thoughts on one more. The paper was "Why is my code slow?
+Efficiency bugs in student code."
+
+The paper and talk looked at what the speaker described as "efficiency
+bugs." Things like superfluous computations, suboptimal data
+structures or algorithms, caching or failing to do so. 
+
+The speaker used as an example, using a list to check for uniqueness
+of data rather than using a hash table or a set. It's actually very
+much in line with the mode lesson I taught at Stuy a couple of weeks ago.
+
+It seemed like the intervention was in the form of feedback on
+projects but it would be nice to weave these concepts so that they
+come up in lessons.
+
+So, that was my SIGCSETS 2025. Pittsburgh was a great host town - lots
+of food options close to the convention center and lots to explore for
+those of us who came early or stayed late.
+
+Next year is in St. Louis. Even though retired I'll probably head out
+to that one as well.
+
+
