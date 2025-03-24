@@ -1,0 +1,104 @@
+---
+title: CS For All or All for CS?
+date: 2025-03-24T07:34:31-04:00
+tags:
+- CS for All
+categories: 
+- CS for All
+draft: false
+---
+
+Is it CS for All or is it All for CS?
+
+CS for All, to me has always meant exposing all students to CS for two
+reasons. First, so that every student gains some understanding of CS
+and also so that some of those students might be inspired to go on and
+study more CS. For that basic understanding, that should include a few
+things - the way a CS person thinks and problem solves, what a CS
+person does or might do professionally, and also specific practical
+skills that students can employ regardless of what they pursue in the
+future - that is programming.
+
+Now, this isn't revolutionary, it's the same in other subjects. All
+students in the USA study Biology. If taught well, they learn a bit about what a
+biologist does, they learn the basics - how biology affects their
+lives, and perhaps some are inspired to go on to be doctors and
+scientists.
+
+Of course, subjects like History and English are a little different in
+emphasis but you get the idea.
+
+CS isn't special but a well educated student should have this exposure
+to lots of fields and CS is one of them.
+
+Mark Guzdial wrote a great [[https://computinged.wordpress.com/2025/03/23/an-alternative-model-for-k-12-computing-education-our-students-dont-need-a-sense-of-belonging-in-cs ][post]] relating to this, specifically that
+the emphasis should not be in the "Sense of Belonging in CS" but
+rather on using computing to support whatever students pursue later
+on. I won't rehash Mark's post as he already stated his case more
+eloquently than I could so just [[https://computinged.wordpress.com/2025/03/23/an-alternative-model-for-k-12-computing-education-our-students-dont-need-a-sense-of-belonging-in-cs/][click on through]] and read it. Shortly
+after Mark posted, Alfred Thompson added [[https://blog.acthompson.net/2025/03/should-k-12-cs-education-be-about.html ][his two cents]]. That's also
+worth a read.
+
+I thought I'd add a little myself. I won't rehash what they wrote but
+just add another wrinkle for thought. I will say I'm 100% in agreement
+with Mark's position.
+
+I had an epiphany on this around 1998 when I realized that I should be
+working on more than just the experiences for the top Stuy CS kids. 
+I've always referred to it as the 80% / 20% problem. The percentages
+are really all wrong, the 80% should be much higher and 20% much lower
+(though at Stuy, historically, the 80% was somewhat lower and the 20%
+higher).
+
+The idea that the majority of your students in a required CS class
+(the 80% or more) aren't going to go into a tech field and may or may
+not even take a more advanced CS class. The rest will take more
+classes but still may or may not go into the field. The Stuy numbers
+skew differently in part due to the fact that Stuy has always been
+considered a STEM school in spite of strong humanities and arts so the
+population probably already skews towards taking more CS.
+
+Anyway, the wrinkle I'll add is the teacher. I'm a strong believer in
+having a separate required CS class in High School to address the
+80/20 problem - the one required course for EVERYBODY and I think what
+we designed at Stuy has been very successful both in terms of what
+I've heard back from those that went into tech as well as those that
+went in other directions. In earlier grades, integrating CS or tech
+concepts could make more sense. Now, I'm not against more subject
+integration - that would be a great thing, I just don't see it as
+realistic given the current high school model.
+
+Given that model, teacher background and preference can have a great
+impact on what is taught. Sure, there might be a set curriculum but
+teacher impact is so much more important.
+
+I've met teachers who approach their class with the assumption that
+all their students are or will be subject majors. I was once speaking
+with a young, charismatic, popular, and effective chemistry teacher. I
+asked - how do you deal with the fact that the majority of your
+students won't do any more chemistry after your class? He said he
+didn't. His approach was that they were all going to be chemists. I've
+seen the same in other subjects.
+
+I have a friend who's been a high school math teacher for years. Super
+smart but was only effective with the high end math kids. We joked
+that he was the only teacher we knew teaching a graduate seminar in
+high school geometry. If he had the right students, it worked
+great. If not, well....
+
+If a teacher has this approach, then the 80% will likely get short
+shrift. On the other hand, if the teacher doesn't have any passion for
+the subject (or doesn't have sufficient knowledge as is frequently the
+case right now for CS teachers in K12) then the 20% get the short end
+of the stick whether the subject is Math, Chemistry, CS or anything
+else. I've even seen this with some English teachers who view High
+School English more like an advanced college literature course rather
+than a place to yes, work on literature but also a place where
+students learn to write and communicate.
+
+Whatever curricula, standards, frameworks, or guidelines the powers
+that be push down into the schools, the implementation on the street
+is going to rely on the teachers and their biases and preferences will
+do as much if not more to influence if we're "CS for All" or "All for CS."
+
+
