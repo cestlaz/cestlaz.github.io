@@ -1,0 +1,135 @@
+---
+title: The Daily Aim
+date: 2025-03-27T15:11:51-04:00
+tags:
+- pedagogy
+categories:
+- teaching
+draft: false
+--- 
+
+The other day I read Kristin Stephens-Martinez's latest [[https://ksm-csed.medium.com/helping-students-connect-the-dots-the-power-of-a-class-plan-slide-499659c0d120][blog post]]
+talking about how she has started to insert a daily plan slide at the
+front of her class slide decks.
+
+Stephens-Martinez, you might know, hosts the [[https://csedpodcast.org/][CS-Ed Podcast]] which I
+very much enjoy even if the episode lengths never quite go long enough
+for my morning run which is my primary podcast listening time.
+
+Here, the blog post talked about what Stephens-Martinez described as the
+"teaching practice" of creating a slide and putting it at the front of
+the daily class slide deck. The slide would describe via a short
+bullet list, the plan for the day so that students would have a
+road map for the lesson. 
+
+Not a bad idea but reading it I started thinking about a few things -
+one, the difference between teaching and teacher preparation in K12 vs
+college and also when a practice is considered a best practice and
+when one should implement any practice.
+
+For starters, the idea of using a set opening slide. It reminded me
+how often I hear college instructors talk about slides - can you share
+your class slides with me? Does the text come with slides? And so
+on. Some K12 teachers use slides and maybe in the current day of
+smartboards more teachers use them but I rarely if ever use slides and
+neither do most High School teachers I know. They're too
+restrictive. I might have some set text or some code or a diagram here
+or there to project so I will use occasional individual slides or
+similar projected content but I've never had or used a slide deck for
+a lesson.
+
+Slide decks constrain things too much. For the later slides to work, I
+have to follow the narrow instructional path of the earlier slides
+and, in an active lesson, hope that the class follows the same path at
+the appropriate pace.
+
+Much easier to adjust to the needs of a particular class on a
+particular day without a set deck.
+
+True, slides can save time and they have their place, but sometimes
+typing on a screen, drawing with a paint tool or doing either directly
+on a white board make more sense. So too at times does having students
+transcribe as opposed grabbing the slides from the website
+later. Doing things in these varied ways engage students differently
+and can be utilized to tune the cadence and tempo of a class -
+something that educators should probably think about more than most
+do.
+
+The slides/no slides difference probably comes from the history of how
+things were taught. Although I'm I'm heartened to see more and
+more professors, including Stephens-Martinez who really care about and
+work on their teaching, anecdotally at least , college instruction
+grew out of the rote lecture. While I'm sure old school HS
+teaching was and sometimes is like this, K12 education as a whole is
+also influenced a lot by the earlier grades and how things were taught
+there with more interactive and active practices which, in my lifetime
+have become relatively mainstream in HS. So, coming out of a tradition
+of lecture, slides make sense. Coming out of training that also
+includes K-8, not nearly as much. Of course this is just
+conjecture.
+
+Now, to the actual practice. It struck me as something that, in
+general is a good idea and it also reminded me of the age old HS
+practice of the *Aim*. That is, either before class, or within the first
+few minutes of class, a teacher is supposed to have on the board, or
+possibly elicit from the class, a sentence that describes what the
+class period would be spent on. Typically top front and center on a HS
+blackboard (do they even still have those?) you'd see the word *Aim:*
+followed by that key sentence.
+
+Very similar idea.
+
+I was happy to see the post sharing the practice but was also a bit
+sad that this fundamental technique, something maybe taught to every K12
+teaching in America and probably something most American educated
+adults saw during their high school days isn't common knowledge for
+college instructors. Of course, that's nothing new. Every SIGCSE I've
+been do has been chock-full of "new" practices that a college person
+came up with that I had seen in K12 years if not decades earlier.
+
+So, the ideas are similar but subtly different. The lead slide can
+contain more information and as shown in the blog post, a checklist
+that can be updated and the slide reused. This is good. On the other
+hand, the slide only stays up for a short time unless explicitly
+returned to. On the other hand the Aim stays up at the top of the
+board for the entire lesson. Less information but an anchor point that
+survives through the entire class.
+
+Now, I said that the Aim or in this case, slide, is generally a good
+idea but I'd argue not always, and not just because I could be sloppy
+as a teacher and would sometimes forget the aim. In fact, one time, my
+principal wrote it up as one of the things I could improve on. The
+thing is, I'm a believer that there are no best practices, just
+practices that can be good, bad, or even great when used in the write
+time in the right way with the right population. Having an Aim or
+intro slide is easy and you'll generally get good bang for you
+buck.
+
+Sometimes, though, you don't want to give away the punchline and
+telling the students the plan can do just that. As a simple example,
+let's say you're about to teach binary search. Typically I'd want to
+lead the students towards the algorithm, first by having them
+"discover" the possible limitations and advantages of linear search
+and then "discover" the binary search as a solution. In this case, an
+Aim or Slide that describes the why and what of the lesson would spoil
+the lesson. Sure, you can still have a meaningful Aim but not
+something that gives away the plan.
+
+There are lots of lessons where this is the case.
+
+I'd like to think that the teachers that have come through the program
+I built at Hunter get this - they know all these practices and
+techniques form a belt full of tools to be used as appropriate. On the
+other hand, I've seen far too many K12 teachers who weren't given the
+tool belt and tools but were rather taught "Here's how to do it" and
+they would always have an Aim or teach via a particular practice no
+matter what. Of course, too few college instructors get any form of
+preparation in terms of teaching so they're left in an even less
+desirable place.
+
+So, that's my take.
+
+I applaud Kristin Stephens-Martinez for helping to share better
+teaching practices at the college level through both her blog and the
+CS-ed podcast. In this day and age with fewer and fewer of us CS
+Educators blogging it's read and hear more voices sharing good stuff.
