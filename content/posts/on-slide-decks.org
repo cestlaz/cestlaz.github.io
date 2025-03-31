@@ -1,0 +1,195 @@
+---
+title: On Slide Decks
+date: 2025-03-29T11:48:52-04:00
+tags:
+- pedagogy
+categories:
+- teaching
+draft: false
+--- 
+
+Based on some of the feedback I got on my [[https://cestlaz.zamansky.net/posts/daily-aim/][last post]], I thought I'd
+dive a little deeper on using slide decks.
+
+I had some people tell me that they too found that slide decks didn't
+work for them while others shared that they use them regularly. Still
+others shared how they specifically used them.
+
+Now, as I said, they don't work for me. Sorry if I wasn't clear. I
+didn't mean that they never worked or didn't work for anybody. The
+important thing is that slides or complete slide decks are tools and
+can be used for good or for ill. What's important is that a teacher is
+intentional about the practices they use and use the right tool in the
+right way at the right time.
+
+
+There are ways that slides can be horrible. If they accompany a one
+directional old school lecture with no active learning going on. If
+they convey enough information so that students zone out because they
+can just get the slides later but then realize that the slides aren't
+nearly enough on their own or when slides drive the direction and pace
+of the lesson as opposed to the actual class situation.
+
+On the other hand slides can be effective - they can be a time saver
+if you want to bring up say, a definition or long quote as an example
+and indeed I've seen some slide decks that form the basis of excellent
+reference materials. They can also provide a focal point for both
+students and instructors. 
+
+Of course just about any practice can be good or bad. A few years ago
+before the pendulum started swinging back, discovery learning was all
+the rage, of course everyone ignored the difficulties in setting up a
+strong discovery learning experience and just told teachers they
+should do all discovery all the time. To them, since I was tenured and
+in general have an irreverent streak when it comes to superiors I'd
+say things like "well, in the history of mankind only two people
+discovery-learned calculus" or something similar.
+
+Well, as a practice, doing a discovery lesson where the experience
+isn't sufficiently set up and scaffolded and the students not
+sufficiently prepared can be disastrous. In fact, I'd go as far as to
+say that a bad lecture can be better than a bad discovery based
+lesson.
+
+Now to get back to slides, I should probably share where I'm coming
+from. I started teaching in the early 90s. The only slides you could
+use were old school overhead projector slides. You also probably had
+to hand write them. I guess professors at the college level could
+print them but high schools just didn't have those fancy
+resources. I had a couple of math colleagues who made heavy use of
+slides but more by using the overhead as a marker based board and
+wrote on the pages live.
+
+When I started teaching CS, I was in a traditional classroom with a
+chalkboard. We only went in to the computer lab when the kids were
+programming. I could deliver instruction in the computer lab - it even
+had a VGA overhead projector that wasn't all that terrible but
+teaching in the computer lab was less than ideal - there was no room
+on the desks for students to work between the large computers, big CRT
+monitors and keyboards and the sight lines were awful. When we were
+dumped into the computer labs to teach full time, at least we were
+allowed to rearrange the room to make it better and flatscreen
+monitors have made a huge difference for desk space.
+
+Looking back, our greatest tech was that graph maker thing. For you
+youngsters, it was like a projector screen that you pulled down in
+front of a chalkboard. It had a grid of holes in it. You'd go over the
+whole surface with a dusty eraser which would let the chalk dust
+through the holes. Pull up the screen and you ended up with a
+perforated grid on the board - instant graph. Pretty cool tech.
+
+So, I came up as a teacher without slides.
+
+Now, younger teachers have shared with me what they like about
+slides.
+
+A recurring theme was that it meant that there was something to give a
+student who missed class. This can be a benefit, particularly if the
+slides are enough to catch the student up. I'm guessing that usually,
+they can help but hopefully they aren't enough. Why hopefully? Well,
+if a student can get the full value of the lesson by merely reading
+through the slides then how much value is the teacher bringing to the
+class. I think more often the slides can provide some information but
+that absent student will still have to do some extra to catch
+up.
+
+So what did I do without slides? Well, back in the day, students took
+notes so I paired the absent student with a present one who had good
+notes. Often at Stuy the absent kid would take it upon them self to do
+this with or for a friend.
+
+I also know that instructors often share slides with other
+instructors. This seems bigger at the college level. Well, we used to
+share lesson plans. It wasn't uncommon for a teacher to have a book of
+lesson plans for a semester or a folder or something similar. The
+first time I taught linear algebra, I borrowed the lesson plans from a
+colleague. These were likely far better than slides unless the slides
+had copious presenter notes.
+
+I've also had people tell me that they use slides to present prompts,
+key questions, and things like code snippets.
+
+Using them this way sounds great to me. I don't do that with slides
+but I'd have code snippets ready in an Emacs buffer and key questions
+written in my lesson plans. Sounds like a good use of slides but it's
+also something that can be accomplished without slides.
+
+When you cut away the chaff, most of the people who told me they liked
+slides basically seem to be using them as visible lesson plans with
+time saver materials. Sounds good to me, but personally I think I'm more
+effective without them. At times, I like the idea of instantly
+bringing up a quote or a definition or a prompt but I like the pacing
+I get sometimes when writing it out or when I have students actually
+copy something down. It's a different type of engagement.
+
+Besides, for me the slides would be too constraining. I've frequently
+likened teaching to rap or stand up comedy. You've got your core
+material (the lesson or the main lyrics or routine), you're catch
+phrases or go to lines (I don't get no respect, or "put your hands in
+the air like you just don't care"), and then the improv stuff. For me,
+if I had detailed slides, I know that it would keep me from the improv
+stuff which includes riffing off discussion and yes, at times
+tangents. I think my lessons would lose a lot of whatever richness
+would normally be there.
+
+That's just me.
+
+That brings up another issue in terms of "best practices." Too often
+the "experts" and "thought leaders" who force "the research" upon us
+hit us with a one size fits all. When I started, everyone had to use
+discovery learning (not to be confused with group work or other
+similar practices). A while later, discovery became the rage. More
+recently, although not being touted as the be all and end all, direct
+instruction has been making a comeback, albeit with active learning. If you
+didn't teach using the chosen method, you were "ineffective"
+regardless of how good you actually were.
+
+The truth is, there are multiple things that go into a practice being
+effective. Obviously the students in a particular class. The specific
+topic also comes into play. All sorts of other school factors also
+have to be considered - class size, composition, even time of day and
+what else is going on within the kids schedules.
+
+On top of all of those though is the one factor that is almost always
+left out - the teacher. Most teachers have their own strengths and
+weaknesses and also our preferences.
+
+If an effective teacher leans
+towards direct instruction with slides, then all things being equal,
+that will likely be one of their more effective practices more often
+than not. Sure, there will be times to mix in other practices and
+there might even be classes where using a whole other practice would
+be better for the majority of lessons but the "all things equal"
+default probably should lean towards a teachers strength, providing
+that that strength can be a good practice.
+
+For example, I'm not a cooperative learning guy. Sure, I've done it -
+I've set up the roles, prepared the materials, and employed the
+practice but it was never my strength and at the end of the day, other
+than as a change of pace, my students didn't enjoy my cooperative
+learning lessons as much as my other lessons.
+
+Contrast that to one of my mentor teachers who was all cooperative all
+the time. Cooperative learning went over way better for him but if he
+tried to teach like me, it didn't take.
+
+At the end of the day we were both well respected, well liked, and got
+good results but ended up leaning on different practices to get there.
+
+Closing up, I'll also give one more reason why I don't do slide decks
+and that's pure laziness. Even when I teach a class over year after
+year, each class is a little different so I rethink my lesson plans
+and make new notes. Sure, the lessons are largely similar so the
+lesson plans are mostly the same but some details always change.
+
+If I used slides, I'd have to revise them or remake them every time
+through and I'm not nearly organized enough to do this. I'm far
+too lazy. 
+
+So, that's it - slide decks - not for me but for others they can be
+effective when used well.
+
+Sorry if my last post implied otherwise 
+
+
+
