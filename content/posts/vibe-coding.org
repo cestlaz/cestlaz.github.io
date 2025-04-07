@@ -1,0 +1,161 @@
+---
+title: Vibe coding doesn't jibe
+date: 2025-04-07T15:09:29-04:00
+tags:
+- AI
+- Pedagogy
+categories:
+- AI
+draft: false
+---
+
+The truth is, I don't use those modern AI tools much. I'm not doing
+much coding and when I do, I've been using Clojure or Elisp - not so
+mainstream so as to have all sorts of AI support. For writing? I
+prefer do to it myself. Anything else? Well, to be honest, there's not
+too much going on in my life where I feel like AI will improve
+things. Maybe if I were writing important business emails or I was
+cranking out tons of boilerplate code for a company but as a retiree
+just working on personal projects, I just don't see the need.
+
+In any event, this newfangled Vibe Coding thing caught my attention.
+
+The idea is that you have AI generate a programmed application from
+repeated prompts. I'm not going to say you're programming or coding via AI
+because you're not but more on that in a bit.
+
+You prompt an AI code generator to write something. If it works,
+great, if not, restate the prompt or give the next prompt to address
+the issue. Whatever the AI comes up with, accept it. If the solution
+works, you're done, if not, rinse and repeat.
+
+Apparently the Vibe Coding label and hype got a big push when Andrej
+Karpathy tweeted this:
+
+#+begin_quote
+
+There’s a new kind of coding I call “vibe coding”, where you
+fully give in to the vibes, embrace exponentials, and forget that the
+code even exists. It’s possible because the LLMs (e.g. Cursor Composer
+w Sonnet) are getting too good.
+
+Also I just talk to Composer with SuperWhisper so I barely even touch
+the keyboard. I ask for the dumbest things like “decrease the padding
+on the sidebar by half” because I’m too lazy to find it. I “Accept
+All” always, I don’t read the diffs anymore.
+
+When I get error messages I just copy paste them in with no comment,
+usually that fixes it. The code grows beyond my usual comprehension,
+I’d have to really read through it for a while.
+
+Sometimes the LLMs can’t fix a bug so I just work around it or ask for
+random changes until it goes away. It’s not too bad for throwaway
+weekend projects, but still quite amusing.
+
+I’m building a project or webapp, but it’s not really coding – I just
+see stuff, say stuff, run stuff, and copy paste stuff, and it mostly
+works.
+#+end_quote>
+
+Now, in the past couple of weeks, I've seen a number of examples of
+vibe coding, testimonials about it and, to me the one I really want to
+address, people floating that it's something we should be teaching, at
+times, as a valid coding technique. 
+
+Reading the start of Karpathy's tweet, it sounds like he's pretty
+excited but reading the end we get "It's not too bad for throwaway
+weekend projects" and "it's not real coding." It appears some people
+are forgetting those parts.
+
+The first time I saw vibe coding - prior to my knowing the term was
+when watching a YouTube video. The author was showing how to do
+something, I forget what and then said he coded up a script to help
+along the way. Then he said he didn't actually code it but used
+AI. He then did give the disclaimer that he really didn't know how the
+script worked and would have been reluctant to use it if the task at
+hand was actually a really important one.
+
+That raised a big point - with Vibe Coding, the human prompting the AI
+might have no understanding of the solution. This means they won't be
+able to customize it and more importantly, won't be able to audit the
+code to make sure something bad isn't happening.
+
+Do we want a vibe coded banking application? How about a vibe coding
+insurance claims approval system. Don't even think about a vibe coded
+surgical assistant. How about military control stuff? I mean the WOPR
+was bad enough with Falken writing the code. Imagine if it were Vibe
+Coded.
+
+This means that while vibe coding can be useful for a quick prototype
+or proof of concept, it's going to be extremely dangerous to actually
+rely on Vibe Coded solutions.
+
+Of course, this is America where common sense and prudence always
+takes a back seat to the dollar so I wouldn't be surprised to see
+attempts at Vibe Coded "solutions." Particularly if it can be set up
+so that the customer and common man gets screwed by any issues and not
+the business that rolled out the problematic code.
+
+The other thing I keep seeing with Vibe Code is that the examples
+people show are variations on well known themes  - an ecommerce site,
+Tetris, or something else familiar with tons of pre-coded solutions
+out there. This makes sense given the way AI works. It can do a
+reasonable job at generating variations on a theme - remix the
+existing stuff. Let's see about Vibe coding something brand new.
+
+In any event, for prototyping I could see a big win but I'm pretty
+sure Vibe coding will be used in lots of places where it
+shouldn't. For now, I'm placing Vibe Coding in the same category as
+other AI coding assists - helpful and maybe even extremely helpful for
+real developers. Also helpful for non-coders at the prototyping or toy
+level but I'm not seeing the end of the human software developer in
+the near future.
+
+But now let's look at the education side.
+
+I've already heard the praises for Vibe Coding on the education side -
+you can create without knowing a line of code (or even that it is
+coding) and that it's empowering,
+
+You can create without knowing a line of code, I guess, but create in
+a way that reminded me of something I think Mitch Resnick said at this
+past SIGCSE - "Do you want your kid to learn to play Guitar Hero or do
+you want them to learn to play guitar?" If they Vibe code a solution
+what are they really learning? Sure, there's a lot of mundane, nitty
+gritty code stuff that's annoying to teach and learn about coding but
+that comes along with things like problem solving, dealing with
+complexity, and yes, even dealing with the details.
+
+Vibe coding, like other AI techniques can be tremendous time savers
+for people who already know but if they're used too much like a crutch
+before people know, then they'll never learn.
+
+Look at math. Sure, we use calculators but does that mean there's no
+value to learning basic numeracy, number facts and operations? Sure,
+we don't have to do them super fast, nor memorize all the times tables
+but there was absolute value to learning the basics and only then
+going to the calculator.
+
+We now have all sorts of mathematical problem solving tools. Does that
+mean there's no value in learning algebra? While there are many who
+would say that there are a lot of specifics in an algebra class that
+maybe isn't so important, anyone being honest with themselves will
+agree that there's also a lot of fundamental problem solving that's
+learned through taking algebra.
+
+If someone just learns to Vibe Code, it's just like hiring a bad
+software engineer - telling them what to build, and when they come
+back with an error, not being able to help fix it but basically
+guessing at some other prompt.
+
+So in my opinion, you're not really creating with Vibe Coding - you're
+asking something else to create for you and it's not empowering for a
+student because the student isn't growing as a result of using the
+tool.
+
+Could Vibe Coding be used successfully in an educational environment?
+Sure. Particularly when it comes to prototyping but that's for later.
+
+For those intro levels, let's not teach Guitar Hero, let's teach
+guitar.
+
