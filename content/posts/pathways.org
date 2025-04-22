@@ -1,0 +1,125 @@
+---
+title: How many roads for intro CS
+date: 2025-04-22T17:33:21-04:00
+tags:
+- curriculum
+- CSforAll
+categories:
+- curriculum
+draft: false
+--- 
+
+How many different intro CS courses should we have? A question that
+resurfaces periodically. This time due to an [[https://stanforddaily.com/2025/04/15/stroustrup-reimagines-coding-teaching/][article]] in which C++
+creator Bjarne Stroustrup posits that different audiences would
+benefit from a different intro treatment for CS. Perennial CS Blogger
+and friend Alfred Thompson shared his thoughts on the subject [[https://blog.acthompson.net/2025/04/different-high-school-computer-science.html][here]].
+
+The thought is that someone who's going into academic CS needs one
+thing, a software engineer another, a non CS person who could benefit
+from some programming within their field something else.
+
+A person looking towards a PhD in CS might need more theory than say a
+Software Engineer, although, I agree with Alfred in that Software
+Engineers benefit from more in terms of data structures and algorithms
+than say what a coding bootcamp provides.
+
+On the other side, a non CS major could benefit from a more end user
+programming course that leans heavily on libraries along with a data
+analysis or statistical bent. 
+
+Seems to make sense. 
+
+Stroustrup was talking about college offerings but Alfred, in his post
+brings it to the high school level and notes that while a college may
+or may not have the resources to offer multiple intro CS classes, high
+schools likely won't. He also talks about how APCS Principles could or
+maybe even should be the single intro course.
+
+I agree with Alfred - high school's don't have the resources to offer
+multiple pathways and I'll go further and say that in High School, I
+think a single intro course, which should be required is preferable so
+long as its well designed and well taught.
+
+In college a student might already know their desired path so should
+be able to chose a CS class that matches that path. There should also
+be a more general CS0 for kids who haven't decided yet.
+
+High School isn't about picking a major, it's about, among other things, creating a well
+educated populace. As such, students should be introduced to a variety
+of fields and CS should be one of them. Now, some readers will be
+adamantly against this and say that CS shouldn't be required. Well, as
+long as they think math, biology, history, English and the rest
+shouldn't be required then I guess that's a fair position. Otherwise,
+why is CS a less important field?
+
+Now, of course, the quality of the course becomes important. It
+shouldn't be a deep dive programming course that only a computer
+scientist would love, that is APCS-A or similar. It should have a
+programming component and should introduce students into various CS
+fields and how a computer scientist thinks. It should also show how
+CS interacts and is useful in other subject areas and how CS and
+technology are important in society. All that good stuff.
+
+Can this be done? Sure - Stuy's one semester intro course does a
+pretty good job at it and their full year version does an excellent
+one.
+
+I don't think, however, that APCS Principles should be the answer. It
+likely will be the answer because it has the College Board and all the
+other big players behind it and as the saying goes "nobody ever got
+fired for hiring IBM" but it shouldn't be.
+
+The course, whatever it is also has to be taught by a very
+knowledgeable teacher and frequently this isn't the case.
+
+Now, why don't I think it should be APCS Principles, let me tell you
+what I've observed over the past decade.
+
+What I've observed can be attributed to the course, the teacher, or
+maybe both.
+
+I ran an honors CS program at Hunter College and every year I admitted a
+new cohort. From my third year on I accepted about 50 kids per
+cohort. For each incoming class, I placed them based on their APCS
+experience. If a kid took APCS-A, regardless of class grade or AP
+score, I placed them in to my CS1 class - similar material but in
+C++ and they all did great. The rest went in to my CS0. The majority of the kids who went to
+CS0 had taken APCS Principles in high school and almost all had gotten
+a 5 on the exam.
+
+The truth of the matter is that the  majority of my students who took
+and passed APCS-P would have been better off with nothing. A small
+number each year were decently prepared, either from their APCS-P
+class or elsewhere - they had some fundamental programming experience,
+understood some of the "big issues" and had some general exposure to
+CS. The majority of those kids who had APCS-P, however didn't and in
+some cases had acquired bad habits and faulty knowledge.
+
+Was this the fault of the course or the teacher? Maybe a little of
+both. I actually don't want to blame the teacher per se here - they're
+frequently placed in a rough situation - they don't know the subject
+and are trying to do right by their students, but their preparation -
+PD from the NYC DOE, Code.org, and others has been woefully
+insufficient.
+
+Now, a well prepared, knowledgeable CS teacher can turn APCS-P into a
+good course - that was evident when I saw the few well prepared kids -
+each year coming from the same schools with the same teachers. The
+Stuy intro course could in fact be easily adapted to be a superset of
+APCS-P.  On the other hand, APCS-P can be a wasted year in spite of a
+kid "earning" a 5.
+
+So what are we left with? While we've come a long way in terms of CS
+offerings there's still a long way to go. We're currently not doing a
+good job across our states to find and prepare the number of qualified
+CS teachers that we need. We're doing a better job with offerings but
+offerings without great teachers isn't the answer.
+
+We need to keep pushing on promoting the good rigorous teacher
+preparation programs out there and call out the ones that are
+fluff. We've got to keep pushing for a required CS class in the high
+school. It should be a single general course for everyone but, finally
+getting back to the original issue, it should prepare students so that
+they can take a follow up CS class appropriate to their interests when
+in college. 
