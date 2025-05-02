@@ -1,0 +1,111 @@
+---
+title: Better teachers - CS teachers without CS or Math teachers with math
+date: 2025-05-02T15:12:41-04:00
+tags:
+- teaching
+categories:
+- teaching
+draft: false
+---
+
+[[https://news.illinois.edu/computer-science-teachers-may-be-better-qualified-than-their-peers/][This]] article made its rounds this past week.
+
+It cites a couple of papers claiming that CS teachers are delivering
+better instruction and might be better qualified than teachers in
+other subject areas. This is in spite of the fact that CS teachers
+generally have a generally weak background in CS as well as in CS
+related pedagogy compared to teachers of other more well established
+subjects.
+
+The papers forming the basis for the article were written by [[https://education.illinois.edu/profile/paul-bruno][Paul
+Bruno]] a professor of Education Policy, Organization and Leadership
+
+From the article, a key measure in determining the results in the
+papers related to the number of students taking AP exams. Those
+results indicated that "When computer science instructors had an
+additional year of experience teaching that subject, their students
+were more likely to take the advanced placement exam, and they also
+scored slightly higher."
+
+After making that statement, the article quotes from Bruno:
+
+#+begin_quote
+“Even when veteran teachers lack formal experience with or
+specialized training in computer science, they may have other
+attributes that make them effective instructors,” Bruno
+said. “Staffing these courses with veteran teachers may be a
+reasonable way for schools to expand their computer science curricula,
+when recruiting faculty who have specialized training in this subject
+is challenging.”
+#+end_quote
+
+Unfortunately, I don't have access to Bruno's papers but I find this
+last quote troublesome and take issue with the article. I do want to
+emphasize however that I'm just talking about the article on the
+papers, I can't comment on what the papers actually did or didn't say.
+
+The thing is comparing high school CS, and in particular AP scores is
+an apples and oranges comparison. You just can't meaningfully do it.
+
+Are we talking about APCS Principles or APCS-A? APCS-A is a college
+level course. APCS-P is a high school course that can be handled by a
+typical 10th grader.
+
+I doubt a teacher without a decent CS background is doing a great job
+in APCS-A but regardless, I know students who've passed the APCS-A
+exam by using canned curricula  - something that, to my knowledge
+isn't done in other subjects like Calculus, AP-Bio or APUSH.
+
+If APCS-P is the class in question, then it's really apples and
+oranges. AP-Bio - college level - you take it after Bio and
+Chemistry. AP-Calculus - college level - you take it after you've
+taken all the other high school math classes.
+
+APCS-P - no prerequisites and as I mentioned in my [[https://cestlaz.zamansky.net/posts/pathways/][last post]], Over my
+8 years at Hunter College, I've seen far too many students who've
+gotten a 5 in APCS-P who really didn't learn anything (however, all
+these students were very bright and hard working and generally did
+very well in my CS0 class and then beyond).
+
+I'm pretty sure you can't get a 3, let alone a 5 in AP Calculus
+without actually knowing any Calculus.
+
+So how can you compare? A teacher can't do well teaching Calculus
+unless they know Calculus but APCS-P is set up so that a student can
+indeed get a passing exam grade without really learning anything.
+
+I'm sure that last sentence will ruffle some feathers but that's what
+I've seen looking over 6 cohorts of around 25 students each year. I'll
+go further and say that while i didn't track the numbers, there were
+numerous applicants to my program with passing APCS-AP scores who
+struggled with classes like Geometry.
+
+You can't compare an APCS-P score with any other AP score.
+
+APCS-P is also promoted as an AP you can take without any
+prerequisites and there's been a HUGE CS push over the last
+decade. Compare that to AP-Bio where only students interested in
+pursuing Bio typically take the class. AP Calculus is more regularly
+taken but it's seen as "the next" math class so it's also different -
+can't take that until you finish all the other math classes.
+
+I'd love to see Bruno's actual work - he may very well account for all
+of these things but K12 computer science is already plagued with too
+much "you don't need to know CS to teach CS" so while withholding
+judgment on the source material I'm giving the article two thumbs
+down.
+
+
+
+
+
+
+2024
+Calc - over 550,000
+APush 250000
+AP Euro  83000
+Bio 260,000
+APCSA 98,136
+
+APCSP 175,261
+
