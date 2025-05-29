@@ -1,0 +1,104 @@
+---
+title: CUNY Pitchfest 2025
+date: 2025-05-29T12:07:53-04:00
+tags:
+- tech community
+- NY Tech 
+categories:
+- NY Tech
+draft: false
+---
+
+Although retired, I'm trying to keep some skin in the game. An
+opportunity to do that came up back in mid march when my friend Aankit
+Patel reached out to me. I've known Aankit since he ran CSforAll for the
+NYC Department of Education but now he's the University Dean for Tech
+and Computer and Info Sciences at CUNY. Aankit told me he had some
+extra funds to run an event and asked if I wanted to organize and run
+a hackathon for CUNY students.
+
+I said no.
+
+Too many moving parts and not enough time to put one together from mid
+March to end of May. I also figured that students wouldn't have time
+or interest so close to or right after finals.
+
+Instead, I pitched, well, Pitchfest. 
+
+I took a page from Cristina Dolan's book. Cristina created a
+College and High School tech event "Dream it. Code it. Win it." that
+ran for a couple of years around a decade ago. The idea was that student teams submitted
+programs that they had already written to the event. At DiCiWi,
+winners were announced ahead of time and the event was an awards
+ceremony where there was a guest speaker, some project videos were
+shown, awards were given and a reception followed.
+
+Pitchfest borrowed the "enter a project you already wrote" part but
+the event itself was very different.
+
+On the surface, teams and individuals submitted projects that they had
+already completed - from a hackathon, a course like a capstone, or
+just a personal project. At Pitchfest, accepted groups were set up at
+different tables and over a series of rounds, showed off their work to
+tech professionals who then provided feedback.
+
+To be honest, the actual pitches and project specific feedback was
+secondary. The real intent of the evening was to get the CUNY students
+talking with both a bunch of tech professionals as well as each
+other. To, yes, get feedback, but also inspiration and general
+guidance and to build their network. As one of our tech volunteers
+said, the goal wasn't really to improve and build the projects but
+rather to improve and build the participants.
+
+Of course, in order to make this all happen, I had to come up with
+sufficient tech professionals so that each project would have at least
+one pro with them for each round. Since we had 45 participants split
+into 18 teams, it meant I needed at least 18 tech pros circulating.
+
+Fortunately, and this is something I'm always appreciative of, my
+former students - my StuyCS family and my Hunter Daedalus family came
+through as usual and big time. We had around 25 volunteers plus a
+bunch more who said they could come if needed but had tight schedules.
+
+We had a great range - recent grads to people with over ten and even
+over 20 years of experience. Software engineers, product managers,
+entrepreneurs, investors, people at small startups and people at tech
+giants. It was a terrific mix.
+
+It's also worth noting that there was an extra benefit to having both
+my Hunter College students as some of the volunteers as well as a few
+of my StuyCS volunteers who had also attended a CUNY college - those
+students were all living proof that you can do amazingly well coming
+from New York's public schools and a few of my volunteers noted that
+they felt that their being CUNY products made an even bigger positive
+impact on the participants. 
+
+The evening went great - we had four rounds at the tables followed by
+three short demos and then open mixing and networking.
+
+I'm just starting to get feedback from the professionals and the
+participants but initial reports are extremely positive. The
+participants got a lot out of the event and made new connections. One
+of my former students just sent me an email to tell me that they
+invited a couple of the participating teams to their offices to meet
+with their engineering teams.
+
+Overall I think the event was a big win.
+
+The thing that's sticking with me now the next day is my former
+student's comment about building the participants not the
+projects. This event was promoted as being about the projects but it
+was really about networking, building relationships, interacting with
+people in the tech community and in fact learning that you belong in
+that community. It's something I've long focused on when I set up
+programs and events.
+
+We ran this one because Aankit had some extra funds. To do it again
+and moving forward we're going to have to find some company willing to
+sponsor. Hopefully that won't be too big of a challenge or ask.
+
+
+
+
+
+
