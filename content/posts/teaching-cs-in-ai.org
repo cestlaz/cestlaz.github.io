@@ -1,0 +1,120 @@
+---
+title: Teaching CS in the Age of AI - my two cents
+date: 2025-07-01T07:50:50-04:00
+tags:
+- AI
+- teaching 
+categories:
+- teaching
+draft: false
+--- 
+
+
+Saw [[https://archive.ph/Jwd7m][this]] article in the New York Times yesterday. It's been making its
+rounds. There was some discussion in some of the CS Ed related online
+groups, my friend Alfred Thompson posted his take [[https://blog.acthompson.net/2025/06/teaching-computer-science-in-age-of.html][here]], and when my
+daughter, a professional SWE at Meta for close to a decade came over
+for dinner yesterday, she brought it up.
+
+I haven't posted in a while so I figured I'd add my two cents.
+
+The gist of the article is that with recent AI advancements, CS
+Education has to change.AI tools could make
+programming a less needed or at least a less in demand skill, students
+can lean on AI tools to complete class assignments, and tech companies
+are hiring less and looking for more and more experience in entry
+level.
+
+Looking at the industry sign, things look bleak. It's hard out
+there. The NY Times article says that "many students say they send out
+100 to 200 applications" which sounds crazy but really, even in the
+good times, many applicants, particularly if you didn't go to CMU or
+MIT which only accepts students they deem to be premade for success
+and then the school's reputations carry them to jobs, you were already
+sending out that many resumes.
+
+It sucked then and it sucks now.
+
+It's a broken system but it's been broken for a long time.
+
+Of course, I'm not arguing that jobs are less plentiful now, they are
+but I suspect that things will correct in time. Alfred seems to share
+my beliefs here, or at least questions if this downturn will remain.
+
+AI is great for taking what's already in the corpus of existing code,
+mashing it together, and spitting it back. The result is that it can
+save a lot of time for a seasoned programmer who can prompt the AI
+effectively and then take the results, debug it, and then adapt it to
+their needs .
+
+Someone with no programming experience can't do that. I'm also
+skeptical of AI's ability to generate new and innovative solutions.
+
+A friend of mine recently described relying on AI for code is like
+relying on a drunk grad students. That got a chuckle but there's some
+truth there. Hiring a drunk grad student as an engineer and blindly
+relying on them is probably not a good idea but having a talented
+drunk grad student on staff can, if used correctly make your company
+or team more productive.
+
+On the industry side, another point that my daughter brought up is
+that companies still want mid level and upper level software
+engineers. If they're not hiring any entry level people, how will
+those mid level and upper level engineers ever come to be? Colleges
+have enough challenges making entry level engineers.
+
+My take is that at some point, tech companies will realize that they
+still need entry level software engineers. They might need fewer or
+they might need them in different capacities, but they'll still be
+needed. Meanwhile, they'll refine how they use AI - tools to assist
+their software engineers, tools to allow their non-programmers to get
+some programming done in non critical areas, and to support other
+business efforts.
+
+Sure, it won't be like the days when every two bit code school could
+place a "grad" with 3 months of Ruby on Rails experience into a super
+high paying job but kids with a strong background who are passionate
+about the field will still be in demand.
+
+On the teaching side, sure, there will be changes. The NYT article
+talks about changes CMU has experimented with. They allowed AI in
+intro courses but then realized that students didn't really understand
+or learn what they were supposed to learn.
+
+This is going to be a tricky thing to adapt to but nothing new. It's
+not really different than a student in a math class going to a teacher
+or professor for help, having the teacher go through a problem or
+proof and the student honestly thinking they understood things. Later,
+when they got home or on the exam, they realized they could follow the
+teacher but they didn't really understand the solution.
+
+Now, some instructors understand this gap and work to teach students
+at a deeper level, some don't. AI is the same but we don't have
+self-aware AIs that can make the decision to try to do better.
+
+It's also like when calculators came in. Teachers adapted, things were
+lost, but also things were gained.
+
+It's going to take probably a few years but if they're allowed to,
+teachers and professors will figure it out. I saw a video the other
+day from a writing professor. He was talking about the process he's
+been going through to adapt to AI. The same will happen in CS.
+
+Well, not universally. Some places will stick to the old ways. I mean,
+many places or at least CS profs still do things like they did 20 or
+30 years ago which was bad then and is bad now. Some will follow the
+mainstream - what's dictated, say, in K12 by the College Board. I'm
+anticipating that will be mediocre at best.
+
+Still, others will actually come up with wonderful ideas and they'll
+implement them.
+
+It'll be a mixed bag but it won't be different than other innovations
+or other subject areas. It just seems a little scarier now because the
+changes have come so rapidly and from all sides - the students, the
+schools, and the world the students are graduating into.
+
+
+
+
+
