@@ -1,0 +1,114 @@
+---
+title: CSTA 2025 Part 1 - overview and keynotes
+date: 2025-07-13T19:14:10-04:00
+tags:
+- CSTA
+categories:
+- CSTA
+draft: false
+--- 
+
+Just got back from CSTA 2025. Well, not directly. Last Monday Devorah
+and I got in the car and drove to Cleveland for the
+festivities. Unfortunately, we couldn't stay for the duration - I had
+to miss Friday so we could drive down to Lancaster to meet the kids
+for our annual [[https://cherrycrestfarm.com/things-to-do/corn-maze/][corn maze]] weekend. Drove back to NY today.
+
+That means it's time for my annual recap of the Computer Science
+Teachers Association's annual conference.
+
+Last year was in Vegas, this year Cleveland - a much better
+destination as far as I'm concerned but I'll talk about the city in
+the last post in the series.
+
+The TL;DR is that if you're a K12 CS teacher, you should really try to
+attend. The conference has just gotten better year after year and
+there's something for everyone - from CS newbie to industry pro turned
+teacher, from first year to 20+ year vet, from K all the way up to 12.
+
+That said, to me, it's always been more of a people conference than a
+session conference. While I've always found some good sessions, it's
+been more about the people. Maybe that's because I probably don't fit
+the profile of the majority of attendees but that's fine, I still get
+and got value out of the sessions but get so much more out of the
+conversations and the connections (and the fact that an introverted,
+a-social, socially awkward computer geek like me can walk away from
+CSTA with new connections is a testament to how open and friendly to
+conference is).
+
+For this post, I'll talk about the keynotes. Usually a highlight but
+to be honest, they just didn't do it for me this year. I think that
+was mostly due to the format. I also wasn't able to attend the
+closing keynote - probably the one I was looking forward to the most,
+so I can't comment on that one. I also want to emphasize that it was a
+great conference so even though I'm nitpicking on what I felt was the
+weakest part of the conference here, the whole show was a big win.
+
+All the keynotes I attended followed the same basic format. The MC
+hyped the audience and thanked the sponsors, Various announcements
+were shared and we also got a flash talk given by CSTA Impact Fellows,
+formerly known as CSTA Equity Fellows. This was followed by the actual
+keynote address. The end result was that much of each sixty minute
+keynote block had elapsed before the keynote even started. Two of the
+three keynotes I attended were panels and the result was a super short
+keynote that, to be honest, felt lacking.
+
+The first keynote started with representatives form CSForDetroit,
+Cleveland State, and CodeCrew talk about their accomplishments
+followed by a minipanel made up of educators who worked with each of
+these organizations. Given the short amount of time, we ended up with
+three short flash talks by the first group and a super mini
+panel. Overall, I felt it was something of a cheer leading talk but I
+neither felt inspired nor that I really learned anything. There also
+wasn't any time for audience questions.
+
+Overall, it was fine, nice stories about three organizations working
+in CS Ed but for a keynote, I was hoping for more.
+
+The day 2 keynote was also a panel, or rather three speakers, Maya
+Israel, Tia Madkins, and Deborah Fields each giving a flash talk
+followed by a mini panel. The title was "Theory and Practice:
+Innovative CS Teaching Strategies." Again, the talks were fine but I
+didn't leave with any teaching strategies. Maya Israel talked about
+barriers facing students, learner variability, accessibility and more
+but in a very course overview manner. Tia Madkins talked about Justice
+Oriented Teaching and Learning and Deborah Fields talked about bias.
+
+All of this was fine but none had the time to really dive into their
+subjects. The mini-panel similarly felt short and rushed.
+
+At the end, the MC said we could learn more by attending any of the
+three speakers sessions later in the conference.
+
+Basically, the keynote was really an advertisement for the three
+speaker's full sessions. This left me cold. I'd much rather have heard
+from one of the three and actually walked away a deeper dive into the
+theory and maybe something concreted in terms of practice.
+
+Thursday's keynote was a solo by Jaleesa Trapp: "Fostering a
+Generation of Creative and Ethical Thinkers in the Age of AI." Trapp
+talked about creativity and justice, and the fact the one size doesn't fit
+all for CS Education, though that's true for all education. She also
+described an environmental justice project that grew into a far
+greater environmental justice effort. There was a brief mention of
+facial recognition and the related bias but I didn't see any AI
+connection in the talk. Again, it was fine, but the same talk could
+have been given five years ago before the AI boom. Nothing wrong with
+the talk, it was engaging but I didn't see any strong AI link. It also
+felt, somewhat like a teaser for another later session.
+
+As I said, I had to leave before the last keynote.
+
+So all were fine but nothing particularly inspiring. I think CSTA
+would be better served giving more of the keynote block to the actual
+keynote. If they want to highlight the Impact Fellows, either extend
+the block length or do those together in a block of their own.
+
+So, that's my take on the keynotes. Fine but not the highlights of the
+conference. We'll get to those in the next few posts.
+
+
+
+
+
+
