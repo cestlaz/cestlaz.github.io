@@ -1,0 +1,113 @@
+---
+title: CSTA 2025 Part 2- Opening day
+date: 2025-07-15T12:33:51-04:00
+tags:
+- CSTA
+categories:
+- CSTA
+draft: false
+--- 
+
+With the keynotes out of the way, let's get to some sessions. First
+up, Tuesday - day 1. The morning was set for workshops. I didn't
+attend any of those but I did go to two afternoon sessions. One was
+alright but, at least for me, missed the mark and the other was really
+strong.
+
+The first one was titled "AI Ready: Future-Forward CS Education." The
+talk was on how Gwinett County Public schools have been implementing
+AI tools and teaching AI.
+
+The session left me a little flat. The talk as very much at an
+overview level. They talked about the fact that all schools offer some
+manner of CS and also gave some examples of AI related
+activities. Two that I recall are one, a Tic-Tac-Toe game that they
+cover in the earlier grades (K-5)  and another is a discussion of the
+idea that in the NBA AI is used to determine player risk in contract
+negotiations.
+
+The problem is, that they really didn't get to the meat - how do they
+implement the tools and how do they teach the AI. Also, how do they
+prepare the teachers.
+
+With the Tic-Tac-Toe example, it sounded like they used a premade site
+where they "trained" a program to play Tic-Tac-Toe. It's unclear how
+much AI is being taught and what understanding is really being
+developed. I remember a few years ago, at SIGCSE, Google showed off an
+AI teaching platform that had students train a pizza pr not pizza
+classifier. They gave examples to the computer of pizza and not pizza
+and eventually the program could identify pizza. The problem was that
+the students were given no understanding of what was going on. The
+most a kid would take away was the fact that it was possible for
+someone to write this thing that could classify pizzas.
+
+Same for this example, at least as shared in the session. It was clear
+that some manner of program can "learn" to play Tic-Tac-Toe
+effectively via repeated input of examples of good and bad moves but
+nothing under the hood is being exposed. Now, I'm not saying that the
+schools don't go further, but I left the session not knowing anything
+more about implementing an AI strategy than when I entered the
+session.
+
+The NBA example was also lacking. It was just a discussion, apparently
+because using the NBA as a real world example can be motivating but to
+me it wasn't really even AI but rather data science and again, no
+exploration of the how.
+
+Overall, nothing wrong with the session but, like some of the
+keynotes, was really more of an experience report and at CSTA, if I
+were an active teacher, given the title, I'd want something more
+actionable. 
+
+Fortunately, the second session I attended, "Partnering with AI:
+Enhancing Coding and Debugging Skills in the Classroom" did a much
+better job scratching the itch. I almost didn't go to it. There was
+another session "Beyond OOP" which was an ML session run by John
+Chapin. John ran a great session on teaching AI last year so I figured
+this one would also be great. In the end, I decided to go to the other
+session figuring I can always reach out to John for his materials thus
+getting to see a new presenter and presentation while also getting
+info on the session I skipped.
+
+The session was run by Katie O'Shea of CodeHS. It showed explicitly
+how AI might be used in a programming class, included a discussion of
+the limitations and challenges while also providing ideas on how to
+takes these ideas to the next level.
+
+The talk covered strategies and difficulties in debugging and also
+discussed abilities and limitations of using AI as a coding assistant.
+
+The meat of the talk was on using AI coding tools to develop
+code. Code that invariably has errors and then have the class dive in
+using debugging strategies already discussed and normalized. The
+speaker emphasized the PRIMM pproach (Predict, Run, Investigate,
+Modify, Make).
+
+O'Shea also explicitly mentioned using bool or v0.dev to generate the
+code. Not that those were the only options but so that the audience
+had something specific they could use to get started on their own. The
+audience also had a chance to actually go through the process live.
+
+At the end, O'Shea discussed some of the limitations and issues with
+this approach and also other possibilities for using AI in the CS
+class - to do a code review, to present other coding styles or
+solutions and more, while acknowleding that these other possibilities
+also have their own challenges. For instance, while an AI can share an
+alternate approach to students, it could also share coding techniques
+and constructs that students may not know or that a teacher might not
+want to introduce at the present time.
+
+Wonderful session.
+
+Given the time constraints, there were of course things that couldn't
+be covered. For instance, how do we know that the AI solution will
+have one or more errors and how do we know they'll be the types of
+errors we'd be looking for.
+
+Still, I really enjoyed the session. The audience was given an
+overview of the problem - teaching debugging, given specific tools and
+techniques they could use, and even walked through the process.
+
+Slam dunk.
+
+I'll write about Wednesday's sessions next time up.
