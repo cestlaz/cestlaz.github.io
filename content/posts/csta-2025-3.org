@@ -28,7 +28,7 @@ sessions is probably a good thing.
 The speakers took us through their journey starting in 2014 citing the
 same reasons as most other states for pushing CS education. They ended
 up with three pathways. An endorsement which is composed of 6 courses,
-a PD moddel and what they called advanced training. I was left
+a PD model and what they called advanced training. I was left
 wondering if both the PD model, which I think is woefully insufficient
 is still used now that the endorsement exists and wasn't clear as to
 what the "advanced training" entailed.
