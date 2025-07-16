@@ -1,0 +1,160 @@
+---
+title: CSTA 2025 3 - day 2
+date: 2025-07-16T08:49:46-04:00
+tags:
+- CSTA
+categories:
+- CSTA
+draft: false
+--- 
+
+Four sessions up for today.
+
+First one  "Certified to Rock: Cleveland's Journey in CS Teacher
+Prep." Basically a discussion of the pathways for teachers to become
+CS certified in Cleveland. It wasn't a crowded session and most of the
+attendees were affiliated with Cleveland's certification programs in
+one way or another. Then there were a handful of people like me from
+assorted locations who wanted to hear more. I mention this not as a
+criticism but to wonder about the composition of conference
+attendees. It would make sense that most teachers in Ohio would
+already know this info and it probably wouldn't be of interest to
+teachers in other states. That would leave people in higher ed,
+advocacy, or government who might be working on certification or
+teacher training in their own states. The fact that this wasn't a
+super crowded session as compared to the direct teaching related
+sessions is probably a good thing.
+
+The speakers took us through their journey starting in 2014 citing the
+same reasons as most other states for pushing CS education. They ended
+up with three pathways. An endorsement which is composed of 6 courses,
+a PD moddel and what they called advanced training. I was left
+wondering if both the PD model, which I think is woefully insufficient
+is still used now that the endorsement exists and wasn't clear as to
+what the "advanced training" entailed.
+
+As to the 6 course endorsement. It sounded similar, at least in spirit
+to what I designed for Hunter College's Advanced Certificate
+program. They said that programs had to cover both CS content and
+pedagogy but didn't share details. Their program, like mine was all
+remote - something that I don't think is ideal for teacher prep but
+when you have to accommodate teachers all across the state from one
+location, there really isn't any other choice. I also left feeling
+that just like in NY, some Ohio institution could offer a really
+awesome 6 course sequence while another could create 6 joke courses,
+focus on their state's content exam, and call it a day.
+
+The session also featured teachers who have completed certification
+sharing some of their work. 
+
+All in all, an interesting session for me. I had a few questions
+afterwards but I was able to find out some more information as the
+speakers had a booth in the exhibit hall.
+
+For a future conference, an interesting session might be to have four
+representatives from four different states compare and contrast
+requirements and offerings.
+
+Next up was "Charting the Course: Building Data Literacy and Data
+Science Learning Progressions" run by Tiffany Davis, Chris Orban, Jake
+Koressel, and Mahmoud Harding.
+
+For my money this was the session of the day.
+
+The lead question was "What should students know about data science?"
+
+Some of the things that were brought up was how that in some locations
+data literacy is already in math and science standards. Also
+challenges like that in Ohio you can only teach a course in data
+science if you're a math teacher, other teachers can only integrate
+data science into other classes.
+
+Also, as part of the discussion, Jake Koressel spoke on data science,
+data literacy and the CSTA standards, currently under revision.
+
+What made the session so compelling was how it was run. During part of
+the session, run by Mahmoud Harding, there were cards on each table
+with various aspects of data science and data literacy. At the tables
+we discussed what aspects were most important and why.
+
+This lead to a discussion of what was important for all students vs
+what was important for a student using data science in a career. 
+
+The discussion was rich and valuable. At one point, at my table, we
+were discussing fundamental skills. One person at the table was
+pushing story telling - something that is indeed important since at
+the end of the day, it's the story that wins support. I pushed back
+that having a data BS detector was more fundamental since story
+telling can be quite convincing yet devoid of facts.
+
+I can't speak to all tables but the table I was at had healthy
+respectful disagreement, compromise and resolution.
+
+Most importantly, I think most of the attendees left the room thinking
+about the issues.
+
+Another highlight of the session was that after knowing him online for
+years, I was finally able to meet Chris Orban in person. Same for
+another couple of people at the session.
+
+Third session wasn't really for me. The title was "Faith-based and
+community partnerships to broaden stem access for Youth." I was
+curious about this session for two reasons.
+
+One, if it was an inappropriate session (it wasn't). I was turned off by
+the listing of a BOF at SIGCSE. It was titled "All Scripture is Useful
+for Teaching: CS Education through a Christian Worldview." It was a
+BOF specifically advertised "for Christians at SIGCSE..." Now, I
+wasn't actually against the session and considered going to it. I was
+turned off because right prior to SIGCSE there was a big todo about
+some sessions being rejected because they weren't inclusive or the
+language in their description wasn't inclusive. Using the language
+"for Christians at SIGCSE" to describe who the session was for is
+certainly *not* inclusive.
+
+Anyway, that was SIGCSE. Part of me was wondering if this session
+would be similar.
+
+On the other hand, I figured it would more likely be something
+interesting and useful, something like "hey, you don't have an after
+school program, here's how you can partner with your Church,
+Synagogue, or Mosque to do some cool stuff for your kids and your
+community."
+
+So, the session was more on the later but was really more of a report
+on the partnerships that a group at Texas State set up. I didn't feel
+that I walked away with any actionable advice.
+
+For the last session of the day, I attended "Handy 'back pocket code'
+and code explanations for APCSA" run by Colleen Lewis and Maria
+Camarena.
+
+Since I'm not teaching APCS and won't be in the future, I knew that
+there would be nothing useful for me personally at this session. I
+also knew that Colleen runs a great session so it would be fun. Also,
+Colleen made a throw away remark that I thought was really interesting
+and will likely spawn its own blog post after I'm done with the CSTA
+posts.
+
+The gist was using the idea of literate programming - that is code
+surrounded by extensive commenting. Here's an example: [[https://docs.google.com/document/d/13FhQmRAXa3LS_vZDWz1x4Jh6vJoGFK99sxA_G5zf4AU/edit?tab=t.0#heading=h.cevtg3x1wei1][link]]. What was
+interesting was that different teachers, some who've used the idea and
+some who didn't had very different takes on how, when, and why use
+them. Some thought that the annotations could be too busy but felt
+that annotated snippets could be a great resource for review and
+reference. Others liked them later in the course when the annotations
+were more targeted. Still others liked the idea from the get go.
+
+I loved it. I'm a big proponent for teachers having a large tool kit
+of techniques and pulling them out and using them, customized, as
+needed. This was just that.
+
+As I said, nothing for me personally as a retired teacher but fun,
+informative, and I'm betting pretty useful for attendees still
+teaching CS.
+
+So, that was day 2.
+
+Still to come - day 3, the exhibit hall and hallway track, the
+reception and party, and a bit on Cleveland.
+
