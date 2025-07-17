@@ -1,0 +1,184 @@
+---
+title: CSTA 2025 part 4 - day 3, part 1 
+date: 2025-07-17T14:54:44-04:00
+tags:
+- CSTA
+categories:
+- CSTA
+draft: false
+--- 
+
+Thursday, day 3. This was my last conference day since I had to leave
+bright and early on Friday. Four more sessions. As I started to write
+them up I thought things were getting a little long so this post will
+just cover the two morning sessions and the next one, the other two.
+
+
+* Strype
+
+First up "Strype: Frame-Based Editing for Python." A session run by
+Neil Brown, creator of Strype with Miles Berry and Colleen Lewis
+acting basically as TAs during the hands on session.
+
+Truth be told, I wasn't going to go to this session, I was going to
+use the time to visit the exhibit hall. Since there's no way I'll be
+teaching using Strype any time in the near future, the session wasn't
+really on my radar. I noticed Miles was listed as a speaker and I've
+known him online so I figured I'd try to introduce myself in person
+before the session then I'd hop.
+
+I did end up chatting with Miles which was great but then I decided to
+stay for the session anyway. Glad I did. As a retired teacher I'm not
+going to use Strype but the it was a well run and enjoyable session. Neil
+Brown spent the session walking us through a small hands on project
+using Strype.
+
+For those of you do don't know, I didn't, Stype is a "frame-based
+approach to Python." You can check it out [[https://www.strype.org/][here]].
+
+I'd describe it as a tool halfway between drag and drop and a text
+based Python site. It reminded me of a site I used a number of years
+ago - [[https://codesters.com][codesters.com]]. I also took a few minutes during the session to check
+to see if codesters was still live and if it had changed.
+
+Strype provides a clean, simplified interface. A section for imports,
+one for function definitions and one for the rest of the code. It's
+also fairly constrained. You can't just click on an area and start
+typing. You have to make sure you're input marker is at the correct
+location, hit the "hot key" for the thing you want to create
+(assignment, loop, function call etc.) and then you type the details.
+
+This might sound restrictive and it is, but I think in a good way. My
+description isn't doing it justice so you should check the Strype
+site. The environment is constrained enough to help keep beginners on
+track. Keep them from being overwhelmed and lost but free enough so
+that I think they'll feel like they're doing traditional coding (which
+they really are).
+
+Strype also has access to graphics and I'm not sure what else.
+
+One issue that came up was that I was using an Android tablet with
+keyboard and there were some weird interface issues. Apparently the
+development effort right now are for the mainstream browsers. I hope
+though that they can lend some attention to Android since that's what
+chromebooks run and lots of schools and students use chromebooks. 
+
+Fun, well run session and a nice coding platform. If you're looking
+for a beginner Python platform with some structure, I recommend
+checking it out.
+
+* Insights from Industry: Projects to Bridge the Gap
+
+Second was "Insights from Industry: Projects to Bridge the Gap" run by
+Joseph Maxwell.
+
+Another good session.
+
+Joseph works at Hyland - a tech companyd and there, he runs a tech
+outreach program. Joseph specifically focused on a summer program
+where High School students "interned" at Hyland - building a tech
+product while learning industry standard software engineering
+techniques. I put interned in quotes because the students aren't
+working on Hyland's codebase. Rather their building their own
+projects - something that hopefully will be both useful and
+complete-able by the end of the program.
+
+After going through the programs five-ish year history, Joseph shared
+lessons learned.
+
+Teams of 4 or 5 worked best. This is something I learned long ago at
+Stuy. More than 5, or even 5 and the group is too unwieldy. Three or
+fewer, not enough to really develop good SWE skills.
+
+For the program, kids had to come in with some experience. Joseph
+described it as "intermediate experience." I'd say that probably means
+at least a year of programming but not necessarily things like data
+structures. In some of the early renditions of the program, they
+accepted kids with zero experience and the program was more like an
+intro programming boot camp or class.
+
+They also learned that in person was important for a variety of
+reasons - team building, having mentors available, and being able to
+insert group diversions were among those reasons. Being in person
+though would make setting up a similar program in a rural location or
+a in fact any location without many tech companies. 
+
+It was also important for the students and company to have shared
+ownership of the project.
+
+The program covered full stack development and Joseph shared a number
+of resources. Here's a [[https://josephmaxwellhyland.github.io/insights-from-industry/][link]] to his presentation page which includes
+links to slides, resources, and some of the student projects.
+
+The whole gist of the talk was about giving students a real world
+experience and introduce them to professional sensibilities but in a
+safe, relatively low stakes, fun environment.
+
+I love the program but unfortunately there were some severe
+limitations. Joseph and Hyland are doing this, I'm guessing, to give
+back since I don't recall Joseph mention any external funding. They
+are also only working with a small handful of students. That's great
+for those students but really limits the scope.
+
+It's really a challenge to have a company dedicate the resources
+needed to support student programs. I ran a program for Google back
+in 2010. Basically had to take a conference room offline for a month
+to host the kids. When I was told how much it was "costing" them, I
+was shocked. You can also think about how hard it is for small
+companies to run effective college intern programs and those are for
+kids with much more experience. Having companies dedicate the amount
+of time and resources needed to support high school students on a
+summer or even after school project is a big ask.
+
+So, it's a great program but unfortunately can only affect a few kids
+at a time.
+
+On the flip side, a number of schools do run courses where students do
+make full stack web apps. Some are more effective than others.
+
+I think my SoftDev class at Stuyvesant worked particularly well but
+there were a lot of factors that went into that.
+
+ 1. The kids all had 2 solid years under their belts. An intro class
+    plus a college CS1 (programming) and CS2 (data structures) so they've written a
+    lot of code in multiple languages.
+ 2. They knew each other from the prior courses so community was
+    already built.
+ 3. From those courses they were already comfortable with some of the
+    industry practices and tools.
+ 4. From all my graduates I had a lot of industry connections that I
+    could tap into and since we were an in school class, they didn't
+    have to act as project mentors. My asks were much more manageable.    
+ 5. As a year long course we have lots of time and can even do things
+    like have groups work in each other's code bases.
+ 6. I'm a teacher with a strong CS background and professional
+    experience (albeit from the stone age) so I could handle teaching
+    all the technologies and techniques and could directly support the
+    students. 
+    
+I know other schools and teachers who've done web app courses and many
+are good or great courses but very few can effectively cover all of the SWE
+techniques they might want to. The kids by and large just don't have
+the keyboard time and experience under their belts before starting the
+course. While at Stuy they have an intro course more rigorous with
+much more programming than APCS-P and the a superset of the old
+APCS-AB, also with lots of programming. In many cases, the kids at
+some of the other schools I know with webdev courses, the kids might
+only have APCSP or not even. Still often great courses but some things
+just take time and require experience.
+
+So, what can a teacher do? One thought would be to create something in
+partnership with a college. College students as mentors would cost
+less, or maybe even something could be set up as a dual credit course
+and those college students could be employed by the college as TAs and
+then act as mentors. True, college students won't have the same SWE
+experienced as a pro but a third year could certainly have enough
+experience to be a valuable mentor.
+
+Tech employees could still help support high school students but it
+would be easier to make a more limited ask - not directly mentoring a
+full project like a PM but maybe less intense general mentoring.
+
+Another strong session and a great program.
+
+Next up, the rest of the sessions I attended.
