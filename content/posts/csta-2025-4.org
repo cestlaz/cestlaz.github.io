@@ -74,12 +74,12 @@ Joseph Maxwell.
 
 Another good session.
 
-Joseph works at Hyland - a tech companyd and there, he runs a tech
+Joseph works at Hyland - a tech company and there, he runs a tech
 outreach program. Joseph specifically focused on a summer program
 where High School students "interned" at Hyland - building a tech
 product while learning industry standard software engineering
 techniques. I put interned in quotes because the students aren't
-working on Hyland's codebase. Rather their building their own
+working on Hyland's codebase. Rather they're building their own
 projects - something that hopefully will be both useful and
 complete-able by the end of the program.
 
