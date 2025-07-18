@@ -1,0 +1,171 @@
+---
+title: CSTA 2025 5 - Day 3 part 2
+date: 2025-07-17T17:39:56-04:00
+tags:
+- CSTA
+categories:
+- CSTA 
+draft: false
+--- 
+
+Let's talk about the final two sessions I attended.
+
+* The Future of Computer Science Education in an Age of AI
+
+This was a panel. Pat Yongpradit and BT Twarek co-moderated a panel
+consisting of Julie York, Maya Israel, Allen Antoine, and Jacob
+Shulman.
+
+It was a good mix. Julie York is a High School teacher, Maya Israel, a
+researcher, Allen Antoine is the Director of CS Ed Strategy at UT
+Austin's Texas Advanced Computing Scenter, and Jacob Shulman is a tech
+entrepreneur as the founder of Jippity and long time private tutor.
+
+Pat and BT managed the panel well - good questions and didn't make the
+mistake of having every panelist answer every question.
+
+Some answers missed the mark for me like the question of how to fit AI
+into a crowded curriculum. There could be multiple full sessions on
+this one question so it was no surprise that the answer had to be
+pretty generi - basically view it as a tool and something to use
+across everything. I would have liked an answer that differentiated
+learning CS vs using CS and learning CS in a CS class vs a non CS
+class but time couldn't allow for that. The answer was probably the
+best that could be given under the constraints but I would have rather
+a question that was more focused which would have allowed a more
+directly actionable answer. 
+
+On the other hand, I felt the question and answer to how AI can make CS more
+accessible was more helpful. The idea of using AI based tools that could
+provide very specific immediate feedback and also how those tools can
+be used for self learning. While I liked this answer, provided by Maya
+Israel, it also left me concerned but we'll talk about that in a bit.
+
+Allen Antoine made a good point on how AI still can instill a sense of
+wonder in kids which can be used to drive interest and broaden
+participation but I'd caution that the shine eventually wears off. He
+also expressed concerns about communities getting left behind which is
+a very real concern. Every technology that has been touted as a great
+equalizer has never been one. The haves get the best of the tech and
+the have nots get the cost cutting budget saving tech foisted upon
+them. AI in the best sense can uplift communities by implementing
+tools like what Maya mentioned and I wrote on above or they can leave
+them further behind if those communities get bad AI instructors to
+replace good teachers.
+
+Jacob Shulman made a couple of interesting points that I didn't agree
+with but that's okay, as I said, this was a nicely formed panel - that
+means differences in backgrounds and differences of opinions.
+
+Jacob's product is jippity.pro- it's an online larning IDE that
+integrates AI. It's basically a vibe coding platform. Looks
+interesting but currently I'm not yet sold on vibe coding as either a
+practical or educational tool. 
+
+Jacob talked about the value of code reading and how you can learn
+that way - the implication that you can get some vibe coded solution
+and figure it out from there. Now, I do agreee that code reading is
+important and we should do more of it with our classes. You can indeed
+learn from reading other peoples code but it's not a replacement for
+all the other ways we learn to code.
+
+I mean, think about it, how often does a kid not get something in math
+and then they read a solution or better, step through it as instructed
+by the teacher, TA, or professor and they leave thinking that they get
+it only to realize on the next exam that they really don't.
+
+Reading or just being dumped into existing code isn't going to do it
+except for a small subset of kids. I've seen this type of "just dump
+them into the code" work for tech pros starting at a company even when
+they're working on a platform and in a language new to them but I've
+just as often seen it fail unless the new hire got other supports and
+these are people who while being new hires have extensive CS knowledge. 
+
+Actually, if I'm right on this point, that's a potential danger for
+those self-learning tools.
+
+Jacob also talked about the explosion in students verbal skills and
+that this is what he's heard from English teachers, presumably due to
+students using LLMs which are raising their level of discourse.
+
+I've seen the exact opposite. English and other teachers lamenting
+that the kids aren't learning how to either write or communicate at
+all but rather they're just parroting what they get from chatGPT.
+
+Now, I could be wrong, Jacob could be wrong or the answer could be
+somewhere in between. Wish we had time for a discussion but in any
+event, allowing for these disparate views make for a good panel.
+
+Next up were questions. I wanted to ask one but didn't get a
+chance. Don't know if I would have been called on regardless but the
+question answer period ended when after a couple of good questions,
+one participant took the opportunity to share their individual views
+on teaching AI rather than asking a question.
+
+So, after that, Pat and BT wrapped up the panel by asking each member
+to give one piece of advice on a risk with respect to AI.
+
+Julie commented on copyright issues, Allen, ethical concerns and Jacob
+on the dangers of taking extreme positions on either side - always AI
+or never AI - all great points. Pat mentioned the concern that kids
+will only learn AI through prompt engineering and not really about
+AI - a concern I share as well.
+
+Now, back to my question - I wanted to ask about putting up guardrails
+to make sure we don't lose student - teacher interaction and student -
+student interaction. A *huge* part of teaching is all about connection
+and relationships with one's classes and a huge part of learning is
+interacting with one's classmates and one's teachers. If a kid is
+always going to a chatbot what will happen to their human to human
+skills. If a teacher just uses AI assignments and autograders how well
+can they get to know their kids?
+
+I was disappointed not getting to ask about this. Not because I
+expected a full and useful answer - the question's too big for a quick
+response but rather, my feeling that very few, if any attendees were
+thinking about this.
+
+So, I was psyched when both BT and Maya's answers on risk spoke
+directly to this question even though it was unasked. BT commented on
+how we're teaching kids to be citizens and that has to be taught even
+when all the tech is stripped away and Maya hammered in a concern for
+mental health and an over reliance on chatbots. After that, everyone
+was thinking about it.
+
+Really great thought provoking panel so thanks to all the panelists
+and moderators.
+
+* Impacts & Insights from the 2024 Teacher Landscape Survey
+
+Last up was a discussion of the 2024 CSTA teacher landascape survey.
+The facilitators were BT Twarek so I had the pleasure of attending a
+BT run session back to back, Lisa Novohatski, Sonia Koshy, and Shaina Glass.
+
+Great presentation and discussion. I won't go into any details on the
+survey as it will be published soon enough  but a couple of points I
+found interesting. One was that it's really challenging to create a
+meaningful survey like this. The CSTA wants to get as many CS teachers
+as possible but they only have contact info for CSTA members. The
+facilitators also pointed out that even with the efforts they took
+they ended up withe  HUGE number of false surveys (bots I'm
+presuming). It's also hard getting insightful answers. They can ask
+how much a teacher might emphasize a topic or issue but what does that
+mean for an individual teacher? I really don't envy the survey writers
+at all.
+
+It turns out it's also really hard interpreting the answers. For
+example, if one is at a school with a single CS class that happens to
+be a requirement, diversity might not be an issue for you at all, or
+maybe if you're school isn't diverse it's a huge issue but you can't
+do anything about it.
+
+Challenges about.
+
+In any event, another interesting and well run session and keep a
+lookout for the survey once CSTA releases it.
+
+
+So, that's it for the sessions I attended. Still have to talk about
+the exhibit hall, receptions, hallway track and Ceveland. That's all
+up next.
+
