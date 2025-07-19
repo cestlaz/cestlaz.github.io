@@ -27,7 +27,7 @@ mistake of having every panelist answer every question.
 Some answers missed the mark for me like the question of how to fit AI
 into a crowded curriculum. There could be multiple full sessions on
 this one question so it was no surprise that the answer had to be
-pretty generi - basically view it as a tool and something to use
+pretty generic - basically view it as a tool and something to use
 across everything. I would have liked an answer that differentiated
 learning CS vs using CS and learning CS in a CS class vs a non CS
 class but time couldn't allow for that. The answer was probably the
@@ -166,6 +166,6 @@ lookout for the survey once CSTA releases it.
 
 
 So, that's it for the sessions I attended. Still have to talk about
-the exhibit hall, receptions, hallway track and Ceveland. That's all
+the exhibit hall, receptions, hallway track and Cleveland. That's all
 up next.
 
