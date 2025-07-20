@@ -1,10 +1,171 @@
 ---
 title: CSTA 2025 6 - Exhibit hall and receptions
 date: 2025-07-19T15:29:30-04:00
-tags: 
-categories: 
-draft: true
+tags:
+- CSTA
+categories:
+- CSTA
+draft: false
 --- 
-- Microsoft, Github, Google, Amazon - none had  booths
+
+* Exhibit Hall
+
+Let's start with the exhibit hall. First things I noticed that while
+Amazon, Google, and Microsoft were all listed as sponsors, none of
+them had booths in the exhibition space. This was a big change from
+past years. I'm not sure what to make of this since all three have
+either products or programs relevant to K12. Maybe nothing going on
+here but I think this was worth noting.
+
+So, who was there?
+
+A lot of robotics and physical computing players - Raspberry Pi, Lego,
+Ozobot, and more. A lot of tables with electronics on them. Since I'm
+not teaching and not doing anything with hardware, I didn't speak to
+anyone at these tables.
+
+There were also a lot of organizations. The expexcted host tables for
+CSTA and also the expected code.org, The College Board, and the other
+usual suspects. Cleveland State had a booth - that's where I followed
+up on the session on teacher cert in Cleveland as did the University
+of Nebraska and Carnegie Mellon. Also SXSW edu, U Teach CS, and a
+bunch of others.
+
+Another well represented area were online IDE providers. I spent a
+fair amount of time with my friends at Pickcode and at CodeHS but
+there were others in the room including Kira Learning, Juicemind and a
+handful of others that I didn't check out.
+
+With fewer representatives there were still a couple of straight up
+curriculum providers, autograders, AI related vendors and the
+like. Interestingly enough, only one, if I'm remembering correctly
+book vendor. Maybe that's because K12 CS is in some ways not well
+enough defined to have lots of books sellers pushing products or in
+the case if the high school offerings - frequently APCSP, APCSA, too
+well defined with teachers relying on full online offerings and maybe
+eschewing traditional dead tree resources.
+
+While I probably spent most of my exhibit hall booth time catching up
+with old friends - specifically at the CMU booth, Pickcode and CodeHS, I
+also spent some time at the Cleveland State booth and with U Teach CS
+where I was able to find out a bit more about how things were going on
+in their respective states in terms of teacher preparation - long
+story short - while individual organizations and institutions are
+fighting the good fight, overall I haven't found a state that, in my
+opinion, is doing it right. No surprise there.
+
+Since I did spend a good amount of time looking at online IDE booths,
+I guess I should say more.
+
+Now, I've known the CodeHS people for along time and liked them for a
+long time In the past couple of years, got to know Pickcode and like
+that very much as well. I also see both as filling important
+roles. CodeHS has been around longer and is more fleshed out. They
+provide full curricula and I guess what I'd call end to end tools
+for HS teachers. That's probably why I never used them personally,
+okay, the real reason is that hardly ever was in a situation where my
+classes used an online IDE, but beyond that, what they've built is
+terrific for new and less experienced teachers but by the time they
+came to the game, I had my tools, techniques, and experiences worked
+out. I briefly used repl.it (back when they were cool) for a summer
+online experience but I liked that because it was bare bones - just
+the IDE, perfect for me. That said, I've frequently recommended newer
+teachers check out CodeHS because of everything they provide.
+
+Pickcode on the other hand is newer with a leaner experience. That's
+my personal preference albeit a subjective one. Makes it easier for a
+person like me to do my own thing and just use the tool where I want
+to. While I've been recommending CodeHS to some people for their
+complete curricula, tutorials and more, I've been recommending
+Pickcode to others - for people who want a simpler interface and
+product and a more agile company that's still young enough to be able to
+tune their product to a single teacher's needs, Think of it like a
+boutique product in terms of service but not price (this isn't to say
+that CodeHS isn't responsive but that's just an advantage of a smaller
+company vs a midsize one). I do want to note that Pickcode also does
+have learning resources as well as the IDE and a language that's
+transitional from Scratch to Python but I haven't personally played
+with that. 
+
+I also spent a little time with Juicemind but so far I've found there
+web site less inviting. On the other hand, my friends at Siena use
+them for some programs and they wouldn't use them if there wasn't
+something there.
+
+There was also a booth that I didn't check out that had IDE on the
+sign but was also touting autograding. 
+
+The other player that, while I didn't spend time with them at CSTA, I
+did at SIGCSE was Kira Learning. That's Andrew Ng's new
+outfit. They're touting an all in one learning system with AI
+grader/assistant.
+
+To be honest, I wasn't impressed and I'm saying this as a guy that
+really loved Andrew Ng's ML class when it first hit the scene. I mean,
+it seemed fine but nothing special or amazing. Maybe I'm missing
+something but the most exciting "new" thing I saw from the demo and
+from playing with it was that it had Andrew Ng's name attached. Seemed
+like when a Broadway show counts on a big name to sell tickets rather
+than the show itself and has the big star push the show to even
+greater heights.
+
+So that was it for vendors for me.
+
+* Hallway
+
+Also big at CSTA was the hallway track. I've always said that CSTA is
+more of a people conference than a session one.
+
+As I mentioned, I had a chance to spend time with a friend from CMU,
+the Pickcode team and reconnect with CodeHS and also had a chance to
+catch up with a number of New York and former NY CS educators
+throughout the conference (in no small part thanks to Tom O'Connell
+for organizing the NY Meetup during the conference). I even managed to
+steal a few minutes with Jake Baskind although I wasn't able to catch
+up with my code.org friends as well as a few other people who I think were
+at the conference but never ran into.
+
+I also managed to meet some great new educators, or rather, great
+educators that were new to me. In some cases they're very
+experienced. Now, given that I'm your typical socially awkward,
+introverted tech geek, that says something about the vibe at the
+conference that even I can end up making new connections :-).
+
+* Receptions
+
+Last up, the two receptions. First one was opening night. I love the
+way that they've been setting it up in recent years - bringing the
+food in to the exhibit hall. Let's people mix and mingle and get an
+early look at all the vendors and suppliers. Food was good and
+stations were well layed out so that there was never much of a line
+for either food or drink. Kudos, particularly when thinking back to my
+first or second CSTA when the reception was, well, let's just say, the
+less said the better. The CSTA organizing teams have really upped
+their game in recent years.
+
+The other one was the evening at the Rock and Roll Hall of Fame. I
+skipped last year's "after hours" event. That was an outdoor pool party
+during a heat wave in Las Vegas in July. No thanks. Not my scene. I
+might have gone anyway if +1 tickets were reasonably priced since my
+wife Devorah was along for the trip. Trouble was that the price for an
+extra ticket was something like $125 or $150. I don't blame CSTA for
+this - I was told by someone with inside knowledge that this was the
+price that the venue set but I decided to pass.
+
+This time, +1 tickets were also expensive ($125) so Devorah went to
+the hall during one of the days when I was in the conference (ticket
+price was something like $40) but since I wanted to check it out, I
+went.
+
+Really fun time. There were around 1300 people registered for the
+conference but the Hall never seemed overly crowded. Probably because
+throughout the evening people switched up from hanging and chatting at
+tables near the food and touring the museum. Spent most of the time
+with a fellow NY CS educator. Thoroughly enjoyed the museum and the
+evening overall.
+
+That's it for the actual conference but there's going to be one more
+post in the series - things I liked and things I think the CSTA should
+change along with a bit on actually visiting Cleveland.
 
 
