@@ -1,0 +1,177 @@
+---
+title: CSTA 2025 7 - the good, the bad, and the Cleveland
+date: 2025-07-23T08:31:44-04:00
+tags:
+- CSTA
+categories:
+- CSTA 
+draft: false
+--- 
+
+
+
+Lets start off with Cleveland and then we'll get to my suggestions for
+the CSTA.
+
+* Cleveland
+
+I never had a chance to explore Cleveland before. I was actually in
+the city once before, for a junior national fencing competition but
+never saw anything other than the competition venue and the hotel.
+
+This time, I didn't have much more of an opportunity. Normally, I like
+heading to a conference a day or two early or stay a day or two later
+to check out the town but this time, schedules didn't allow it. I
+drove in the day before the conference and had to leave before the
+conference ended. That basically gave me Tuesday morning - a half day
+to explore.
+
+Started the morning with a run by lake Erie.
+
+#+ATTR_HTML: :width 500
+[[/images/cleveland/erie.jpg]]
+
+Afterwards, Devorah and I got breakfast at a local diner and then
+wandered the city, or at least the downtown. We used [[https://adventure.geocaching.com/ ][Adventurelab]] as a
+guide. Adventurelab is an offshoot of [[https://www.geocaching.com/play ][Geocaching]] where people hide
+little boxes all around the world. People find them using a GPS, or
+now the app and discover cool places and things. Adventurelab is
+essentially the same thing without the little boxes. People write up
+the experiences to share local treasures with visitors.
+
+This took us past the Erie Street Cemetery - Cleveland's oldest
+existing cemetery, The Hermit Club - "the nation's oldest private club
+devoted to the preforming arts," the Old Stone Church, and other local
+treasures. Along the way we also passed a great Lebanses bakery, Clevo
+Books - a bookstore that specializes in foreign books translated into
+English, and other local treasures like the Arcade:
+
+
+#+ATTR_HTML: :width 500
+[[/images/cleveland/arcade.jpg]]
+
+On the way to the Old Stone Church, w passed the [[https://www.soldiersandsailors.com/][Soldiers' and
+Sailor's Monument]] - a civil war monument. Outside, we started talking
+to a volunteer who was doing some gardening. He gave us a rundown on
+the monument and it's history as well as some other local history
+including showing us where [[https://en.wikipedia.org/wiki/Charles_F._Brush ][Charles F. Brush]] lived, an inventor who
+worked on the arc lamp.
+
+We got to talking architecture a bit and mentioned that we had walked
+past the Cleveland Bankers Trust Building. He asked if we had gone
+inside, now a supermarket. We hadn't but later in the day we
+did. Magnificent.
+
+#+ATTR_HTML: :width 250
+[[/images/cleveland/cbt.jpg]]
+
+#+ATTR_HTML: :width 250
+[[/images/cleveland/cbt2.jpg]]
+
+All in all a pretty cool whirlwind tour. That plus the CSTA's
+reception at the Rock and Roll Hall of Fame let me leave feeling that
+I got a reasonable taste of Cleveland.
+
+Now, on to the good and bad from the conference and my suggestions for
+the future.
+
+* CSTA the Good and the Bad
+
+
+First off, great overall conference. I personally would have liked to
+see more sessions with more advanced HS content but I also understand
+that the majority of conference goers don't really need that.
+
+I'm going to mostly talk about a couple of negative points here and a
+couple of small positives since pretty much all the posts up until now
+have been glowing. Just remember as you read on - it was a great
+conference and just because this post highlights one or two things I
+didn't think were terrific, it was still a great conference and I'm
+100% going to be back next year. 
+
+I liked how they mixed in regional meetups in the schedule, making it
+easier for people to get together although I also appreciate the New
+York meetup after the conference which also facilitated that but with
+the chapter picking up the tab for drinks and snacks :-) .
+
+One really simple thing I'd suggest is to sell additional tickets to
+the opening reception. I know this doesnt' affect a lot of people but
+it also should be pretty easy. My wife usually comes with me to
+conferences and I know a handful of other people who also bring their
+partners. Our partners play tourist by day but they also know some of
+the other conference attendees. TL;DR. they'd like to attend that
+opening reception but there' no mechanism to do so. To be honest,
+we're probably talking about so few people that the door police could
+probably just look the other way but why not just charge whatever the
+cost is for these few extra people.
+
+They do have +1 tickets available for the "after hours" but those were
+expensive. I'm not complaining. Last year, in Las Vegas, a +1 ticket
+was either $125 or $150 which seemed like a lot and pool parties
+aren't my thing. I was told by someone on the inside though, that the
+cost was what the venue wanted so I'm not complaining about the CSTA
+here.
+
+This time, I opted to go to the event since I wanted to check out the
+R&R Hall of Fame but Devorah opted not to since a regular day ticket
+was only $40 vs the $125 for the +1 ticket.
+
+My other big suggestion has to do with the keynotes and the Impact
+(nee equity) fellows.
+
+This year, I found all the keynotes lacking, mostly because they were
+all really short and this was exacerbated by having pseudo
+panels. Losing a good chunk of the keynote slot to one or more impact
+fellows didn't do it for me. The keynotes are supposed to be special -
+but idea inspirational talks and this year they were mostly teasers
+for later sessions. Loosing that chunk of time  makes a difference.
+
+I'll also say that the Impact Fellows talks really didn't do anything
+for me. Some of their stories were more compelling than others but we
+were in a room of hundreds of teachers and my guess is the story or
+the message from one of the Impact fellows isn't any more or less
+powerful or relevant than anyone else in the room.
+
+I guess, and I'm sure this isn't a popular opinion, that I don't get
+the Impact fellow thing. Sure, it's a nice reward to a small handful
+of CS teachers but I'm not seeing the impact. I can't look over the
+bios and statements of all the fellows since the CSTA website seems to
+be having issues but I've read their articles as they've come out and
+seen the bios. Some have come in having been real leaders with real
+experience while others are still wet behind the ears. The value of
+the content I've seen is also mixed. Some great and some not so great
+but in any event, I'm not seeing a lot special, or rather I see as
+much or more value from everyday CS teachers who aren't fellows on the
+interwebs. Actually, back when blogging was more popular I'd say that
+there was more good content being shared and discussed by the
+community at large although the community was admittedly smaller.
+
+So anyway, I'm not seeing it. Great reward but to me it takes away
+from all the other teachers who aren't Impact fellows who are doing
+the same or more. In any event, if you want to highlight the Impact
+scholars, make an impact scholars session where they can share their
+stories and leave the keynote slots to the keynote speakers.
+
+Just my opinion.
+
+Another small thing that I liked was that email beforehand telling us
+that coffee/tea/pastries would or wouldn't be available in the morning
+before the start of the first session. This is a small thing but it's
+a nice touch. Before I weened myself off caffeine, I needed my cup of
+coffee in the morning and hated it when I spent far too much for
+overpriced hotel or convention center coffee only to find it there
+available at the conference. On the other hand, knowing it was there
+was a really nice touch.
+
+
+So, that was CSTA2025. I got a couple of other side blog post ideas
+from the conference so maybe I'll write those up, probably after we
+get back from our trip to Italy which we're embarking on soon.
+
+If you were at CSTA2025 I hope you enjoyed it as much as I did and if
+you weren't I hope you get a chance to go next year in New Orleans.
+
+
+
+
+
