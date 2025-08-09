@@ -122,7 +122,6 @@ Of course, in our wanderings we saw so much more:
 #+CAPTION: Stabby stabby
 [[/images/rome/stabby.jpg]]
 
-
 #+ATTR_HTML: :width 300 
 #+CAPTION: Moses
 [[/images/rome/moses.jpg]]
@@ -137,6 +136,10 @@ On our last day, we also visited the Capuchin museum and
 crypt. Fascinating. In addition to the museum with a history of the
 order the crypts are decorated with the bones of the friars (more info
 [[https://en.wikipedia.org/wiki/Capuchin_Crypt][here]]). Really interesting.
+
+#+ATTR_HTML: :width 300 
+#+CAPTION: One of the crypts
+[[/images/rome/crypt.jpg]]
 
 The Churches were also all amazingly ornate. I appreciated the beauty
 but also questioned the excess having seen these extravagent houses of
