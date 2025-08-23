@@ -1,0 +1,136 @@
+---
+title: Rossini by the sea
+date: 2025-08-23T12:20:42-04:00
+tags:
+- Travel
+categories:
+- travel 
+draft: false
+--- 
+
+We basically finished up our trip in Pesaro, a resort town on the
+Adriatic Sea. Well, there plus one final day in Rome before our flight
+home.
+
+Why Pesaro? Seaside resorts aren't usually our speed. Well, Pesaro is
+the birthplace of composer [[https://en.wikipedia.org/wiki/Gioachino_Rossini][Gioachino Rossini]] and hosts an annual
+Rossini festival. Now, I like Opera but I wouldn't travel across an
+ocean to see some Rossini so how did we end up there? It's Natan's
+fault. This year was the first year since graduating Michigan when
+he's been able to take a real vacation. We decided we wanted to do a
+family thing and since he's had the fewest opportunities to travel
+gave him the choice.
+
+He, being a Rossini fan, decided he'd love to attend the festival. We
+built the trip around that. Unfortunately, as the planning progressed
+it turned out we weren't able to do a whole family thing since Batya
+had to be up in Illinois to start grad school concurrent with the
+festival. Still, a great trip.
+
+As Rossini's birthplace, Pesaro has a Rossini museum and you can tour
+his birthplace. Both very interesting even if you're not big on
+Rossini or opera.
+
+Beyond that we didn't do too much touring.
+
+We did go down to the Adriatic where we found this sculpture:
+
+#+ATTR_HTML: :width 300 
+#+CAPTION: Globe
+[[/images/pesaro/globe.jpg]]
+
+It reminded me of the [[https://en.wikipedia.org/wiki/The_Sphere][World Trade Center Sphere]] crushed on 9/11 that
+was on display outside of Stuy for a while until it was relocated to a
+permanent home in Battery Park. Any similarity though was just
+coincidence as the Globe in Pesaro was created and installed years
+prior.
+
+Also, in spite of my persistent hip issues, I did get a run in early
+by the sea:
+
+#+ATTR_HTML: :width 300 
+#+CAPTION: Sunrise by the sea
+[[/images/pesaro/sunrise.jpg]]
+
+And another highlight was yet another Church - the Cattedrale di Santa
+Maria Assunta. A thirteenth century church built on top of a sixth century Basilica which itself was
+built atop a fourth century Roman Basilica. The cool thing was that
+part of the floor is exposed to show the extensive mosaic work on the
+earlier floors.   
+
+#+ATTR_HTML: :width 300 
+#+CAPTION: Old Mosaics
+[[/images/pesaro/church-floor.jpg]]
+
+For the festival, I saw two operas, Zelmira and L'Italiana in Algeri
+(The Italian in Algeria).
+
+I enjoyed both but Zelmira, being a production in the round (in a
+modern space) detracted from the performance. If you want a deep dive
+into both productions and the festival in general, check out Natan's
+[[https://seccorecit.substack.com/p/review-rossini-opera-festival-2025][blog]].
+
+L'Italiana in Algeri was staged in the [[https://en.wikipedia.org/wiki/Teatro_Rossini_(Pesaro)][Teatro Rossini]], an 1818 old
+school opera house. 
+
+#+ATTR_HTML: :width 300 
+#+CAPTION: Teatro Rossini
+[[/images/pesaro/theater.jpg]]
+
+Really fun opera and production and great performances and it was a
+trip to see it in an old school venue. For details, again I refer you
+to [[https://seccorecit.substack.com/p/review-rossini-opera-festival-2025][Natan's blog]].
+
+The downside of the Pesaro part of the trip is that we were well into
+holiday season so even more restaurants were closed. Combine that with
+Italians eating later (most restaurants didn't open until 7:00 or
+7:30) and the operas starting at 7:00 or 8:00 made dinners a
+challenge. That said, we did have some good food including a terrific
+no frills seafood place for one of our lunches.
+
+From Pesaro we were back to Rome for a day before our flight. There we
+checked out two more sites.
+
+First was the Vittoriano and the Museum of the Risorgimento
+within. THe Vittoriano is a monument to Vittorio Emanuele II, the
+first king of unified Italy and is really impressive inside and
+out. The museum was really cool telling the tale of Italy's
+unification.
+
+#+ATTR_HTML: :width 300 
+#+CAPTION: The Vittoriano
+[[/images/pesaro/vitoriano2.jpg]]
+
+#+ATTR_HTML: :width 300 
+#+CAPTION: The Vittoriano
+[[/images/pesaro/vitoriano3.jpg]]
+
+Our final official stop was the Capitoline museum, right next door
+although we had to walk down the hill and right back up. Of course,
+every time I read "Capitoline Museum" I hear Samuel L. Jackson saying
+"what's in your wallet?"
+
+On the Capitline Hill, the museum (or collection of museums)
+is an archaeological museum with artifacts from ancient (Greek) times
+through the Renaissance. Highligths include Marcus Aurelius on a
+horse, a bust of Medusa by Bernini. and much much more.
+
+
+#+ATTR_HTML: :width 300 
+#+CAPTION: Capitoline Museum
+[[/images/pesaro/capitoline.jpg]]
+
+#+ATTR_HTML: :width 300 
+#+CAPTION: Capitoline Museum
+[[/images/pesaro/capitoline2.jpg]]
+
+#+ATTR_HTML: :width 300 
+#+CAPTION: Capitoline Museum
+[[/images/pesaro/capitoline3.jpg]]
+
+
+After that, we had our last dinner (last supper?) and then the next
+day, back home.
+
+Great trip, now to plan the next one.
+
