@@ -1,0 +1,105 @@
+---
+title: Looking at the start of school for 2025
+date: 2025-09-01T19:34:21-04:00
+tags:
+- policy
+- AI
+categories:
+- education
+draft: false
+--- 
+
+Today is Labor Day. That means that tomorrow NYC public school
+teachers return to work. I mean, not me - I'm still happily retired
+but still I have many friends going back. Kids come back on Thursday.
+
+Of course, I don't doubt that I'll have a "going back to school" dream
+tonight.
+
+I'm not going to make any predictions here but there are a couple of
+big tech related elephants in the room that will be interesting to
+keep tabs on over the course of the school year.
+
+The first are New York's "Distraction Free Learning"
+policies. Specifically, a cell phone ban. While students will be able
+to bring their phone's to school, they won't be able to use them
+during the school day on school grounds. 
+
+It's amazing how embedded cell phones have become in our lives. Twenty
+Five years ago, I didn't have one, many people didn't and smart phones
+certainly weren't a thing. I got my first cell phone shortly after
+9/11 - a cheap pay by the minute plan. Having been essentially around
+the corner during 9/11 and since we were going to be relocated to a
+different school, we thought it made sense that I have one.
+
+Of course now, everyone has smartphones and the kids are on them all
+the time.
+
+I taught for a couple of weeks at Stuy last March and people asked me
+if things had changed. Well, the students in my classes were largely
+the same, and I say that in a good way and the overall feel seemed
+similar in the school but the big difference I saw was that when kids
+weren't in class, they had their nose buried in their phones.
+
+Back in the day, when kids were free they'd hang out in groups along
+the halls. They still do. The difference though was that back in the
+day, a couple might be doing homework, a couple playing Magic the
+Gathering, and the rest talking with each other.
+
+Now silence. They're all alone in their phones but sitting together.
+
+A friend told me that fire drills were even worse. Back in the day,
+the challenge was keeping them quiet and stopping them from sneaking
+off to Fake Terry's. Now just row after row of phone zombies.
+
+Funny thing is that in class during my two week stay, I didn't find
+the phones to be a major problem. A couple of kids went to them but
+since I was a sub, I didn't stress about it.
+
+At other schools, the problems might be reversed.
+
+I don't know how exactly how Stuy or other schools are going to be
+handling the ban - I've heard that many schools are issuing signal
+blocking pouches to the kids but I don't know how well that'll
+actually work but we'll find out soon enough.
+
+I am interested in seeing though if this new cell phone ban is
+implemented seriously and if it has a positive effect on students.
+
+The other is of course AI for both CS and non CS classes.
+
+While AI has become entrenched as a coding assistant and general
+assistant, the landscape has overall become more complicated. For
+college students looking to enter tech, some companies want candidates
+to use AI in their interview process and others forbid it. When
+writing up the CSTA conference a month or so ago, I talked about how a
+founder commented on how students were writing better through the use
+of AI but on the other hand, the majority of teachers I've spoken to
+talk about how AI has made their writing worse.
+
+It will be interesting to see how schools and colleges continue to
+navigate this landscape.
+
+I was thinking that if I were back at Stuy, I don't think it would be
+that big of a deal within my classes. I mean, other than setting
+policy. I was thinking this due to the large amount of lab time in the
+courses I designed and taught. Even with over 30 students per class,
+we always spent sufficient time with them working on projects during
+class so that I knew what my students were doing and what they could
+do. That plus other in class assessments I don't think I'd have to
+worry too much about AI use beyond whatever the policy was.
+
+At Hunter, or in college in general, I'm thinking it would be much
+harder. At Hunter, I only met with my students a couple of times a
+week and it was all class - not a whole lot of project time. The kids
+did all of that outside of class. That means it would be a whole lot
+harder for me to assess where they're at.
+
+Like I said up top - not doing predictions here but I think the cell
+phone policy and AI are  going to be interesting to keep tabs on over
+the coming year.
+
+I'm not sure what this school year will bring for me but I'm hoping
+that an interesting opportunity or two will pop up so that I'll be
+able to observe some of this first hand.
+
