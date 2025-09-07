@@ -1,0 +1,103 @@
+---
+title: CS Ed Podcast, connecting with students, and a little AI
+date: 2025-09-07T14:38:00-04:00
+tags:
+- education
+- community
+categories:
+- education
+draft: false
+--- 
+
+I listened to the [[https://csedpodcast.org/blog/s4e12_tpb_meet_the_prof/][latest episode]] of Kristen Stephen-Martinez's CS Ed
+Podcast. The episode focused on Professor Emeritus, William G. Griswold, of UCSD's practice of requiring students meet with him 
+outside of class early during the semester. These meetings weren't
+about class material but rather to foster a better connection and to
+increase student engagement.
+
+Good episode. Take a listen.
+
+The class in question was an upper division software engineering
+class - mostly majors but a significant percent of non-majors. Due to
+class size, individual meetings were impractical so students met in
+small groups.
+
+One interesting thing that came up, but it's really not a surprise was
+that in spite of this being an upper division class, one third of the
+students had never spoken to a CS professor prior to these required
+meetings. Another interesting part of the discussion involved AI but
+I'll get to that later.
+
+I love this practice.
+
+Clearly Professor Griswold cares about his students and understands
+the importance of making connections. I also love the small group
+aspect of these meetings as it makes the meetings less intimidating
+and also helps develop connections from student to student as well as
+student to instructor. It also didn't seem to be a huge extra expense
+in time. By scheduling these meetings early, they can essentially fill
+in for office hours which, for many instructors are sparsely attended,
+particularly early in the semester.
+
+Unfortunately, I'm not convinced that too many college instructors
+would implement such a practice because. I'll keep my reasons to
+myself so as to not offend anyone.
+
+When I taught at Hunter, I would encourage students to come to office
+hours but due to my specific situation, I didn't feel a need to use
+office hours to build a connection. I was running a special honors
+program and would be running special events throughout the semester
+with the kids so we all had plenty of opportunities to get to know
+each other.
+
+When I started teaching at Stuy, around 1993, I tried a similar
+practice, but in high school, it just wasn't practical. Instead of
+around 200 students, the number Griswold cited, I had about 150 but I
+couldn't do group meetings since I was teaching regents math and the
+discussions would frequently have a component about the students
+work. High School teachers also just don't have the time or space. I
+taught 5 out of 8 periods and had a professional period where I was
+tasked to do something by the school. That left 40 minutes for lunch
+and 40 for prep - not enough to even get grading and lesson planning
+done let alone meeting students. Couldn't really do it after school
+either. Besides me no longer being on the clock, can't ask students to
+arbitrarily stay.
+
+So, while I love the practice, in high school, it's largely a no go
+unless the school actually sets up a system where these connections
+can be made. Back in the day, we had homeroom - 10 minutes every day
+with the same homeroom teacher. Not the same as connecting with all
+your instructors but it did, if the teacher and class wanted, allow
+for connections within that cohort. Unfortunately, at least at Stuy,
+daily homeroom is no more. Other schools have "advisory" periods which
+can function similarly but I think they're too few and far
+between. The human side of education has consistently been
+marginalized for more test prep and teaching for jobs.
+
+That human side brings me to another point of the podcast - the rise
+if genAI, both as a resource for students on their own and genAI TAs
+and tutors.
+
+In the podcast it was noted that students usually won't go to a
+professor until after they've exhausted other resources including
+genAI. With AI tutors and TAs it's even worse - with them,
+institutions are effectively encouraging students to avoid human
+interactions.
+
+I mentioned this in my [[https://cestlaz.zamansky.net/posts/school-start-fall-2025/][last post]] - how the big difference at Stuy was
+that kids are so much more self absorbed in their phones and other
+devices and not interacting with each other. That's also a theme I
+keep hearing across education - that kids don't know how to interact
+with each other nor with adults. This is why things like advisory or
+regular homeroom in high school and practices like Prof. Griswold's
+are so important - so much more important than people realize.
+
+I've long maintained that connections and relationships are critical
+in education so thanks to William G. Griswold for your practice and
+for sharing it and thanks to Kristen Stephens-Martinez for providing
+the platform.
+
+
+
+
+
