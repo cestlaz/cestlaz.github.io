@@ -1,0 +1,186 @@
+---
+title: Dual Credit Or AP
+date: 2025-09-15T14:50:11-04:00
+tags:
+- Education
+- College
+- AP
+categories:
+- Education
+draft: false
+--- 
+
+I saw
+[[https://www.nysed.gov/news/2025/new-york-state-education-department-proposes-bold-statewide-regulations-support-equitable][this release]] from NYSED the other day.
+
+New York State wants to create a standard set of policies and
+procedures for schools implementing Dual Credit programs.
+
+A Duel Credit class is a college class taken by high school
+students. The high school offering the class does so in partnership
+with some college or university. A student who passes the class
+receives both high school and college credit. They in fact, get a
+transcript from the partner college with the course or courses they've
+taken.
+
+The partnerships and models were all handled independently and have
+taken on different forms. Over the years, I've seen these courses
+offered in the high schools taught by HS teachers and a the colleges,
+taught by college instructors. I've also seen it where the classes are
+entirely made up of HS students and also when they're integrated into
+classes with college students.
+
+It's probably good that the state is standardizing dual credit but I'm
+not convinced that it will actually improve anything. It may in fact
+make things worse in some cases.
+
+So, let's dive in by first comparing dual credit with the other big
+college credit for high school plan - the AP program offered by the
+college board. As I'm sure you know, for AP, a school offers an AP
+course after having a syllabus (and maybe instructor now) approved by
+the college board and they take a single high stakes exam near the end
+of the school year. Colleges then decide based on that single score if
+they want to award credit, placement or  neither.
+
+Let's look at AP first:
+
+* Pros of AP
+- It's huge and it exists.
+- There's no real cost to the school othan the single exam fee which
+  students might pay or in some cases, districts or government funds
+  pay.
+- It's national so for the most part, the AP Calculus curriculum
+  anywhere in the country will, at the least common denominator level,
+  be the same though some schools might have more rigorous programs.
+- Similarly, it means a wealth or resources are available for most AP
+  classes.
+* Cons of AP
+- A single test on a single day is not a good assessment.
+- APCS Principles and possibly other classes are not college level
+  (not necessarily a bad thing but we're talking college classes here).
+- Curriculum and many course decisions made by an outside
+  organization - the College Board. They are neither a K12 school nor
+  a college.
+- Test credit seems to be awarded less and less although blanket
+  elective credit seems relatively freely given.
+- Instruction quality can be uneven across schools since the
+  assessment is a single test on a single day.
+  
+It's worth noting that the College Board has been branching out to
+more non college level courses recently for whatever that's worth but
+since, as I just mentioned above, we're talking specifically about
+college courses and college credit, that's neither here nor there.
+
+* Pros of dual credit
+- Assessments can include anything and everything and the student
+  should receive a grade based on the entirety of their performance
+  and not on a single high stakes exam.
+- Transcript credit is harder for a college to ignore than an AP
+  score.
+* Cons of dual credit
+- Class quality is uneven. Some dual credit courses are rigorous
+  college courses but, as was noted in a news expose a few years ago,
+  there are dual credit schools where the course work was clearly not
+  at a college level ([[https://www.npr.org/sections/ed/2016/03/14/469207779/turmoil-behind-the-scenes-at-a-nationally-lauded-high-school][link]]).
+- In my opinion, HS teachers are typically better instructors than
+  college instructors and in many partnerships, they aren't allowed to
+  teach the dual credit courses.
+  
+* Maybe pro, maybe con for dual credit  
+- If the class is taught on the college campus, it can expose high
+  school students to the college experience and taking a college level
+  class while in high school.
+  
+Now, I've never been a fan of the College Board. I feel they have too
+much influence over American education and I don't agree with a number
+of their decisions in creating at least their computer science
+offerings. I've always believed that a HS teacher who knows their
+stuff could design a better experience for their students without the
+college board.
+
+I've also always felt that the transcript credit from dual credit
+programs is safer and stronger. I still believe that but it's not
+necessarily a great thing.
+
+Also, while I haven't changed my opinion on the College Board I will
+say that more and more teachers are being poorly prepared overall and
+just want a canned curriculum (something I find abhorrent). Back when
+I started a "curriculum" was a short line item list of topics. Maybe
+it had matching text book page numbers on the side. That was it - you
+were expected to be able to build out from there. Not so much
+anymore. I'm sad about this because the students suffer when it's one
+size fits none but I can't do anything about it anymore. Even when I
+could do something it was only in my teeny tiny corner of the world.
+
+On the plus side for the College Board, or at least APCS-A is that
+when I taught at Hunter, I placed every student who had taken APCS-A
+into CSCI13500 - basically the equivalent or a stronger APCS-A with
+more OOP stuff but in C++ and in one semester, not a year. They all
+did splendidly regardless of AP score. My feelings was that one year
+of active programming made the difference. On the other hand, I didn't
+give any placement for students who took APCS-Principles and that was
+the right decision as some of them came in with some knowledge, but
+many would have been better off by taking nothing at all.
+
+So, in my experience, APCS-A, in spite of my College Board misgivings
+consistently did right by the students but APCS-Principles, not so
+much.
+
+What about dual credit. Well, while it all sounded superior to AP on
+paper, in practice, that wasn't the case. Over my first couple of
+years at Hunter. I met, both in my classes and just on campus, a
+number of students from PTECH, the school mentioned in the article I
+linked in the con dual credit list. In my estimation, at least in
+the classes that can be objectively evaluated (CS and Math) the kids
+learned little to nothing in their "college" courses.
+
+It got worse. I then started getting kids who had taken a dual credit
+CS class so I had to place them in a more advanced section. Most of
+the classes were self contained - that is, only HS kids taking the
+classes either on the college campus or the high school campus. The
+level of preparation was uneven at best but strongly weighed as poorly
+prepared. Some of this could be institutional differences but after
+looking into things, no, it's just that the high school kids weren't
+getting the real college treatment.
+
+This was disappointing.
+
+So, now here comes NYSED to save the day. Requiring partnership
+agreements and presumably putting some state requirements on them are
+probably good.
+
+The data reporting and college course standards are where I'm
+concerned, particularly since they can't track kids after they
+complete the dual credit courses.
+
+If they're tracking pass/fail and they probably will then that will
+encourage the dual credit programs to pass everyone and I really don't
+see how they can enforce the class standards.
+
+On the other hand, if they come down too heavy, creative programs will
+likely be stifled.
+
+I guess we'll just have to wait and see.
+
+In the meantime, we've got the two options of AP and Dual Credit. Are
+there any others? What does your school do and which do you think is
+better?
+
+
+
+
+Will they?
+
+I don't know. 
+
+
+
+
+
+
+pros and cons of each
+
+my experience with AP students at Hunter
+
+my experience with dual credit at Hunter
+
