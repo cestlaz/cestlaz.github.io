@@ -1,0 +1,126 @@
+---
+title: Gifted Education - Acceleration or Enrichment
+date: 2025-10-10T08:28:53-04:00
+tags:
+- education
+- gifted
+categories:
+- education
+draft: false
+--- 
+
+Last week my StuyCS family community had a discussion about Zohran
+Mamdani's plans for gifted education. For people outside of New York,
+Mamdani is the Democratic candidate for mayor and there was a recent
+article outlining his plans or rather, his positions on gifted ed -
+always a hot button topic for Stuy alums. It also turns out to be a
+hot button topic in education in general in New York.
+
+Long story short, he plans to phase out admission to gifted programs
+in kindergarten while leaving the 3rd grade starting point. He also
+plans to leave the SHSAT - the entrance exam used for Stuy, Science,
+Tech and a few other schools in place while bolstering programs that
+help raise awareness and help prep middle school students from
+underrepresented groups for the exam.
+
+Overall, I approve of his plans but something struck me in the article
+it mentioned in passing that the gifted programs would use a model of
+acceleration, a path that I would question as I think enrichment is
+generally a better way to go.
+
+Acceleration basically means you go through the material faster. When
+Abe Baumel was principal of Stuy - from Fall '84 through sometime in
+the early '90s, he only allowed honors sections be created if they
+were accelerated - his stance was that "all Stuy classes are honors
+classes." This meant that the math honors program had students
+finishing geometry and alg2/trig in one three semesters rather than
+four. This did allow those students to take a class in Linear Algebra
+and Number Theory.
+
+After Baumel retired, the math department shifted the honors program
+to an enrichment model.
+
+Looking at gifted or honors programs not only at Stuy but also in the
+earlier grades, it's easy to see some of the problems with the
+acceleration model but other issues are subtler.
+
+To start with, once you're in an accelerated program, you're off
+track - topic for topic you're not at the same place as the rest of
+the school. This means students can't be placed in to the gifted
+program if they're identified later unless the gifted and regular
+programs sync up at some point later on.
+
+It also means that a student who has to leave the gifted program for
+the regular program will either be placed in a class where they've
+already covered all the material or in a class that's more advanced
+and the student is missing something.
+
+Far from ideal.
+
+Another issue is that kids are sometimes accelerated too far too fast
+and while they can get by the standardized tests, they don't really
+grok the material. I saw this a number of times at Stuyvesant. A kid
+would come from a school that had an overall weak program but they'd
+have a small number of high achieving students. They'd push them
+through the regents classes at an accelerated rate. I'd then get them
+at Stuy in a more advanced math class and even though this kid got an
+A in their prior classes and a ninety-something on the regents, they
+just didn't really have a strong foundation in the material. They
+studied it too superficially and just learned how to pass the test.
+
+I've also seen this phenomenon when kids take Physics too early.
+
+Relating to this, but sticking with math education, a number of
+friends and colleagues over the years have had a chance to study
+education systems in other countries and a frequent comment is that
+some other countries cover far less in their math courses but what is
+covered is covered more deeply. Every single person I've spoken to
+who's observed this noted that the kids educated in that way seem to
+end up much stronger mathematically overall.
+
+I've even seen this with my own kids. When they were really young, I
+tried to introduce them to Algebra. First it was too early and they
+just didn't get it. I quickly dropped the effort. Later, I tried again
+and they were able to do the algebra but they didn't really get it,
+they just seemed to be following the form. I dropped the effort
+again. Finally, I approached the topic a third time and this time,
+they were at the right developmental place and mastered the topic with
+no difficulty in no time.
+
+So, acceleration is, let us say, problematic.
+
+Enrichment is better. What's enrichment? Going more deeply into the
+subject you'd normally be studying anyway, looking at interesting
+applications of the subject, or covering tangential material that
+won't be covered in future required classes.
+
+In a math class, maybe doing more derivations or proofs or as another
+example, when I taught linear algebra, I'd relate it to computer
+graphics applications. Nowadays, I'd probably look at something that
+relates to AI or ML but back then, graphics were all the rage.
+
+In my CS honors classes at Hunter, I'd cover aspects of software
+engineering or interesting approaches that they would see neither in
+the regular CS sections of my class nor in future required CS classes.
+
+Actually, many of the classes I designed at Stuy were like this - what
+are enrichment topics that these kids could use that they won't see in
+college. If I'm just teaching them stuff they'll get again in a couple
+of years when they'll probably be more ready for it, then what's the
+point.
+
+With enrichment, kids can enter and leave gifted programs at any point
+in time. They also serve to reinforce the core topics they're supposed
+to be learning rather than glossing over materials in a race to get as
+far ahead as possible.
+
+If Zohran Mamdani wins (and he currently has my vote), I hope his
+education people go further than just look at gifted programs at a
+superficial level and that they look at how they're implemented as
+well.
+
+
+
+
+
+
