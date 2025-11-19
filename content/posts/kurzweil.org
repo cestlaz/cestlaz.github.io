@@ -1,0 +1,128 @@
+---
+title: Ray Kurzweil, AI, Intelligence, and Education
+date: 2025-11-18T19:27:11-04:00
+tags:
+- AI
+- Intelligence
+categories:
+- AI
+draft: False
+--- 
+
+Over a month since my last post. Wow.
+
+Anyway, last week was full of Artificial Intelligence events. On
+Wednesday, I attended a talk by Ray Kurzweil, hosted by Trinity High
+School - a posh private school on the Upper West Side, The Academy for
+Teachers, and Teach for America. Thursday was a StuyCS event which was
+really about early stage startups but much of the discussion revolved
+around AI and Friday was a meeting of CUNY CS educators where the
+topic of the day was, of course, AI - I was there
+to pitch, well, [[https://pitchfest.github.io/][Pitchfest]].
+
+All three were great but I wanted to write about the Kurzweil talk.
+
+The talk was supposed to be about AI and the future of education but
+he really didn't share any deep thoughts on the subject. He did,
+however bring up some topics that made me think about a number of
+issues.
+
+A big part of the talk involved Kurzweil talking about what he
+described as our biological brain and our other, external brain - that
+being what we have access to via our phones or other computing
+devices. The example he gave multiple times was that we might be
+thinking of an actor and forgot who they were but we can easily use
+our phone to look them up which, in a way, increases our intelligence
+over us, say 30 years ago.
+
+Kurzweil predicts that by some time next decade we'll have achieved
+Artificial General Intelligence and in fact our biological brain will
+be directly connected to our "external brain." Then, if we're asked
+about that actor we'll just be able to give the answer instantly. We
+won't even know if the answer came from the biological brain or the
+other one.
+
+It will have made us smarter.
+
+Or did it?
+
+This was the big question I was left with.
+
+I was catching up with an old high school buddy and was relaying this
+to him and he hit the nail on the head. He said "or at least we'll
+have more knowledge."
+
+Does knowing more stuff actually make us smarter?
+
+It's an interesting question.
+
+Years ago, a few of us at Stuy were talking about two particular
+students. Both very smart by any reasonable measure and in fact both
+were individual standouts. There was a big difference between them
+though. One student knew a lot - had a lot of information. Had a great
+memory, read tons of books, could produce formula after formula on
+demand and so forth. The other didn't have nearly as much information
+at the ready but was stronger at figuring things out. The first
+student would just know the theorem, the second would derive it.
+
+Who was "smarter?"
+
+We mostly felt the one who was the stronger problem solver was
+"smarter" than the one with more knowledge.
+
+So how does it play out with AI?
+
+Will all that knowledge make us smarter?
+
+We'll "know" all the formulas but will we know when to use them? Will
+knowing all the chords make me a better composer? Knowledge of color
+theory a better artist?
+
+It also raises the question of how the information will exist and be
+"communicated" to our brain. Right now most of the information we
+interface with is textual - word based descriptions. Will textual
+knowledge translate to non textual concepts?
+
+How does this play against things like Synesthesia where some people
+might "see" music as colors or "smell" scents for shapes.
+
+I don't have any answers here but these are questions that go well
+beyond the already interesting and challenging questions of students
+using LLMs.
+
+Of course, those LLM questions came up during the second part of the
+talk. That was something of a reverse panel where three guests - one,
+a representative from Math for America, one from the Academy for
+Teachers, and one form Trinity asked Kurzweil questions.
+
+Another question that came up during that panel part made me
+chuckle. It was raised by the Trinity representative - I think she was
+head of school. She went on about he strong belief in equity and
+diversity and ended with concerns about AI - could it be an equalizer.
+
+I chuckled because the person who was asking the question hold a
+position that in spite of statements to the contrary is very much
+about maintaining separation between the "elite" and everyone else. I
+mean, a high school that has an annual tuition of over $60,000 isn't
+really working for the common man. The person she was asking, Ray
+Kurzweil, on the other hand was a product of New York City public
+schools. Martin Van Buren high school specifically.
+
+Chuckles aside, it's an important question and I didn't agree with the
+answer. Kurzweil addressed the audience noting that they all had
+phones and that having a phone was not a big deal financially. As I
+looked around, I noted that the audience was mostly white, mostly well
+dressed, and apparently largely affluent.
+
+Sadly, the digital divide is still real and I don't see things getting
+better with AI.
+
+In any event, I really enjoyed the evening and it did leave me
+thinking about things.
+
+I know that we're all thinking about AI as educators. I wonder if
+others are also thinking about the types of issues I was left thinking
+about after Kurzweil's talk.
+
+
+
