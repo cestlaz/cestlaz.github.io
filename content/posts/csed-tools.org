@@ -1,0 +1,121 @@
+---
+title: Funding for CS Educational tools
+date: 2026-01-20 04:03:43
+tags:
+- tools
+categories:
+- tools 
+draft: false
+--- 
+
+It's 10:00am and I'm sitting in my hotel room in Barcelona.
+
+For the past few years, Devorah and I have taken a trip to someplace
+warmer (but not necessarily warm) in late January or early
+February. Something we could never do before retiring and this year,
+we decided in Barcelona and Madrid because airfare and hotel prices
+were just so low - cheaper than the things we were first considering
+doing in our own country. 
+
+Normally we'd be out and about but we're going on a walking tour at
+11:00 and it's a rainy day so we're just staying in until then.
+
+I also realize that I haven't blogged in a couple of months. It's not
+that I haven't been thinking about writing - I've been programming a
+bit more, playing with AI and other tools and a number of times, I've
+thought that maybe I should blog about it but indeed the frequency of
+CS Ed blogging is really down and I guess blogging in general so that
+takes away some motivation.
+
+This morning though, I read Alfred Thompsons [[https://blog.acthompson.net/2026/01/funding-for-cs-educational-tools.html][piece]] on funding CS
+Education tools so with time to kill figured I'd put in some
+thoughts. Alfred talks about University funded and public funded
+efforts like Alice and also private tools with a free tier but he left
+out commercial endeavors specifically created for the eduation market. 
+
+Remember Codecademy? They were one of the darlings during the Internet
+2.0 boom and everyone can (and should) code movement and was one of
+the companies Mayor Michael Bloomberg highlighted as he pushed Tech in
+NY during his administration.
+
+They were interesting because they marketed to individuals not to
+schools and not to educators at schools. They had a free tier and
+pushed individual learners but ultimately, I think they pivoted to
+corporate training. An interesting criticism that their users
+frequently brought up was that since you learned in a sandbox even
+after you finished their courses, you couldn't do anything real. You
+could theoretically write something in Python let's say but had no way
+of running it outside of the Codecademy environment.
+
+Another was Codesters.com which was a new product path for Tutor
+Associates. Codesters was and is an online Python IDE learning
+environment complete with lessons. They had an innovative combination
+of drag and drop and text based programming that I liked and I saw
+reproduced recently by another project that I saw demoed at a recent
+CSTA conference. In contrast to Codecademy, Codesters marketed to
+schools and teachers with the intent on teachers using it with their
+classes.
+
+Both of these contrast with something like AppInventor which I don't
+believe started as an educational endeavor. I could be wrong but I
+seem to recall it was a fast prototyping tool and then shifted to the
+ed space. They also contrast AppInventor  and MakeCode in that
+Codesters came out of a small business and Codecademy was a startup
+while Google and Microsoft - both tech giants.
+
+Going with the privately developed CS Education products I want to
+highlight two more. [[https://pickcode.io/][Pickode]] and [[https://codehs.com/][CodeHS]]. Both developed specifically as
+tools to be used for learning programming. Full disclosure - I know
+the founders of both companies and consider all of them
+friends. Independent of that, I like both of their products.
+
+I also want to contrast both of them with another startup project that
+was briefly the darling of the CSEd community - Repl.it.
+
+Repl.it was and is an online development environment. They provided a
+substantial free tier and environments to program in almost any
+language. They also integrated with Github and had a variety of
+teacher support tools so managing classes was pretty easy.
+
+Overnight it seemed there was mass adoption of Repl.it in the CS Ed
+world. They appeared to want to support education and they provided
+some great tools.
+
+It didn't last though.
+
+Abruptly, mid semester, Repl.it decided they were going to pivot their
+business and they shut down their educational support tools. I can't
+tell you how many teachers were left out in the lurch.
+
+A perfect example of the danger of using commercial software. This
+wasn't even a free tier going away it was a product going away because
+the company no longer wants to support it.
+
+In contrast to Repl.it which was a generic online IDE looking for a market,
+and found CS education until something better came along, Pickcode and CodeHS 
+were specifically designed for education so were safer landing spots
+for teachers and their students. CodeHS, more established, bigger, and
+with more offferings and Pickcode, newer, smaller, and able to offer a
+more boutique type service where teachers who were customers could
+really help shape the product. 
+
+This classroom side edtech startup ecosystem makes another player to
+add to the ones Alfred talked about - university based research, and big
+tech industry projects.
+
+Both CodeHS and Pickcode offer free tiers and there's no guarantee
+they'll be there forever but since online leaning IDE is their core
+business, one runs less of a risk of the company pivoting like what
+happened with Repl.it
+
+Moving forward, I'm not sure what the edtech startup ecosystem will
+look like for CS in the near to mid future - I haven't given it much
+thought yet but one would think that even as CS education starts to
+deal with AI, there will still be enough of a need and market for new
+startups and or new products from existing players.
+
+Okay, so that's it for my first blog post in a couple of months and
+first one in 2026. We'll see if I can get back into a semi regular
+writing groove.
+
+

@@ -26,13 +26,13 @@ enableEmoji = true
 pygmentsCodeFences = true
 
 [services]
-  [services.disqus]
-    shortname = 'cestlaz'
+#  [services.disqus]
+#    shortname = 'cestlaz'
 
-disqusShortname = "cestlaz" #Disqus shortname
-commentAutoload = true
+#disqusShortname = "cestlaz" #Disqus shortname
+#commentAutoload = true
 
-googleAnalytics = "G-VPZ5Z7DJ45" #Google Analytics ID
+#googleAnalytics = "G-VPZ5Z7DJ45" #Google Analytics ID
 
 [params.GoogleAnalytics]
 enabled = true
@@ -69,7 +69,6 @@ copyCodeButton = true
 rssAsSocialIcon = true
 locale = "en-us"
 toc = false
-
 
 social = [
   { id = "bluesky", url = "https://bsky.app/profile/zamansky.bsky.social" },
