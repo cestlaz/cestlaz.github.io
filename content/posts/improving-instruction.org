@@ -1,0 +1,95 @@
+---
+title: Improving Instruction - College and K12
+date: 2026-01-21 04:03:43
+tags:
+- instruction
+categories:
+- instruction
+draft: false
+--- 
+
+Back in for the evening. Not in Barcelona anymore - spending a few
+days now in Madrid. Sadly, I got a message from a fellow CS Educator
+who lives in Barcelona the day we left so if any reader out there is
+in Madrid - I'm hear a couple more days - let me know.
+
+For the post at hand, I read [[https://computinged.wordpress.com/2026/01/20/learning-to-teach-better-by-observation-what-i-did-on-my-sabbatical/#comment-81950][this]] post the other day by Mark Guzdial
+and it got me thinking about a number of things. The difference in
+educator development between K12 and college, how teachers are and
+aren't improved, and specifically, observations as that was a core
+part of Mark's post.
+
+Since I'm just in from a long day of walking and touristing and
+there's a HUGE amount to cover, I think I'll just lay out how
+observations, in my experience, are and arn't used and then dig deeper
+in future posts, probably when I'm back in New York.
+
+As a public school teacher in New York, the primary method of being
+evaluated is observation - you're observed by your supervisor. In my
+case, it was usually my department chair but in a smaller school it
+might be the principal or any assistant principal.
+
+Traditionally, assistant principals and principals taught for many
+years before moving into administration but under the Bloomberg
+Administration, they fast tracked non educators into the positions so
+you might be observed by someone who just had a couple of years in the
+classroom. Hardly ideal.
+
+Note that all of this is the principal observing the teacher whereas
+Mark was talking about an instructor observing another instructor to
+see what they could glean. I'll talk about that and the relationships
+between the two in a future post.
+
+Also, I said this was the method by which teachers were evaluated -
+not improved. The observation plan was supposed to be about teacher
+improvement but it rarely is. Again, more on this later.
+
+When I started as an untenured, unappointed teacher, I was observed 3
+times a semester - 6 a year. Once appointed, which meant that I was
+officially assigned to a school and was no longer considered term to
+term, it was once a semester. Finally, once tenured it was once a
+year.
+
+That changed over time and in my later years it was back to three
+times a semester or six a year.
+
+As a CS teacher, I was never observed by someone who knew my subject
+area but still some observations were helpful. Most though were just checking
+the boxes and not necessarily for bad reasons but again, that's for a
+later post.
+
+Now note that none of this involves a teacher observing another
+teacher though that could be done in a limited capacity early in my
+career. Except for that, it was all top down.
+
+Let's contrast that to college. I can only speak to how things worked
+at Hunter but I think at least all of CUNY's the same. Once each
+semester I was observed by a fellow full time faculty member. Each
+department had it's own way of doing this. Curriculum and Teaching,
+where I did the observing, had a lengthy form that, to be honest, was
+pretty worthless. CS, where I was observed, had a much shorter form
+with checkoffs as well as room for written responses but it was
+similarly worthless.
+
+Basically, a full time faculty member, who wasn't trained as a
+teacher, would see me teach one lesson and then write it up. Most saw
+the lesson, we talked about it then wrote it up. One teacher didn't
+like some aspects of what I was doing, I found it annoying because the
+observer was a professor with a reputaton as a bad teacher but it
+didn't matter because it wasn't going to affect me overall anyway. In
+any event, it wasn't really about improving instruction, it was really
+about a cursory check on instructurs.
+
+Neither in K12 nor in college was there any official way of observing
+other instructors. 
+
+So that's the framework on how observations were used over my career.
+
+In future posts I'll dig into:
+ - The variations on observations in K12
+ - Teachers observing or sitting in on other teachers
+ - Why it's tricky to do
+ - Why it's tricky to get something out of.
+
+   But I think this is enough for tonight.
+   
