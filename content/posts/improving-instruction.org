@@ -11,7 +11,7 @@ draft: false
 Back in for the evening. Not in Barcelona anymore - spending a few
 days now in Madrid. Sadly, I got a message from a fellow CS Educator
 who lives in Barcelona the day we left so if any reader out there is
-in Madrid - I'm hear a couple more days - let me know.
+in Madrid - I'm here a couple more days - let me know.
 
 For the post at hand, I read [[https://computinged.wordpress.com/2026/01/20/learning-to-teach-better-by-observation-what-i-did-on-my-sabbatical/#comment-81950][this]] post the other day by Mark Guzdial
 and it got me thinking about a number of things. The difference in
