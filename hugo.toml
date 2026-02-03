@@ -24,10 +24,9 @@ mathjax=true
 summaryLength =10
 enableEmoji = true
 pygmentsCodeFences = true
-
 [services]
-#  [services.disqus]
-#    shortname = 'cestlaz'
+#[services.disqus]
+#shortname = 'cestlaz'
 
 #disqusShortname = "cestlaz" #Disqus shortname
 #commentAutoload = true

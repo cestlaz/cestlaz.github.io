@@ -1,0 +1,194 @@
+---
+title: Being Observed 
+date: 2026-02-03 04:03:43
+tags:
+- instruction
+categories:
+- instruction
+draft: false
+--- 
+
+Following up on my last post, let's dive in to being oberved as a
+model for teacher improvement and teacher evaluation. Next time we'll
+look at the flip side - teachers observing for improvement.
+
+As I mentioned last time, I'm writing about New York City public
+schools but would be interested in hearing what things are like in
+other locations and other types of institutions.
+
+Evaluation *and* improvement - that's the line but it's rarely the
+case. It's almost never really about teacher improvement and for
+evaluation, well, boxes are checked and contracts fulfilled but I'm
+not convinced that even in evaluation, they do more than that.
+
+I recently saw someone post a comment about observaitons noting that
+"as long as your administration is reasonable or better, they're not
+really a big deal."
+
+I think this is accurate and we'll see why soon but there are cases
+where observations are weaponized.
+
+My first chairman absolutely loved me. I was a solid young teacher but
+he treated me like I was the greatest thing since Betty White. He even
+wrote up in one of my evaluations "this lesson was a perfect as a
+lesosn could be" which was patently wrong - it was a solid lesson and
+I daresay a really good "delivered by a beginner" lesson but it was
+nowhere near perfect.
+
+The problem with that chair though was that there were other teachers
+he didn't like at all, including a couple of my mentors and friends. I
+remember one morning in the Math office when he commented to me on the
+way out, "I'm going to get Bob today." Bob being a stand in name for
+the real teacher's name. The implication was that he was going to go
+in to observe him with the plan of writing up a bad report.
+
+This really scarred me. I taught for over thirty years and was
+observed countless time. I *never* received  a bad writeup in all that
+time, although once, in those early years, that chair came into my
+classroom, saw it was "one of those days" and noped right out since he
+liked me, but for all my time as a teacher, I always tightened up when
+my supervisor came in.
+
+Now, I say I never received a bad writeup but not all my observed
+lessons were winners. Early on when at Stuy, I was observed in a
+couple of "meh" lessons but my chairman there, Richard Rothenberg was
+much gentler. He honestly tried to make it about teacher improvement
+and just really liked watching his teachers teach. One lesson, I was
+just severely underestimating my classes potential and Richie gently
+nudged me along while really working hard to not make me feel bad
+about it. Another time, he felt that my lesson could be enriched with
+outside materials and that led to an ongoing conversation about math
+enrichment and context materials and I became a better teacher for it.
+
+Still, I would always freeze up.
+
+Getting back to why observations don't work for either evaluation or
+improvement, let's start with the burden on the observer.
+
+In a small high school of about 100 kids per grade, give or take,
+you'll have around 17 teachers - probably more like 20. When I was
+teaching high school, everyone was observed 6 times a semester though
+if you were tenured, 4 of the 6 would be partial period rather than
+full.
+
+That's over 100 observations.
+
+That same small school has one principal and one assistant principal,
+maybe a second AP but they probably also have more than 20 teachers
+anyway so let's say 1 principal and 1 AP. There are typically 180
+school days each year so that's over 1 observation a day.
+
+Oh, did I mention that every observation has a post ob conference and
+the full period observations are supposed to have a pre observation
+conference though that seems to rarely happen.
+
+Then, when it's all done, the supervisor has to write it all up.
+
+Now, don't forget that the principal and AP also have other
+responsibilities like, oh, I don't know, running the school in general
+and dealing with every emergency that comes up.
+
+On top of that, in a small school, the likelihood is that the
+supervisor isn't going to know much about the subject they're
+observing.
+
+Is it any surprise that this model fails in terms of teacher
+improvement and is, in schools with "reasonable or better"
+administrations pretty much box checking lip service.
+
+The other major problem with the observation model is that it's a
+snapshot without context. I've heard that some teachers, in schools
+with bad admins have an "observation" lesson ready to go and when the
+supervisor came in, that lesson would come out.
+
+I actually sort of did this but not really.
+
+NYC DOE at one point started using the Danielson Framework for
+observations. As a teacher evaluation tool, it's garbage. Even
+Danielson has repeatedly said this (and she kept saying it all the way
+to the bank). The Framework has dozens of areas of expertise that
+teachers are supposed to exhibit. Far too many to keep track of so our
+school decided on a subset that supervisors would look for as
+check boxes for observations.
+
+Well, to start, think about how ridiculous that is - what if I teach a
+great lesson that emphasizes the other areas of Danielson's framework?
+If that happened, my lesson would be unsatisfactory. I was actually
+talking to a colleague once and she said she hated the framework. I
+asked why since what they were looking for fit this teacher like a
+glove. She replied - it's only a matter of time until they change it
+and then I'll all of a sudden be a bad teacher. 
+
+In any event, I had a great chairman and we'd have an unspoken game
+we'd play when I was observed. We both knew my lesson would be fine so
+my chair would look for one or two Danielson points to "ding" me on
+and I'd try to cover them all while hiding one or two so they weren't
+obvious.
+
+It was all in good fun.
+
+One year, one of the categories was redirecting a student question to
+another student. During the post ob, my chair pointed out that I
+didn't cover that. Now I forget what I did, but I did something
+convoluted to hide it but specifically put in an instance of
+redirecting a student question to another question. I pointed it
+out. I won that round. I list others but again, this was a game we
+played.
+
+The truth is, we also spoke about the lesson in general and that was
+valuable. We did the Danielson nonsense because the DOE required it
+but then we just talked shop.
+
+And that actually brings me back to the beginning. The entire model is
+horribly flawed so is mostly just a check off in a decent school and
+unfortunately, a weapon in a bad one but for all the money spent and
+wasted on Danielson and refining how teachers are observed, my first
+chairman gave me guidance that I always tried to follow.
+
+He understood that all sorts of lessons can be good and can be
+bad. One of my colleagues was big on cooperative learning so that's
+how he framed most lessons. That didn't work so well for me so while I
+might incorporate some "cooperative learning" concepts, by lessons
+would look very different.  He said that when observing you just have
+to ask "is learning happening." And then as the observer you have to
+figure out where and why. If you can't you discuss that with the
+teacher.
+
+Simple but it's always served me well.
+
+It was reinforced very late in my career. I was talking to my current
+principal and they were talking about a certain legendary
+teacher. They commented "I can never bring any DOE officials into his
+class because we all know he's one of the best teachers in the school
+but he doesn't do things the way they expect them to be done."
+
+I'll finish off with a couple of observation alternatives that existed
+when I started teaching but seemed to fall to the wayside. They may
+still exist in other schools but I just don't know.
+
+One was the video observation. For one of my three each semester, I
+was allowed to video tape a lesson (yes, it was tape back then), watch
+it, then watch it again with my supervisor for the official
+observation.
+
+That took more time but it was actually pretty valuable if you could
+get over the cringe inducing moments when rewatching the lesson for
+the official part.
+
+The other was that we could do a peer observation for one of each
+three. I'd first conference with a colleague, we'd then observe each
+other, conference again with each other and then finally all meet with
+the supervisor for an official debriefing.
+
+This was also really good but took much more time and coordination was
+tough.
+
+So that's being observed in NYC public schools. Like I said at the
+top, I'd love to hear what's done elsewhere and if it's any better for
+either improvement or evaluation.
+
+Next up, we'll talk about teachers observing other teachers for
+improvement - the thing that Mark's initial post was really about that
+got me started on this rabbit hole.
+
+
