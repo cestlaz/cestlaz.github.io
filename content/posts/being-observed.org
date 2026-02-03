@@ -8,7 +8,7 @@ categories:
 draft: false
 --- 
 
-following up on my last post, let's dive in to being oberved as a
+Following up on my last post, let's dive in to being oberved as a
 model for teacher improvement and teacher evaluation. Next time we'll
 look at the flip side - teachers observing for improvement.
 
