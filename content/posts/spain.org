@@ -1,0 +1,222 @@
+---
+title: Rain in Spain
+date: 2026-02-06T08:52:12-04:00
+tags:
+- travel
+categories:
+- travel 
+draft: false
+--- 
+#+ATTR_HTML: :width 500 
+#+CAPTION: Cervantes monument
+[[/images/spain/cervantes.jpg]]
+
+
+Taking time out from my observation blog posts to write up a trip report.
+
+For the past few winters, Devorah and I have been trying to spend a
+few days somewhere warmer. Not necessarily warm, but warmer.
+
+We've done San Diego twice then Charleston and last year Savannah. We
+were thinking of New Orleans this time around but we're going there
+for the CSTA conference in July so started looking around. It turned
+out that air fairs to Spain, specifically to Madrid or Barcelona were
+ridiculously inexpensive and hotels were also pretty affordable. Going
+to Europe was actually going to be a good site cheaper than travelling
+domestically so we booked the flights.
+
+Five days in Barcelona and five in Madrid with a day trip to Toledo.
+
+Got tons of great recs from former students and friends and this post
+will be the highlights. Partly to share and partly so that I have a
+memory.
+
+Besides the price, Spain checked the boxes. Barcelona was supposed to
+be low 40s going into the upper 50s most days and Madrid around 5
+degrees cooler. According to my research, each usually gets 4 days of
+rain in January.
+
+Unfortunately, we got all of them :-(.
+
+It threatened rain every day we were there and rained most of
+them. Fortunately, the rain really didn't hinder our trip and we still
+had a great time.
+
+* Barcelona
+
+We stayed at the [[https://oriente.atiramhotels.com/en/][Oriente Atiram hotel]] on Las Ramblas which is in a
+historic building and has a beautiful atrium. 
+
+After checking in we spent most of the first afternoon wandering
+around in the rain. Over the next few days we toured La Sagrada
+Familia and Park Guell - two of the architect [[https://en.wikipedia.org/wiki/Antoni_Gaud%C3%AD][Antonio Gaudi]]'s  most
+famous works and walked by a number of his others. Both were as
+magnificent as advertised and well worth the visit.
+
+#+ATTR_HTML: :width 250 
+#+CAPTION: Park Guell
+[[/images/spain/lizard.jpg]]
+
+#+ATTR_HTML: :width 250 
+#+CAPTION: Sagrada Familia
+[[/images/spain/sagrada.jpg]]
+
+Two of the architectural highlights though weren't by Gaudi. One was
+[[https://santpaubarcelona.org/][Sant Pau Recine Modernista]] - a complex that was formerly a
+hospital. Amazing site and really interesting both from the
+architecture and the history of the hospital and hospitals in
+general. The other was the [[https://en.wikipedia.org/wiki/Palau_de_la_M%C3%BAsica_Catalana][Palau de la Musica Catalana]] - an amazing
+concert hall. We visited but unfortunately, nothing was playing that
+interested us during our time in Barcelona. Both of these sites were
+designed by Lluís Domènech i Montaner.
+
+
+#+ATTR_HTML: :width 350 
+#+CAPTION: Concert hall
+[[/images/spain/concert.jpg]]
+
+#+ATTR_HTML: :width 350 
+#+CAPTION: Sagrada Familia
+[[/images/spain/hospital.jpg]]
+
+We also visited the Picasso museum, Miro foundation, a couple of
+smaller museums and even found a small museum in what was an old
+Jewish Synagogue. 
+
+Food was also dynomite. We hit one place for paella but mostly did
+Tapas. I was a little concerned with dining since they eat much later
+than we do. I thought we'd either have to totally shift our schedule
+or we'd just get bad tourist food. It actually worked out fine. We for
+the most part ate a little later but still earlier than most locals
+but as long as we were off the main tourist drags and squares we
+seemed to do fine.
+
+In fact, one particular place - probably our best
+meal in Barcelona, our early dining worked for us. It was [[https://www.bodega-biarritz.es/a-propos/][Bodega
+Biarritsz]] where they had a fixed tapas meal - 45 euros for 2 people or
+55 for two with an extra course of local cured meats and
+cheese. I looked to see if they took resrvations and their site said
+no and if you didn't want to wait, come off hours, specifically
+between 2:00pm and 6:30pm - score!!!!!
+
+** Toledo
+
+We did a day trip to Toledo from Madrid. There was enough in Madrid so
+we could have spent plenty more days without venturing out but Toledo
+had some Jewish stuff and we always like exploring our heritage when
+travelling even if we're technically of Ashkenazi decent and Spanish
+Jews would be Sophardic.
+
+#+ATTR_HTML: :width 350 
+#+CAPTION: Synagogue
+[[/images/spain/synagogue.jpg]]
+
+We visited one Synagogue/museum from the 1400s and another that was
+first a synagogue and then a Catholic church that dates back
+to 1205. That older synagogue interestingly enough was also designed
+by Muslims.
+
+We also hit few other interesting Jewish historic sites and some
+Catholic ones as well not to mention a quick stop in the El Greco
+museum.
+
+I found it interesting that on the one hand, prior to the trip I saw a
+fair amount of materials talking about Toledo as a center for the
+three major Abrahamic religions with an implied veneer of equality. It
+was nice to see that once there, the history wasn't whitewashed with
+references to Jews living under Islamic law as Dhimmis - second class
+citizens and the expulsion of the Jews from Spain in 1492 by Spain's
+Catholic royalty.
+
+Our Toledo visit was our rainiest day but I 100% recommend. If we get
+back to the region, we'll probably return to Toledo for another day
+since there are still a few things I want to see.
+
+* Madrid 
+
+Madid was also pretty terrific. We skipped the Prado - Madrid's
+largest and most famous art museum and decided to hit the other two of
+Madrid's big three - the Reina Sofía and the Museo Thyssen-Bornemisza.
+
+We did something similar when we went to Paris for a couple of days on
+a trip last year - skipped the Louvre but hit the Musee d'Orsay and a
+couple of others.
+
+The collections and exhibits at the Riena Sofia and the
+Thyssen-Bornemisra were more in line in what we're currently enjoying.
+
+I think we made the right decision. Devorah really wanted to see
+Picasso's Guernica so we hit that first at the Riena Sofia.
+
+#+ATTR_HTML: :width 350 
+#+CAPTION: Guernica
+[[/images/spain/gurnica.jpg]]
+
+It wasn't too crowded so we could get both up close and distance views
+to really take it in. I also loved that they had information on it's
+development and images of themes that never made it into the
+composition.
+
+The physical viewing was a stark contrast to when we were at the
+Rijksmuseum in Amsterdam last year and saw "The Night Watch." It wa
+covered in glass and you couldn't really get up to it (though a year
+before, when I was there with Batya you could).
+
+Overall the museum was great but I think I liked the
+Thyssen-Bornemisra even better. The main exhibit was set up
+chronologically starting with rooms full of fourteenth century mostly
+religous works. As you go through the museum you move through time,
+later visiting a room full of Hudson River School paintings, also
+impressionists, and up to more modern works.
+
+We also visited the Royal Palace which was impressive and various
+other sites around town.
+
+Of course, lots of great food.
+
+#+ATTR_HTML: :width 350 
+#+CAPTION: Churros
+[[/images/spain/churros.jpg]]
+
+#+ATTR_HTML: :width 350 
+#+CAPTION: tapas
+[[/images/spain/tapas.jpg]]
+
+Just as we found one particularly terrific restaurant in Barcelona we
+also did the same in Madrid. We originally set out for a place that
+looked good on Google maps but when we got to the address there was no
+restaurant to be found.
+
+We ended up a few blocks down at what maps to this place - [[https://www.google.com/maps/place/En+Busca+del+Tiempo/@40.4155767,-3.7025883,21z/data=!4m14!1m7!3m6!1s0xd42288080dc07f3:0x581949e25fe7583d!2sEn+Busca+del+Tiempo!8m2!3d40.4156437!4d-3.7026768!16s%2Fg%2F12qf91qkx!3m5!1s0xd42288080dc07f3:0x581949e25fe7583d!8m2!3d40.4156437!4d-3.7026768!16s%2Fg%2F12qf91qkx?entry=ttu&g_ep=EgoyMDI2MDIwMy4wIKXMDSoKLDEwMDc5MjA3M0gBUAM%3D][En Busca
+del Tiempo]] though the menu online doesn't match at all what we saw and
+what we had.
+
+We were given Spanish only menus but muddled through. Ordered three
+dishes - one tapa - a mushroom dish, what they had listed as a "snack"
+(based on Google translate) - Prawns braised in cider on rice and a
+meat dish. Way too much food but each dish was sublime.
+
+We had to go back the following night because we wanted to try their
+paella. Our waited recognized us and took good care of us. His English
+was far better than our Spanish so we managed to have a nice chat and
+at the end we were comped an extra. Definately going back next time
+we're in town.
+
+So that was ou January in Spain trip.
+
+Great time in spite of the rain.
+
+Thanks to all my friends who helped guide us in making our intenerary.
+
+Next time, we'll dive back in to observations - teachers observing
+each other.
+
+
+
+
+
+
+
+churros.jpg
+tapas.jpg
+
