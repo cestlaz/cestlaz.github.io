@@ -76,7 +76,7 @@ designed by Lluís Domènech i Montaner.
 [[/images/spain/concert.jpg]]
 
 #+ATTR_HTML: :width 350 
-#+CAPTION: Sagrada Familia
+#+CAPTION: Sant Pau Recine Modernista 
 [[/images/spain/hospital.jpg]]
 
 We also visited the Picasso museum, Miro foundation, a couple of
@@ -214,9 +214,4 @@ each other.
 
 
 
-
-
-
-churros.jpg
-tapas.jpg
 
