@@ -1,0 +1,136 @@
+---
+title: Teachers Observing Teachers
+date: 2026-02-10T08:38:37-04:00
+tags:
+- teaching
+categories:
+- teaching 
+draft: false
+---
+
+Finally we get to teachers observing teachers - what Mark was writing
+about to begin with.
+
+These observations could be a one off, for a few days, or even through
+a full course.
+
+This could also be a team teaching situation buy to be
+honest, I think that's a different beast. If I'm team teaching a
+course with someone, true, I can learn from them if and when we do
+joint preperation and things like grading and yes, I can learn
+something by being in the room when they're leading some activity but
+it's not the same since at that time, my job isn't to observe, my job
+would be to do something else to enhance the lesson - direct student
+support perhaps. A school won't be paying me to just observe another
+teacher except under special circumstances. If they're paying for two
+bodies in the room, they'll expect two bodies worth of work, whatever
+that means.
+
+So, let's stick with straigt observations.
+
+First, there are scheduling difficulties. A typical traditional High
+school teacher teaches 5 out of 8 periods a day. The school day might
+extend further but then the teacher would be coming in before hours or
+staying after.
+
+Of the three non teaching periods, one is their prep - when they make
+lesson plans, grade assignments etc.. One is lunch which contractually
+is "duty free," and even though one can observe during lunch, another
+teacher might not want a teacher eating in their room given the rodent
+and bug problem prevelant in many schools. The third period is the
+teachers "professional period." In some schools this is treated like a
+semi-free period, like the prep, but in many school's you get your
+professional assignment - maybe you have lunch or yard duty, maybe
+you're doing small group tutoring. If you're lucky, maybe your
+principal will allow you to use that period to observe.
+
+So, finding time to observe can be tough. If you have the free period,
+you're still limited - is the teacher you want to observe teaching the
+class you want to sit in on during your limited free time? What's
+more, do you also have time to talk either before the lesson or
+debrief after?
+
+Not easy.
+
+The one thing that works, scheduling wise, is that generally when
+setting up a school's program, you try to spread all the sections of a
+class across the day. That is, you won't have multiples of one class
+during the same period until pretty much every other period has at
+least one section going.
+
+In college, it theoretically should be easier - lecturers and
+professors schedules are generally more flexible but I'm sure there's
+still a laundry list of challenes that make observing hard.
+
+When I was scheduling CS at Stuy, I did try where I could to allow for
+teacher observations, particularly if a teacher was new to a
+subject. I tried to make sure that the new teacher could sit in on an
+experienced teacher's section and if possible, do it in a way that
+didn't give them something like 4 in a row or have them running all
+over the building. I wasn't always able, but I tried.
+
+Personally, I only managed large scale observations three times in my
+career. When I first started at Stuy, I was teaching a section of
+Linear Algebra. Having never taught it before, I sat in on a
+colleague's class earlier in the day. He also shared his old lesson
+plans with me but we never conferenced about the class. That was more
+about material and pacing though than about instruction.
+
+I also audited a History of New York class but that was because I
+wanted to take it and never had the chance back when I was a student.
+
+Both of these cases though were relatively early in my career when the
+professional period was mostly a second prep which made things easier.
+
+I also observed quite a bit in my first year teaching but back then
+teh DOE had a new teacher mentoring program where the teacher, me,
+would teach one period less as did my mentor. This gave me more time
+to both conference and observe which, combined with the supportive
+math department and faculty in general at Seward Park High School was
+what allowed me to survive as a first year teacher.
+
+I also did the video observations and peer observations back when the
+my school at the time (Seward) allowed them.
+
+Since then, it was mostly one offs (not counting when I officially
+observed as the CS program coordinator).
+
+Now, in terms of the actual observations - for those to be valuable
+the observer must be intentional. You can sit in on a class and just
+be another student trying to observe content and that's fine if that's
+what you're looking for but to develop as a pedagogue you've got to
+look for more.
+
+Of course, it's easy if you and the teacher you're observing specify
+what you're looking at ahead of time. Early on, I observed a series of
+lessons a friend taught because he was really good at setting up group
+experiences and using paper cut manipulatives - this was in a math
+class. I wasn't particularly good at that (or anything back then) and
+he invited me in.
+
+Other times, you really have to pay attention. Maybe things are
+obvious like an ongoing procedure a teacher uses. Sometimes it's
+subtle like how a teacher might move around a classroom. If they move
+towards a student who's starting to answer a question and then
+away. Was that random or for a purpose. Which way they face while
+writing on the board (yes that can be intentional). If they wrote out
+a definition on the board and had the students copy it - was that
+because they wanted the students to engage in a particular way - by
+transcribing a definition or did they just not have time to make up a
+slide with it before class?
+
+What about jokes? Are they spontaneous or scripted and if spontenious
+what will the teacher do when they teach the same class again later
+in the day.
+
+Observing a teacher can be incredibly valuable but you'll only get
+maximum value if you pick up on the subtleties. Maybe a teacher does
+something great and they don't even realize it!!! This is why talking
+shop around the observation is also hugely valuable.
+
+I'd like to think that at StuyCS we had a culture where teachers were
+comfortable popping in on each others classes and learning from each
+other but even so, the timing and other burdens make teachers
+observing each other a far rarer occurence than it should be.
+
+
