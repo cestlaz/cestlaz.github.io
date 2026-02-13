@@ -1,0 +1,88 @@
+---
+title: Unerasable - an effort to prevent the erasure of history
+date: 2026-02-13T16:36:09-04:00
+tags:
+- history
+categories:
+- history 
+draft: false
+---
+
+History is a funny thing.
+
+They say it's written by the victors but even when the "good guys"
+win, the history taught is often, let's say, incomplete.
+
+Back in school we'd learn about all sorts of feel good American
+equality stuff but how many learned about Black Wall Street and the
+Tusla Race Massacre?
+
+I've knew about the Green Book and Sundown Towns years before the
+"Green Book" movie and was shocked when I did learn about the towns,
+how recently they've existed and how many existed up [[https://justice.tougaloo.edu/sundown-towns/using-the-sundown-towns-database/state-map/][up north]].
+
+I didn't know, though until recently that the Green Book was modelled
+after [[https://merrimackvalleyhavurah.wordpress.com/2022/02/08/the-jewish-vacation-guide-a-response-to-american-antisemitism/][The Jewish Vacation Guide]] - a similar publication but to combat
+antisemitism and published a decade or so earlier.
+
+It's bad enough that we've been taught a false and rosy history of our
+country but it's getting worse.
+
+Under the current administratoin, history, particulary the history of
+marginalized groups is being erased. Most recently, the LGBTQ+ flag
+from Stonewall but the erasure is widespread and rather frightening.
+
+A friend of mine is part of a group leveraging
+tech to try to save history from erasure. In this case, specifically
+Black history.
+
+The project is [[https://unerasable.org/][Unerasable]].
+
+The project is leveraging various tech and technologies and they're
+looking for help.
+
+I'm sharing what my friend sent me below and if you're interested,
+drop me a line and I can connect you (or you can sign up on the site).
+
+#+begin_quote
+I wanted to share a project that started from a very personal place.
+
+After reading about the removal of slavery exhibits from national
+parks and other public spaces, I was heartbroken — and angry. As a
+father, I realized that on our trip to Philadelphia next week, I
+couldn't be sure what of our history would still be there to
+experience. So I started Unerasable with some community builders I
+work with.
+
+Unerasable is a decentralized public archive that uses 3D scanning,
+blockchain, and immersive tech to document and preserve historical
+spaces and exhibits before they’re removed or altered. We just
+launched our V1 site here and had our first team meeting this month —
+and now I’m reaching out to you all because we need technical
+collaborators.
+
+Here’s how you can help:
+
+ 1. 3D + Photogrammetry – We need folks who can advise on or
+    contribute to high-quality, accessible capture (from phone LiDAR
+    to pro gear).
+
+ 2. Blockchain – We're looking for tech sponsors or devs to help us
+    log provenance data (timestamped capture info, version history) in
+    a decentralized, durable way.
+
+ 3. XR / Immersive – We're designing a lightweight web experience
+    where users can return to erased spaces. If you’ve worked in AR/VR
+    or WebXR, we’d love your input or help building that layer.
+
+This project is open-source in spirit, urgent in mission, and deeply
+personal. If you’re interested in helping, collaborating, or
+connecting us to people in your networks — I’d love to talk.
+
+#+end_quote>
+
+Even with all the bad going on right now, it's heartening that there
+are good people trying to leverage tech for good.
+
+
+
