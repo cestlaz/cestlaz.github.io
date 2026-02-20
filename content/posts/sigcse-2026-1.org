@@ -1,0 +1,95 @@
+---
+title: Sigcse 2026 1
+date: 2026-02-20T09:01:11-04:00
+tags:
+- SIGCSE
+categories:
+- SIGCSE 
+draft: false
+--- 
+
+Time for another SIGCSE - the big Computer Science Education
+conference. This time in St. Louis.
+
+#+ATTR_HTML: :width 500 
+#+CAPTION: St. Louis Arch 
+[[/images/stlouis/arch1.jpg]]
+
+This is something like my 10th SIGCSE and the fourth I've attended
+with my daughter who's in her first year as a grad student, pursuing
+her PhD in CS with a focus on education.
+
+At this point, I think she knows more people here than I do.
+
+Actually, that was something I was thinking about. While I have my
+share of friends here at the conference, I know far fewer people. Back
+when I started, I knew most of the teams from Google, GitHub, TEALS,
+Microsoft, all of which had large representation. Also, there were
+more people from that CS4All efforts that I interacted with.
+
+Between all of those people not beign here anymore and retirements, I
+feel somewhat less connected.
+
+I guess that's just the circle of life - I'm on the retirement phase
+while youngsters like my daughter are on the upswing.
+
+A goal of mine, however is to be a co-author on a paper here with
+her one of these days and I'm still enjoying the conference very much.
+
+As usual, I'll write about the conference sessions, keynotes, and BOFs
+but since the conference is still going on as I write, I'll focus on
+the conference and St. Louis today.
+
+First off, St. Louis doesn't seem to do healthy food :-). The food's
+been great at the conference but not too many healthy choices. That's
+not a complaint mind you - I'm really enjoying the food and it's just
+a few days - like on a vacation. Just an observation.
+
+Now, on the food - the logistics have been impeccable. Best SIGCSE
+ever. At every break and at the reception they've had sufficient
+stations and they keep them filled. No lines at all. I've been really
+impressed. They also have had coffee, tea, and hot chocolate (with
+marshmallows and sprinkles if you like) available before the start of
+each day.
+
+Well done SIGCSE.
+
+We did a couple of touristy things before the conference started - we
+went to the zoo and up the Arch (the picture is from my foggy run
+early in the morning) - both cool but the highlight was
+visiting the Cathedral. It was really magnificient. Right up there
+with all the other great houses of worship, even the Sagrada Familia
+which we just visited a few weeks ago.
+
+
+#+ATTR_HTML: :width 500 
+#+CAPTION: St. Louis Arch
+[[/images/stlouis/arch2.jpg]]
+
+
+
+We also spent some time with a friend of Devorah's who warned us about
+safety. Don't go north or south too many blocks from the hotel and on
+and on. We figured, whatever - we're New Yorkers - we'll do our
+usual - be aware of your surroundings, walk confident, etc.
+
+At the conference though, for the first time in my memory, they showed
+a slide about safety - don't wear your badge outside, walk in groups,
+take ride shares.
+
+I haven't felt unsafe, but maybe the part of St. Louis we're in isn't
+so safe.
+
+I wanted to also hit the City Museum and the Blues museum but the City
+Museum was closed on my one tourist day and the Blues museum closed to
+early.
+
+I'll have more to say about the conference overall but since we're mid
+day two I'll hold off on that until the end.
+
+Next couple of posts though will focus on the sessions, keynotes, and
+BOFS.
+
+
+
+
