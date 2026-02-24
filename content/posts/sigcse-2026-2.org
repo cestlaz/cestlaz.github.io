@@ -1,0 +1,200 @@
+---
+title: Sigcse 2026 part 2 - keynotes
+date: 2026-02-21T13:31:09-04:00
+tags:
+- sigcse
+- keynotes
+categories:
+- sigcse 
+draft: false
+--- 
+
+I was going to wait to write this up until I got home. The conference
+ended on Saturday and it's now Monday afternoon and we're still in
+St. Louis due to the east coast blizzard. Right now we're booked on a
+flight home for Wednesday morning but I think there's more snow
+expected then so we'll see.
+
+As to the keynotes, well two keynotes and one panel, they were all
+solid and thought or maybe better, discussion provoking. 
+
+* Opening Keynote - Love, Learning, and Computing Education
+
+Opening was Amy Ko who gave a talk titled "Love, Learning, and
+Computing Education."
+
+I very much enjoyed the talk and judging by the fact that it was
+referenced in the second day panel as well as by the lead of one of
+the BOFs I attended, the talk at least got people thinking and talking
+and that's the point.
+
+Much of the talk focused on Ko's journey citing a few specific
+examples of teachers who were able to take the time to nurture Ko's
+love of learning through computing. These stories also told of the
+teachers creating a safe, accepting, and supporting space for Ko so
+we've got love going on here in multiple ways.
+
+I say "were able to" since many times the system works against
+teachers giving the type of support Ko received. In one example, a
+teacher worked with Ko outside of the class and the implication is
+that a good deal of time was volunteered. This sometimes just isn't
+possible.
+
+For most of my career, I had 34 kids per class, 5 classes per day, and
+frequently 2 or more preps. All this and almost no time to do prep
+work and student assessment. Much easier to make connections in a
+private school with say 15 kids in a class.
+
+This is not to say that it can't be done. I was indeed able to connect
+with many of my students as evident by the fact that so many have
+chosen to remain in touch with me post graduation. I also tried to
+create a safe and accepting environment wherever I've taught and
+again, based on former student feedback, I think overall I've done a
+good job,
+
+I also am pretty sure that there were some kids I was never able to
+connect with and some where I couldn't give them the support that they
+needed.
+
+Ko also touched on the purpose of computing education - is the goal
+to help our students flourish in general or to prepare them for
+careers at companies like Google?
+
+This is an interesting one and it's probably something more relevant
+to college educators.
+
+Do we teach the subject or the student?
+
+Well, in the early grades, it's all about the student. If you ask an
+elementary school teacher what they teach they'll say something like
+"first grade." Over the years, it shifts. If you ask the same question
+in high school or beyond, you might here "math" or something similar -
+the subjects, not the student.
+
+Of course, that's an over simplification but it was an important
+reminder that it's really the student - the person that's important.
+
+Even then, though, it's complicated.
+
+When I retired I got a note from a former student, they thanked me but
+at the end of the note, they said that the first thing they were able
+to do after getting that big tech job that they felt I helped them
+get, they were finally able to move their family into a decent
+apartment for the first time.
+
+Brought me to tears.
+
+The truth is, while we should be working to be a "force for good" in
+the development of our students, the practical can be important as
+well.
+
+Great keynote. Glad it got people thinking and talking.
+
+* Friday Panel
+Friday was a panel discussion of the SIGCSE award winners. Richard
+E. Ladner and Paul Tymann were on stage and the moderator also had
+some answers from Phillip Guo who wasn't present and who's paper on
+Python Tutor won the "test of time" award
+
+To be honest, I enjoyed the panel but there wasn't a lot that I found
+thought provoking.
+
+The moderator asked how CS education has evolved and both live
+panelists talked about the availability and ubiquity of
+computers. Phillip Guo's answer, provided in writing ahead of time
+focussed on how little the way we teach CS has changed which has both
+good points and bad ones.
+
+Paul Tymann commented on how we need to increase the number of CS PhDs
+and graduates and I'm not sure I agree here. CS has been the hot field
+for a while now and enrollments have been through the roof. Maybe a
+little contraction would be good. That's not to say that we shouldn't
+continue working to broaden participation but maybe we don't need the
+overall number to keep climbing - we need it just to be more
+representative of our populations.
+
+The one answer that I really liked was when the panelists were asked
+what they considered their greatest successes.
+
+I made a note "for me - my students success" and waited to hear what
+the panelists would say.
+
+Payl Tymann went first - he said something like this "there are all
+the papers I've published, grants I've won, ... but my real success
+has been my studnets."
+
+Yes!!! He got it right!!
+
+Richard Ladner agreed.
+
+It was a great way to wrap up the main part of the panel.
+
+During the audience question part, Tymann also had a great response
+noting that we don't teach students to think about the consequences of
+what they're doing and that we must look at the consequences of the
+curriculum.
+
+
+
+
+** Closing Saturday - CS and Software Engineering  Education post AI
+
+The closing keynote was given by Titus Winters.
+
+The thrust of this talk was that AI has changed the playing field for
+teaching CS.
+
+One point Winters made early was that the theory and practice of
+computing has diverged. Also that we teach too much on the theoretical
+side.
+
+Winters also went to say that we should move more towards planning and
+validation. Things like Software Architecture and Architecting,
+testing, planning, verification - all things that require problem
+solving and thinking, all things needed by tech professionals, and all
+things that aren't usually taught in a typical CS program.
+
+He also spoke on how programming is a craft but we grade it my
+matching specifications.
+
+Winters questioned why we teach Binary Search trees, how we teach Hash
+Tables, and ether we really ahve to spend so much time on leetcode
+problems.
+
+I mostly agree.
+
+Having an algorithms class where everything is done via proof or
+students just implement tough algorithms and data structures doesn't
+really prepare them for their futures, particularly as most CS majors
+are looking to become tech professionals and not academics.
+
+How much better would it be if we taught our students to have an
+understanding of runtime, how different real world situations can
+change performance, how we can improve performance with smart choices,
+and when we might not want to due to other factors.
+
+I used to teach a lesson where students started by writing code to
+find the mode of a data set. It was always an n^2 solution. The lesson
+would then lead them to a linear solution. We never spoke about big Oh
+but the kids got a taste of run time, refining data structures and
+algorithms, and when it matters and when it doesn't
+
+On the other hand, winters said that CS0 should be "vibe coding 101"
+and I'm not sure I agree with that.
+
+Overall this was another strong talk. I think Winters is partially
+correct but not entirely but it doesn't really matter. His talk is
+hopefully a launch pad for some hard discussions that as a field we
+really need to have.
+
+
+So those were the keynotes. Amy Ko focusing on the human side and
+Titus Winters on the technical with a little of both in between.
+
+If SIGCSE decides to make these available online, I'd recommend you
+watch all of them.
+
+Next up - sessions.
+
+
+
