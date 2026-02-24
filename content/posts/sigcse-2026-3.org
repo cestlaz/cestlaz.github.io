@@ -16,7 +16,7 @@ session - on how their developers and other professionals are using
 AI. The big difference? Do you want your AI co-pilot flavored or
 Gemini/Antigravity?
 
-The key points from the GitHub session was that when using AI, contect
+The key points from the GitHub session was that when using AI, context
 is everything - it's easy to say "build me a minecraft code" because
 the term "minecraft code" brings all the context. On the other hand,
 asking AI to build something new is much more challenging and requires
@@ -41,7 +41,7 @@ made clear that the companies are yet again talking out of both sides
 of their mouths - we need tech grads but we're not hiring them.
 
 I lost a ton of respect for Google back when they laid off a huge
-number of employees no because they were losing money but because they
+number of employees not because they were losing money but because they
 were making less money than before. While their talk was interesting,
 it didn't do anything to improve my image of the company that used to
 have a motto of "don't be evil."
