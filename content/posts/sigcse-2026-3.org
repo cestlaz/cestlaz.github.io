@@ -1,0 +1,213 @@
+---
+title: SIGCSE 2026 part 3 - Sessons and BOFs
+date: 2026-02-24T15:25:26-04:00
+tags:
+- SIGCSE
+categories:
+- SIGCSE
+draft: false
+--- 
+
+Still in St. Louis but we're now up to sessions and BOFs.
+
+On Thursday, I attended two sponsor sessions on AI. One by GitHub and
+the other Google. In retrospect, they were both really the same
+session - on how their developers and other professionals are using
+AI. The big difference? Do you want your AI co-pilot flavored or
+Gemini/Antigravity?
+
+The key points from the GitHub session was that when using AI, contect
+is everything - it's easy to say "build me a minecraft code" because
+the term "minecraft code" brings all the context. On the other hand,
+asking AI to build something new is much more challenging and requires
+that the engineer actually has a strong tech / CS background.
+
+Google had a similar point of view while explicitly saying that they
+expect their engineers to be able to leverage AI.
+
+An interesting point is that both seemed to indicate that there would
+still be a big need for CS grads but that they'd have to be able to
+use AI. This is also in line with Titus Winters keynote. The trouble
+is, companies are seriously slowing down their hiring of entry level
+engineers.
+
+Mixed messages here at best and in my opinion, the industry is going
+to be ina bind whe all those mid and upper level engineers retire and
+there won't be anyone to replace them.
+
+I went to both of these sessions to get a better feel to of what the
+workplace expected so they were worthwhile if redundant. They also
+made clear that the companies are yet again talking out of both sides
+of their mouths - we need tech grads but we're not hiring them.
+
+I lost a ton of respect for Google back when they laid off a huge
+number of employees no because they were losing money but because they
+were making less money than before. While their talk was interesting,
+it didn't do anything to improve my image of the company that used to
+have a motto of "don't be evil."
+
+I also attended a session by the ACM Gen AI task force. In it, they
+demo'd 6 tools and techniques educators used in their classes. Fun and
+interesting session. You can check out the six demo'd tool along with
+a bunch of others here:
+[[https://acm-education-genai-task-force.github.io/approaches.html][https://acm-education-genai-task-force.github.io/approaches.html]]. Another
+winner of the session. Some interesting ideas being shared by our
+colleagues.
+
+On Friday, I attended a session on Career Paths in Tech.
+
+One talk was on how students who partake in extracurricular activities
+like hackathons are more likely to get internships. No real surprise
+but the author shared some interesting data. One aspect not covered
+that I was interested in though, was the challenges of student
+involvement in said activities at commuter schools.
+
+The second talk was was on TicTok's role as a source for information
+on internships. The only interesting point here was that the info on
+TicTok was mostly on job listings and salary but not on specifics. I
+left feeling this was a negative result, that is, don't use TicTok, it
+isn't really helpful.
+
+The third talk was on the "open source resume" by Code Day. Basically
+the author curated internships for students at institutions where
+companies don't normally recruit. They formed hiring agreements with
+the companies "if the students show x,y,z you'll interview them." Of
+course, this led to success. I say of course becuase I saw this at
+Hunter an CUNY in general - they have some great students but the
+"top" companies won't look at them. If you can get those company in
+the door, they'll find some great students.
+
+Actually, I have more to say about this talk and Code Day's program
+but I'll save it for a post of its own.
+
+The other talk was on visualizing pathways between CS courses and
+careers. The author had built a tool to visually show students the
+relationship between any given CS class in a school's sequence and
+what they'll need for the workforce.
+
+It was an interesting talk and interesting tool but I wonder about
+how accurate the maps are. An algorithms course taught one way could
+prepare students incredibly well for industry but teach it another
+way, not so much. Still a great attempt to show students which courses
+are indeed valuable for any particular career path.
+
+I also attended a talk on Pedagogy in Theory of Compution and
+Algorithms but was disappointed. The talk was fine but it was really
+just professors discussing generic teaching techniques - nothing
+specific to algo or theory.
+
+Saturday consisted of two sessions.
+
+One was on AI tools for middle schoolers. I enjoyed the session but
+have to do a deeper dive on the tools - are they just surface tools
+that have the kids playing with AI or are they exposing the "how?"
+
+The final session was "It seemed like a good idea at the time." My
+favorite SIGCSE session. Presenters share an idea that they had for
+their classes that went horribly awry and well, hilarity ensues.
+
+Great session with some great discussion at the end and a great forum
+where educators who aren't afraid of trying something new can share.
+
+I can't do justice to the sessions in a blog post but if you go to
+SIGCSE in future years, I highly recommend this session.
+
+Finally we have the BOFs - birds of a feather sessions - basically
+group discussions focussed on a topic.
+
+I attended three.
+
+First was What do you mean by "learn how to use AI." Great small group
+discussions. Even more so because I was in a group with Briana
+Morrison and Corey Bart - two friends that I had not been able to
+catch up with in a long time and two really sharp people who's
+opinions I value. There were also a bunch of other great people in my
+group. It was a treat for me to hear there thoughts and to share
+ideas.
+
+Second was "Sticky Analogies" run by Dan Garcia among others. This was
+me rewarding myself. After going to sessions all day that I thought
+would be good for me and good for the few projects I'm working on, I
+decided to treat myself to a fun session. It was. A bunch of educators
+sharing analogies we used in classes.
+
+The final BOF I attended was titled "All Scripture is Useful for
+Teaching: CS Education through a Christian Worldview."
+
+Why would I, a Jewish Athiest with an extremely strong Jewish identity and, if I
+do say so myself, one who's pretty well versed in my religion as well
+as culture attend this session?
+
+Two reasons. One positive and one negative.
+
+The negative - I was put off by the way it was advertised. While most
+affinity groups - LGBTQ+, Black CS Educators, etc. have explicitly
+inclusive langauge in their session descriptions, that is "this
+session is for members of the LGBTQ+ community, allies, and those
+interested in learning more" or something similar, this session seemed
+to advertise as being only for Christians. That was offputting.
+
+The positive reason was that I was interested in how someone who was a
+devout Christian of any denomination would approach CS education.
+
+So, how did it go? Well, other than three things, the session wasn't
+specifically Christian. They organizers at the end mentioned that
+attendees, if they wanted could join a Christian CS Educators email
+list and also had Cross stickers that attendees could take for their
+badges if they wanted to easily identify each other. That was two and
+both were done in a non offensive way.
+
+The third was when they described what the BOF was all about, they
+basically shared a list of questions that were mostly based off of Amy
+Ko's keynote two days prior. They said that they wanted to focus on
+the love and that most of what Ko spoke about was consistent with
+their worldview and wanted to focus on those parts. That little bit -
+mentioning that parts were inconsistent with their worldview was the
+third thing.
+
+Take out those three remarks and you'd have a session of people
+talking about Amy Ko's keynote.
+
+While the parts that were inconsistent with their worldview are things
+I believe in I respect that they were setting up the BOF to be
+inclusive and to focus on shared positive values.
+
+The session then went to two small group sessions,
+
+If I'm being honest, my first small group was a disappointment. We
+went around, as per instructions, each introducing ourselves. We were
+then supposed to get to the group questions - how do you show love for
+your students, your students for each other, and so on.
+
+I introduced myself but then the next person spent the rest of the
+session basically explaining how I as an atheist am clearly wrong and
+even gave me a card at the end if I wanted to "have a conversation."
+Now, I could have taken the bait and argued since obviously I
+disagreed with his stance but that wasn't what I was there for.
+
+It was a shame - nobody else (including me) got to share on the actual
+BOF topic.
+
+My second subgroup was much better. I won't get into details but I
+left that group with a better understanding of how a devout Christian
+might approach aspects of CS education or education in general. I
+would have loved to explore more - were these teachers in religious
+schools or secular schools for example.
+
+In any event, I really think that while there can be some value to
+this BOF, they really should have more inclusive language in the
+description.
+
+So, that was SIGCSE 2026 for me.
+
+It's now Tuesday evening. One week after my arrival in St. Louis and
+three days after the conference ended.
+
+Terrific overall conference but at this point, I'm really hoping to
+get home soon,
+
+
+
+* BOF 1 - What do you mean by learn how to use AI
+* BOF 2 - Sticky Analogies ** BOF 2 - Sticky Analogies 
+* Bof 3 - 
