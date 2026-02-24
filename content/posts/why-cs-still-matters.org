@@ -1,0 +1,110 @@
+---
+title: Why CS Still Matters
+date: 2026-02-24T07:36:57-04:00
+tags:
+- AI
+- advocacy
+categories:
+- cs education
+draft: false
+--- 
+
+Still stuck in St. Louis and still haven't finished my SIGCSE series
+but there have been a few threads in the various CS Education groups
+about the big changes in code.org and how AI might be making learning
+CS the way we've been teaching it obsolete.
+
+Rubbish and here's a couple of stories as to why.
+
+Let's go back to the start of this century. 9/11 had just placed
+America into a state of shock. I was home and I heard from a former
+student - one who graduated in '96. I'll call him Steve since I can't
+check to see if he's okay with me revealing his identity until later.
+
+Steve knew that Stuy was right near the Twin Towers so he wanted to
+check to see if I was okay after the traumatic events. I also asked
+how he was doing. It turned out he was in Texas. Since graduating
+college he had joined the Blackstone group. He was working on the
+[[https://en.wikipedia.org/wiki/Enron_scandal][Enron thing]]. If you don't remember or are too young to know, check out
+the link. This was a big, complicated mess. Enron owned a huge number
+of companies and the debt and ownership relationships were nuts.
+
+My guy Steve was the only junior guy on the team. The rest?
+Experienced business people with MBAs and tons of experience and
+similarly experienced people with doctorates in Economics or
+similar. I forget what Steve's major was in college but he both
+studied CS with me at Stuyvesant and also knew a bunch more from self
+study.
+
+Now, forgive me but my memory is a little fuzzy. I forget if what he
+told me was what he already did or if it unfolded over the next few
+weeks and then I got the update but the gist is the same. I'll go with
+the assumption that the events I'm going to share here had already happened.
+
+I asked him how they were going to deal with the situation. Steve
+said that after a considerable amount of time, all the senior team
+members were stumped on any quick resolution an figured they'd be
+down in Texas for months trying to figure things out and even then,
+they weren't sure.
+
+My guy had different plans. He went back to his hotel room, took out
+his laptop, wrote up some code and a short time later, well, maybe not
+as short as now since computers and specifically laptops were slower
+back then, problem solved and Steve was written up in some Wall Street
+publication as the next "Wall Street Wiz Kid!"
+
+The thing is, Steve looked at the problem through the lens of a
+computer scientist.
+
+Now, you might say - but now with AI, anyone could just ask for the
+solution. Nonsense - back then, all those senior people could have
+come up with a solution and then grabbed a programmer to implement it
+
+The key was that Steve could think and problem solve from a computer
+scientists point of view and that gave him the edge. All the AI in the
+world wouldn't have helped that Blackstone team had Steve - the guy
+who could think and problem solve like a computer scientist was not on
+the team.
+
+Fast forward another ten or so years. I was talking to another former
+student. He was a lawyer. Attended Harvard Law and was now at a
+powerful law firm.
+
+Randomly during out chat, he said, "You know, the most important class
+I ever took to prepare me was your intro CS class." I was a little
+surprised. That was the 10th grade class that used Racket and NetLogo
+as implementation languages but I always thought the class was more
+about thinking and problem solving than about just programming.
+
+He said that both now professionally and during law school, he had an
+edge. Everyone in his classes and his firm could think like a lawyer
+but he could also approach problems like a computer scientist.
+
+That's the win.
+
+Over the years I've heard this again and again from my students who
+haven't gone into tech. I've also heard from the ones in tech how the
+value of that and other classes I've taught were not just about the
+language and the vocation of programming but of thinking and problem
+solving.
+
+Of course I didn't reach everyone in this way - I've also had students
+who just feel that "you taught me Java" but that's okay.
+
+The importance of teaching CS if we teach it right is the thinking and
+the problem solving. Programming can continue to be a tool to develop
+these skills in young minds and AI can and will be incorporated in the
+process. The kids who's teachers and schools get the mix right will be
+at a big advantage to those that don't.
+
+So, don't let the naysayers diminish the value of our field. We've got
+to advocate for why CS is just as important as it ever was if not more
+so.
+
+Code.org will do whatever Code.org does. So will the College Board and
+CSTA. They might make great choices for our field or they might make
+horrible ones. As teachers, it's our job to continue to advocate for
+what's right for our kids.
+
+
+
