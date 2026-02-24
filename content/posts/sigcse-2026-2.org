@@ -90,9 +90,9 @@ well.
 
 Great keynote. Glad it got people thinking and talking.
 
+
 * Friday Panel
-Friday was a panel discussion of the SIGCSE award winners. Richard
-E. Ladner and Paul Tymann were on stage and the moderator also had
+Friday was a panel discussion of the SIGCSE award winners. Richard E. Ladner and Paul Tymann were on stage and the moderator also had
 some answers from Phillip Guo who wasn't present and who's paper on
 Python Tutor won the "test of time" award
 
@@ -119,7 +119,7 @@ what they considered their greatest successes.
 I made a note "for me - my students success" and waited to hear what
 the panelists would say.
 
-Payl Tymann went first - he said something like this "there are all
+Paul Tymann went first - he said something like this "there are all
 the papers I've published, grants I've won, ... but my real success
 has been my studnets."
 
@@ -158,7 +158,7 @@ He also spoke on how programming is a craft but we grade it my
 matching specifications.
 
 Winters questioned why we teach Binary Search trees, how we teach Hash
-Tables, and ether we really ahve to spend so much time on leetcode
+Tables, and ether we really have to spend so much time on leetcode
 problems.
 
 I mostly agree.
