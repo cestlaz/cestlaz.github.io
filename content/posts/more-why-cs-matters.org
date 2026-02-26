@@ -1,0 +1,93 @@
+---
+title: More on why teaching CS matters
+date: 2026-02-26T13:12:57-04:00
+tags:
+- AI
+- advocacy
+categories:
+- cs education
+draft: false
+--- 
+
+I wanted to follow up on my earlier post on [[https://cestlaz.zamansky.net/posts/why-cs-still-matters/][why teaching CS still matters]].
+
+In that post, I cited a couple of former students. Not only former
+students but particularly high achieving ones. One friend commented on
+that - the idea that my thesis may makes sense for those high
+achievers but not everyone.
+
+I maintain that CS, if taught right is still important for all
+students.
+
+It's about thinking and problem solving and that exploring programming
+can help build those thinking and problem solving skills.
+
+Let's look at a couple of other situations to illustrate the point.
+
+A number of years ago I was talking to yet another student - yes,
+another super high achiever. This one was a math whiz. We're talking
+IMO level. Some time after working with a number of other top young
+math minds from other countries we were talking about his experiences.
+
+He noted, that in his experience, in the USA, the primary prolem
+solving appraoch that was taught was algebra based. This was his
+and his friend's experience in New York and also what he saw from
+other top young American mathematicians. In contrast, he noticed that
+the mathematicians he got to know from other countries were more
+likely to take other approaches to solving problems - a geometrical
+one for example.
+
+Kids across the world learn math but aparently, in different
+locations, with different foci, the kids end up approaching problems
+differently - thinking differently.
+
+A number of years later, my chairman - math chair, went to an Eastern
+European country for a few weeks to learn about how they taught high
+school math. Her takeaways was that they don't do nearly as much as we
+do in terms of topics but they dive much deeper into what they do and
+not as much of a focus on Algebra, which we treast as a major piece
+pretty much every high school class.
+
+This supports my student's experience.
+
+Now, I'm not arguing that one way is better than the other, though my
+gut says that doing less to more depth is probably better than our
+current high school math progression, it's that, yes, we're trying to
+teach math, but we're really trying to teach them to think.
+
+The calculator didn't make math education obsolete but people are
+quick to note that the calculator to math isn't the same as generative
+AI to CS. It isn't but there have been computer tools available to do
+everything through high school math and well beyond and none of those
+made high school math obsolete.
+
+I'll finish this post with one more thought. Generative AI won't make
+CS Education any less important but it should force us to re-examine
+what we do and how we're doing it.
+
+We want to focus on building thinkers but we can look at the past for
+an example of just that done wrong.
+
+High school geometry.
+
+It's called geometry but, at least in my opinion, it really isn't
+about geometry at all. It's a course in deductive reasoning, problem
+solvin and logic using Euclidean Geometry as the platform to explore
+said reasoning.
+
+Unfortuantely, in most implementations that part is lost. It first
+became a course in the basics of Euclidean Geometry and then, in many
+cases devolved into a course in algebraic aspects of Euclidean
+Geometry.
+
+Missed opportunity.
+
+I know that in some pockets, CS teachers will do better. I'm confident
+that the home grown classes at Stuy will stand the test of time and
+I know some other teachers at other schools who, if given the
+opportunity will create great experiences for their students.
+
+The question is, what will the gorillas in the room do - the College
+Board, code.org and the outher outsized influencers.
+
+
