@@ -1,0 +1,45 @@
+---
+title: Send Lawyers, VCs, and Money
+date: 2026-03-16T07:53:51-04:00
+tags:
+- entrepreneurship
+- VC
+categories:
+- entrepreneurship
+draft: false
+--- 
+
+So, one of the things I've been doing since retirement is working for and with my alumni community. We've held focussed events like an AI panel and a blockchain talk and have had meetups in New York and beyond - specifically Boston and San Francisco.
+
+Last Thursday we focussed on entrepreneurship.
+
+The idea wasn't mine. Stuy grad, Jae Zhou, a lawyer at Morrison Forester (MOFO) approached me with the idea about a year ago. She, at MOFO had already been putting on an event and she thought it would be great for the Stuy Alumni community.
+
+It involved a role play on negotiating a term sheet. A term sheet is a non-binding agreement between multiple parties, specifically in this case, an agreement between an investor (a venture capitalist) and a founder describing the terms under which the VC will invest capital in the founder's company.
+
+Yes, it entails the amount of the investment, ownership terms for the investor and the basics but there are also a lot of subtleties like the possibility of changing the founders vetting terms or things like board composition.
+
+The event was to be a role play on stage so we had to come up with a VC and a founder.
+
+Fortunatly, we've got plenty. In addition to Jae and her colleague Jesse, we invited Dan Borok of nvp capital and Sim Blaustein of 1754 Ventures as our VCs. By having two we were able to role play two term sheet scenarios. Our founder was Tim Novikoff. Tim didn't go to Stuy but he taught with me for a few years and is a good guy and good friend. Coincidentally, just as we were setting up this event, Tim was in the middle of funding deals for his current startup, SuperTeacher.
+
+The way it worked is that each VC presented a term sheet to Tim. One was a SAFE sheet - Simple Agreement for Future Equity - I'm told the current rage in startup investing. The other was a more traditional equity round. One of the percieved advantages of a SAFE offer is that it can typically be closed much more quickly than a traditional round but hidden in the details can be some high costs. Of course, to set up an educational role play, both the term sheets were loaded with some poison pills. 
+
+Dan went first and discussed his term sheet, the SAFE offer with Tim. As he tried to entice Tim to sign his deal, both Dan and Tim, and in fact, the rest of the panel broke the fourth wall to share deal life stories, and to comment on the good and bad. Afterwards Sim and Tim discussed the other term sheet.
+
+As it turned out, all the panelists had great comic chops and were both engaging and amusing while giving us, the audience some really great information and advice.
+
+They pointed out red flags in both styles of offers, discussed strageties that a founder might use to help leverage a better deal, and even talked about little discussed things like how often a funder just walks away from an offer when a founder pushes back.
+
+At the end, it was question and answer time with the audience - mostly Stuy grads but there were at least 15 current students there as well.
+
+A lot of great information was shared. One big one was when a legal team was critical and when not so much (and this was brought up and emphasized by the non-lawyers and agreed on by all) another was how important it was for a founder to have stashed away a decent amount of cash - to keep things running while trying to raise.
+
+That last point relates to the age old question from over anxious youngsters - why not just drop out and start my company?
+
+This was addressed by the panel as they talked about the typical unicorns - Gates, Zuckerberg, Bezos etc. - they all came from wealthy families - there was always a safety net.
+
+Jesse, from MOFO made a great point - in the NBA, Lebron James knew he was going to be a star right out of high school but part of the reason he knew was because everyone else knew as well. If your startup isn't Lebron - if it's not getting they hype and interest from inventors, then maybe stay in school.
+
+Super event. I'm greatful to Jae for suggesting it and all the participants, Jae, Jesse, Dan, Sim, and Tim for executing such a unique and educational experience for our community.
+
