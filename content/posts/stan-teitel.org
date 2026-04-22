@@ -1,0 +1,46 @@
+---
+title: Stan Teitel, in memoriam 
+date: 2026-04-21T18:45:26-04:00
+tags:
+- misc
+categories:
+- misc
+draft: false 
+--- 
+
+Earlier today, I was informed that Stan Teitel, former principal of Stuyvesant high school had passed away at age 77.
+
+Stan started his career as a teacher in 1971 joining Stuy in the Chem/Physics department in 1983 - my senior year, though our paths never crossed. He became the Chem/Phys AP in 1997 and then Principal in September 2000, right  before 9/11. He retired in August 2012 after the DOE, in my opinion did him dirty but we'll get to that in a bit.
+
+Stan and I butted heads numerous times and as a young teacher trying to build CS from scratch there were plenty of itmes when I disagreed with his decisions but wether I was right or I was wrong (and we'll get to that as well) Stan loved Stuy, Loved the kids, and on a personal level, *always* had his teacher's backs. In an era where Principals were all too frequently business leaders Stuy was lucky to have someone who was a teacher first and who really cared.
+
+On a professional level, as I said, we butted heads. 
+
+When I created what was to be Stuy's intro course and I was trying to award students graduation credit, at first he wouldn't agree to it. When I tried to award students credit for their senior tech classes by taking my advanced electives, I also hit a roadblock.
+
+There were other instances but these two are enough to make the point.
+
+As I got older and less dumb, however, I started to realize the impossible position Stan was trying to manage a school with 1000 kids per grade, hundreds of teachers, and loads of internal personalities and politics. The truth is that he indeed was really supportive of what I was trying to build. Stan wanted to support CS but at the same time, he had to balance that with an aging tech / industrial arts department full of tenured teachers who wouldn't let go of the past. 
+
+He originally didn't allow credit for my intro class but when a tech teacher retired, he let me replace him with a CS teacher since we couldn't easily find a new drafting teacher anyway. For that teacher's students, they got credit for CS instead of half of drafting. It seemed a little arbitrary and silly but looking back, I'm pretty sure he realized that what he did opened the flood gates and that the student and parent demand would ultimately allow him to make CS a requirement instead of half of drafting while letting him keep the peace within the school.
+
+Something similar happened with the senior electives. I didn't realize it at the time, but Stan was a whole lot more supportive of CS than I realized.
+
+By the time Stan retired from Stuy, Intro CS was a required class which replaced half of drafting and students could take senior CS electives and they'd count for the student's required senior tech credit. 
+
+On the personal side, as I said, he always had his teachers backs. When my mom died we were in a precarious child care situation as she was our child care. Stan just pulled me aside and told me to set up the schedule however I needed. I set it up so my last period was preiod 7 instead of 8 so in case I had to leave early to get the kids I would be able to. I never had to but it was nice to know that my principal had my back.
+
+There was another instance, one where Stan never got credit and in fact got flack. The Board of Ed had just made some new demands on teachers. I forget what it was but it was going to end up in something like a 4 or 5 extra hours of work for each teacher.
+
+Stan set something up so that we just had to spend a little extra time during one meeting - maybe an extra hour at most to get the job done. He got a lot of flak for that because teachers thought he was imposing extra work. I only knew that in fact he was saving us because I knew what the DOE directive was through my wife who was an AP at another school.
+
+Stan also tried some new initiatives that either did't take or got more pushback than they deserved. He pushed creating a financial literacy course - something many students needed then and still need today. He also tried to create more balance and equity within Stuy's Advanced Placement classes. He worked on craeting an environment where students didn't overload themselves and also where as many students as possible had a chance to to take what they wanted or needed. 
+
+In 2012, Stan retired right before the start of the school year. Word was that he was forced into retirment by the DOE. There was an issue with cheating on regents exams the prior June. Of course neither Stan nor any adult had anything to do with the incident and in fact Stan thoroughly investigated the incident and in fact was able to identify the culprits. After the fact, I read the entire DOE report on the entire thing and they absolutely railroaded both Stan and one of his assistant principals. We all knew it at the time but there was nothing anyone could do. Stan entered retirement after a 10 year tenure as principal and his assistant principal was sent to a "rubber room" where they spend two years until they were exonerated.
+
+So today I was saddened to learn that Stan had passed.
+
+He spent close to thirty years at Stuy as a teacher, AP, and Principal. He was the principal that established computer science as a requirement and was the last, maybe only Stuy principal to spent a significant amount of time at Stuy as a teacher first.
+
+It took until I got older to appreciate the challenges Stan faced and just how much he supported me and my work but I always appreciated how much he cared for the school, the kids and the teachers. They don't seem to make principals like that anymore.
+
