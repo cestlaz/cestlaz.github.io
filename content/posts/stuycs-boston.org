@@ -1,0 +1,53 @@
+---
+title: StuyCS in Boston - connecting generations
+date: 2026-05-06T16:04:16-04:00
+tags:
+- StuyCS
+- Community's
+categories:
+- StuyCS
+draft: false
+--- 
+
+Devorah and I are spending the week in Boston, well techincally Cambridge. We came up last year around this time and had a big StuyCS meet up hosted at [[https://formlabs.com/][Formlabs]]. I was talking to my friends in the [[https://stuyalumni.org/][Stuyvesant HS Alumni Association]] figuring there were probably a lot of StuyCS grads in the Boston area and we agreed that we should do a meetup there. Then a couple of grads offered the space at Formlabs and we were off to the races.
+
+It was a great event with around 50 attendees but there were a couple of issues with the trip. First, as all true New Yorkers, we have relatives in the area and we weren't able to see anyone as the trip was so short.
+
+The next problem was for me personally - usually, when I organize these StuyCS meetups we get a good turnout and then at the event, I feel like I'm a parent hosting a Bar Mitzvah - I don't get to spend any time with anyone. I get a quick hello and how are you doing but then I have to move to the next person. I'd like some quality time with my students at these events.
+
+Another problem we discovered was the introvert problem. Groups of attendees would find the couple of peopel they knew and spend the whole evening with them. Now, it's great when these are people that haven't seen each other in a while but I really am trying to facilitate them expanding their networks. Also, and very related is the fact that many introverts won't be comfortable even coming out to a big event like the ones I'm throwing even though they're actually pretty low key and comprised of people similar to those in the high school classes they enjoyed back in the day.
+
+The solution, or attempt at solution? Devorah and I came up for a full week. We spent the first couple of days with family. With her aunt and cousin, and on my side, I recently discovered I have a second cousin once removed in the area and was able to connect with him and his family and his father - my direct cousin whom I haven't seen in over 50 years (family falling out that is now happily mended).
+
+Then we scheduled a couple of small scale dinners one of 7 people and one of 8. I've been getting updates from my networ via emails and have been asking who's interested in small group gatherings. I made a random selection which fortunately, also had some (but not all) of the former students I wanted to have catch up time with along wit holder and younger Stuy grads.
+
+#+ATTR_HTML: :width 300
+[[/images/boston/mon.jpg]]
+
+The first restaurant was at Silk Road a Uygher restaurant near our hotel. Starting with Devorah and me from the '80s we had grads through the generations up to one just graduating college now.
+
+#+ATTR_HTML: :width 300
+[[/images/boston/tue.jpg]]
+
+The following night we went to an Afghani place - The Helmand with a new group, again ranging from my earliest students to one who attended Stuy after I had left. 
+
+I really enjoyed both dinners - got to catch up on a deeper level with some former students that I really care about and got to know some new people a little better.
+
+I'm really hoping they enjoyed it as well and also left with new friends. I'll find out for sure when I start asking them about it.
+
+Also, both restaurants were excellent.
+
+Today was our "Stuy Free" day but Devorah and I were able to meet up with some CS Ed friends. Fellow retired CS teachers Alfred Thompson and Neil Plotnick along with Charlie Meyer of [[pickcode.com][Pickcode]] joined us at Mamaleh's - a Jewish deli that I can also recommend.
+
+#+ATTR_HTML: :width 300
+[[/images/boston/inside-mamlehs.jpg]]
+
+So, I'm hoping that those small group dinners hit the mark. If so, the plan is to start arranging them in NYC when I'm back and then in San Fran when I'm there visiting next.
+
+In the meantime, I'm excited for the big meetup at Formlabs tomorrow.
+
+
+
+
+
+
