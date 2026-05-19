@@ -9,7 +9,7 @@ categories:
 draft: false
 --- 
 
-This past Friday I ran a third iteration of Pitchfest. The first one was last may ([[/posts/pitchfest-2025][link]]). I also ran Pitchfest in the Wintee but that one was smaller. We had 36 students forming 17 teams from 9 CUNY campuses.
+This past Friday I ran a third iteration of Pitchfest. The first one was last may ([[/posts/pitchfest-2025][link]]). I also ran Pitchfest in the Winter but that one was smaller. We had 36 students forming 17 teams from 9 CUNY campuses.
 
 We also had a bunch of tech professionals.
 
