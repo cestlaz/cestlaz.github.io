@@ -1,0 +1,43 @@
+---
+title: Pitchfest 2026 and the importance of teaching tech in the age of AI
+date: 2026-05-18T17:18:08-04:00
+tags:
+- tech community
+- NY Tech 
+categories:
+- NY Tech
+draft: false
+--- 
+
+This past Friday I ran a third iteration of Pitchfest. The first one was last may ([[/posts/pitchfest-2025][link]]). I also ran Pitchfest in the Wintee but that one was smaller. We had 36 students forming 17 teams from 9 CUNY campuses.
+
+We also had a bunch of tech professionals.
+
+There were more entries that we couldn't accomodate but the 17 teams along with the tech professionals basically filled the room to capacity.
+
+The gist was that each group would be at a table with one or more professional. They'd pitch their project and then a discussion would ensue. Afte ten to fifteen minutes, the pros go to another table, rinse and repeat. After a few iterations we left time for open networking.
+
+Once again, the event seemed to be a big success. 
+
+The whole idea behind the event is that CUNY students haven't had many opportunities to interact with tech professionals. Yes, they get specific project feedback but the real value is in the interactions with the professionals - the networking. In fact, in many ways the actual proejct isn't raelly important other than giving the students something which with to start the conversations. Sure, I found some of the projects pretty cool and impressively bruit but to be honest, that wasn't the point.
+
+During each of the three pitchfest, I had a room of students and a room of pros. All the students had projects but by and large, every time, the positive comments from the profesisonals afterwards were about the people, not the projects.
+
+It got me thinking about the relevance of the event even with the tech job market changing with the proliferation of AI coding tools.
+
+Now, I don't subscribe to the idea that CS related jobs will go
+away. Some of the specifics might change and the days when anyone can
+learn drone programming from a code school can get a job are over but
+good CS, or rather, let's use the more general term, tech students
+will, once the hype is over and the market corrects, will be in
+demand.
+
+I've written about this before - how while a good CS sequence will teach specific tools, it's more about thinking and problem solving and sure, the specifics will change.
+
+With respect to pitchfest, I continued to think - all these kids created programming projects. Maybe some of them used AI in the process and maybe some didn't. It wouldn't change the event or the value of the event in the slightest. In fact, the projects really didn't even have to be tech. You could run the same event where teams do a company analysis for a venture capital company or maybe one where the teams do a stock analysis. Maybe they do a treatment plan for physical therapy?
+
+Okay, I'm just guessing on that last one.
+
+The point is, regardless of how the tech industry evolves or even our economy evolves we're preparing our students for the future and that means thinking, creativity, problem solving, getting things done, and all the while doing it with and for other people.
+
+Those last items are what Pitchfest gives students a chance to demonstrate and practice. 
