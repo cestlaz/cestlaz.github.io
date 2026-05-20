@@ -17,7 +17,7 @@ I wanted to create a course that was different - gave students different perspec
 
 Actually, I didn't start with NetLogo, but rather with Starlogo. One of my resources in developing the course was [[https://www.google.com/books/edition/Turtles_Termites_and_Traffic_Jams/K8P1rX8T4kYC?hl=en][Turtles, Termintes, and Traffic Jams]] by Mitch Resnick, who built Starlogo. A few semesters in though, I discovered NetLogo, which was very similar but with a better interface and it's been off to the races ever since.
 
-You can learn all about NetLogo [[https://www.netlogo.org/][here]] but in short, it can be described as a modelling language or a language where you can explore asynchronous agent based programming (that's a mouthful and sounds impressive but it's really strightforwad).
+You can learn all about NetLogo [[https://www.netlogo.org/][here]] but in short, it can be described as a modelling language or a language where you can explore  agent based parallel programming (that's a mouthful and sounds impressive but it's really strightforwad).
 
 The idea comes from Logo - the old turtle language. The difference is that instead of programming a single turtle, you have any number of turtles and they all run your program at the same time. They all live on a grid based world made up of what we call patches, each with an x,y location and the patches all run your program as well.
 
