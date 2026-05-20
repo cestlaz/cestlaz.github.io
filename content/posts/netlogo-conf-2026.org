@@ -1,0 +1,50 @@
+---
+title: The first NetLogo Center User Conference
+date: 2026-05-20T11:53:11-04:00
+tags:
+- languages
+- NetLogo
+categories:
+- NetLogo
+draft: true
+--- 
+
+THe Netlogo Center is running their first in person conference at the end of June in Chicago ([[https://www.netlogo.org/netlogo_con_2026/][info and registration]]). It's an event I'm looking forward to attending and also to be presenting at. 
+
+I've been using NetLogo for over a quarter of a century. Well, that's not entirely true. I haven't actively used it for a while now, being retired, and for my last gig, at Hunter College, I used it sparingly. I did, though, use it daily at Stuyvesant as it was a big part of the intro course I designed and it's still being used today.
+
+I wanted to create a course that was different - gave students different perspectives on computer science and problem solving and NetLogo, along with Racket (nee Scheme) fit the bill.
+
+Actually, I didn't start with NetLogo, but rather with Starlogo. One of my resources in developing the course was [[https://www.google.com/books/edition/Turtles_Termites_and_Traffic_Jams/K8P1rX8T4kYC?hl=en][Turtles, Termintes, and Traffic Jams]] by Mitch Resnick, who built Starlogo. A few semesters in though, I discovered NetLogo, which was very similar but with a better interface and it's been off to the races ever since.
+
+You can learn all about NetLogo [[https://www.netlogo.org/][here]] but in short, it can be described as a modelling language or a language where you can explore asynchronous agent based programming (that's a mouthful and sounds impressive but it's really strightforwad).
+
+The idea comes from Logo - the old turtle language. The difference is that instead of programming a single turtle, you have any number of turtles and they all run your program at the same time. They all live on a grid based world made up of what we call patches, each with an x,y location and the patches all run your program as well.
+
+This lets you explore all sorts of wonderful phenomena visually as well as numerically with a low cost of entry.
+
+For example, if you create a bunch of turtles and say ~ask turtles [fd 1]~ all the turtles will move forward 1 patch. If you say ~ask turtles [set heading random 360]~ each turtle will set itself to face a random heading between 0 and 360 degrees.
+
+More interestingly ~ask turtles with [pcolor = red] [die]~ wil remove all the turtles that are on red patches.
+
+It's a terrific environment. You can run it in a browser or download it for free.
+
+I initially used it because it was visual, had a low cost of entry, and because we could explore a number of CS and non CS topics. It also turns out to be a great precursor to learning Object Oriented Programming because, while the language isn't Object Oriented, turtles and patches implemented in NetLogo are and provde students with a strong frame of reference for classes, objectgs, inheritence, instance and class variables and more.
+
+It's alos anything but a toy language, in spite of it's ease of use. 
+
+Last year I was catching up with a former student. He was on the team that won the Nobel Prize in Chemistry. As a casual aside during the converstaion he mentioned that what got him started on the path to his contributions on the project were the modelling and simulation skills he started to develop at Stuy using, yep, you geussed it, NetLogo.
+
+I had another student, a few years prior who was doing research in Astronomy and he likewise credited his background in modelling in NetLogo with setting his foundation.
+
+For the conference, I'll be running a workshop. First, I'll talk about the development of Stuy's intro course - how and why we used NetLogo. Then I'll do a deeper dive into one or two of the more interesting NetLogo projects we work on.
+
+Should be a blast.
+
+If you don't use NetLogo, I'd really encourage you to check it out ([[https://www.netlogo.org/][home page]]) and if you can make it, I'd love to see you at the conference in Chicago at the end of June  ([[https://conference.netlogo.org/2026/][link]]).
+
+
+
+
+
+
