@@ -31,7 +31,7 @@ It's a terrific environment. You can run it in a browser or download it for free
 
 I initially used it because it was visual, had a low cost of entry, and because we could explore a number of CS and non CS topics. It also turns out to be a great precursor to learning Object Oriented Programming because, while the language isn't Object Oriented, turtles and patches implemented in NetLogo are and provde students with a strong frame of reference for classes, objectgs, inheritence, instance and class variables and more.
 
-It's alos anything but a toy language, in spite of it's ease of use. 
+It's also anything but a toy language, in spite of it's ease of use. 
 
 Last year I was catching up with a former student. He was on the team that won the Nobel Prize in Chemistry. As a casual aside during the converstaion he mentioned that what got him started on the path to his contributions on the project were the modelling and simulation skills he started to develop at Stuy using, yep, you geussed it, NetLogo.
 
