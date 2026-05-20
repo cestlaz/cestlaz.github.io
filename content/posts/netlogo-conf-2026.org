@@ -6,7 +6,7 @@ tags:
 - NetLogo
 categories:
 - NetLogo
-draft: true
+draft: false
 --- 
 
 THe Netlogo Center is running their first in person conference at the end of June in Chicago ([[https://www.netlogo.org/netlogo_con_2026/][info and registration]]). It's an event I'm looking forward to attending and also to be presenting at. 
