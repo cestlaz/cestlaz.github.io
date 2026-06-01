@@ -1,0 +1,69 @@
+---
+title: Giant - Antisemitism, antizionism, and Roald Dahl
+date: 2026-05-31T11:41:10-04:00
+tags:
+- misc
+categories:
+- misc 
+draft: false
+--- 
+
+#+ATTR_HTML: :width 250 
+#+CAPTION: Giant
+[[https://upload.wikimedia.org/wikipedia/en/5/57/GiantPlayPoster.png]]
+
+
+This past Friday, I had the chance to see "Giant," the play written by
+Mark Rosenblatt. A few friends asked for my take on social media so I thought I'd write my thoughts up here.
+
+So, if you're looking for the usual CS Ed or Emacs material, feel free to skip this one. On the other hand, I'd encourage you to read on anyway.
+
+First and foremost, the play was fantastic. John Lithgow was fantastic and Ava Cash was his match. The rest of the cast was solid overall and I could hear thoughtful discussion around me during the intermission and I personally wanted to let everything stew for a couple of days before writing this.
+
+If you're in NYC and have a chance - see this play.
+
+
+In 1983, children's author Roald Dahl wrote a review of the picture book "God Cried." In it, he wrote a number of antisemitic slurs. The play is a fictionalized account of an afternoon at Dahl's new house (under construction) where he met with publishers. The topic was what, if anything should be done about the review, the ensuing push back and the fact that Dahl's latest book "The Witches" as due to be published soon after.
+
+To fully paint the context here, Dahl was, by his own admission an antisemite and we'll get to a bit of that later. He also publicly released antisemitic statements after the original review that set the stage for this play. In fact, the play closes quoting some of those statements via a call between Dahl and a reporter.  In 2020, his family released an [[https://www.npr.org/2020/12/06/943698406/roald-dahl-family-apologizes-for-childrens-authors-anti-semitism][apology]].
+
+Even though the play first ran after the October 7 attacks, it was finalized prior and to my knowledge unchanged as a results of the attacks or the ensuing war.
+
+The cast:
+
+- Roald Dahl :: John Lithgow
+- Filicity Crosland :: Rachael Stirling - Dahl's mistress, fiance, and later wife. 
+- Tom Maschler :: Elliot Levey - Executive at Dahl's publishing company. England based. A Jew who's family fled Vienna after Nazi annexation when he was five.
+- Jessie Stone :: Aya Cash - Sales employee of Dahl's publishing company. Also Jewish. Based in America.
+- Hallie :: Stella Everett - Domestic employee of the Dahl's
+- Wally Suanders :: David Manis - Groundskeeper for the Dahl's.
+  
+While the meeting depicted in the play was fictional, Dahl, Crosland, and Maschler did indeed exist though I have no idea if Crosland or Maschler's depictions were in any was based in their real personalities. Stone was created for the play and I'm not sure about the last two.
+
+In the early stages, Maschler and Stone are trying to convince Dahl to publish a statement - an apology for his comments and Dahl refuses. Maschler, in spite of being a holocaust survivor, is playing the role of the "good Jew" - he said  he was just "put on a train" that he was a child. He's assimilated and seems to want to "go along to get along." His concern is all about Dahl's reputation and selling book. The antisemitism doesn't phase him in the least.
+
+Stone on the other hand, an American Jew, sees things differently. While initially towing the line she can't contain herself and calls it like she see it. At the end of the first act, Stone quotes from Dahl's review emphasizing where he calls out Israel's actions but refers to them as the actions of an entire race not of individuals nor a specific government. It was a powerful scene and what likely led to a lot of the intermission discussion in the audience.
+
+In act 2, Maschler continues to try to be the "good Jew" but finally breaks, hopefully understanding what Stone got all along.
+
+As to Dahl, he switches between being acerbic and conciliatory making one wonder if he is indeed antisemitic or if he's merely being provocative for the sake of being provocative - playing the role of cantankerous
+ old man. That thought is put to rest at the close of the play as he's on the phone to a reporter who's giving him every opportunity to disavow his original comments only to see Dahl double down.
+
+ Of note was a comment made by Dahl, apparently a real quote that he was originally "only" an antizionist but became an antisemite.
+
+ This may sound familiar. It's the latest rage "I'm not antisemitic,
+ just antizionist." Of course, Dahl's statement doesn't hold up to
+ scrutiny any more than the current generation's claims as revealed at
+ the close of the play when he talks of the lack of Jews participating
+ in the war and with quotes like "there is a trait in the Jewish
+ character that does provoke animosity. ... Even a stinker like Hitler
+ didn't just pick on them for no reason."
+
+ There's more to the play - does a mans personal beliefs, as twisted as they are devalue his work? What of Hallie, the domestic who's put in an uncomfortable position mid play almost having to either defend or condemn her employer. Was Dahl a child in an adult body - a childish mind giving birth to his worlds in literature but at the same time poisoning his views on reality?
+
+ I'm thankful that this play is currently on Broadway and has such an amazing cast. They don't sugarcoat Dahl's antisemitism and there's plenty in the play to expose antizionism for what it is, a cover for Jew hate.
+
+ You'll enjoy the performance and if you give it a chance, it'll leave you thinking.
+
+ See it if you can.
+
