@@ -1,0 +1,64 @@
+---
+title: Semi Flipped Class - from the CS Ed Podcast
+date: 2026-07-08T11:01:11-04:00
+tags:
+- education
+- pedagogy
+categories:
+- pedagogy
+draft: false
+--- 
+
+Another big gap in posting. Last time well over a month ago.
+
+I do in fact have a couple of things to blog about, not the least of which is the upcoming CSTA conference but I'll hold off on that since Alfred Thompson already posted his preview [[
+https://blog.acthompson.net/2026/06/previewing-csta-2026.html
+][(link]]) and Doug Peterson also posted on CS Ed conferences in response ([[https://dougpete.wordpress.com/2026/07/01/about-computer-science-conferences/][link]]).
+
+Instead, let's talk about the [[https://csedpodcast.org/blog/s4e17_semi_flipped/][latest CS Ed podcast]]. This one titled "Semi-Flipped" teaching.
+
+The CS Ed Podcast, is as always hosted by Kristin Stephens-Martinez of Duke and this episode's guest was Diane Horton from the University of Toronto.
+
+The synopsis on teh CS Ed Podcast home page reads:
+
+#+begin_quote
+
+We both teach semi-flipped, where students learn foundational material before class to make room for high-value activities such as addressing misconceptions, building intuition, discovery, peer instruction, and deeper reasoning.
+
+#+end_quote
+
+As with most CS Ed Porcast episodes, I enjoyed this one and will drill down a bit but first a rant.
+
+I've always taken issue with "flipping the classroom." The term's been around for decades but it really picked up steam with the Education Reform movement that also ushered in Charter Schools, MOOCs, and the like.
+
+The thing is, my teachers implemented a "flipped classroom" back in the 1970s. They called it *homework*. Nothing new or innovative here. The flipped classroom is just homework. I guess you could say that in many cases it's homework that leads in to the next classes lesson but it's just a variety of homework and nothing new.
+
+It bothers me to see hype around an "innovative" technique that classroom teachers have always known about.
+
+And of course the result when the flipped classroom hype started, along with other "reforms" resulted in a far too aggresive pendulum swing where no amount of direct instruction was to be tolerated while direct instruction in class, when used appropriately is very effective - it's all about having a large teaching toolbox and utilizing the right tool at the right time in the right place.
+
+Anyway, to the podcast.
+
+Stephens-Martinez, and Horton discuss their implementations, challenges, and solutions.
+
+For instance, one thing that came up was the question of how do you get the students to actually do the work prior to class? Another, a major point was the question of what if the students do the work but don't grok it? This was addressed multiple times as Horton talked about offloading the "easy stuff" to the independant work.
+
+Another challenge they talk about is implementing something like this in a large "lecture" class - another thing that makes me nuts - so many education problems would be solved if we actually cared enough to consistently make small classes from K to college.
+
+There's also a discussion of the effort of developing strong class experiences rather than just lecturing.
+
+I'm not going to do a blow by blow - you should take the time to listen to the podcast for yourself ([[https://csedpodcast.org/blog/s4e17_semi_flipped/][link]] - provided again for convenience).
+
+My take? Should you create homework assignments that offloads some class time - sure. You should also use it to reinforce ideas, and reteach older concepts (see: spiraling). You should also use class time to foreshadow class time to come and a whole lot more.
+
+In education, there's no single answer and there's no silver bullet but the practices described by Stephens-Martinez and Horton in this episode are certainly worth learning about and trying to mix in where appropriate.
+
+
+
+
+
+
+
+
+
+
