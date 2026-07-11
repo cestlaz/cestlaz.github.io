@@ -1,0 +1,65 @@
+---
+title: CSTA 2026 - 3 days away
+date: 2026-07-10T17:50:34-04:00
+tags:
+- CSTA
+- CSEd
+categories:
+- CSTA
+draft: false 
+--- 
+
+So I'm already down in the Big Easy. New Orleans for the CSTA
+conference. Devorah's here with me - she'll be running her [[https://blanketstatementproject.github.io][Blanket
+Statement]] project for the first time since pre-covid through the
+Pickcode booth so if you knit or crochet make sure to stop by.
+
+We decided to come down a few days early to play tourist since we
+haven't been here since we honeymooned in New Orleans some 35 years
+ago.
+
+In terms of the tourist thing, we did a swamp tour this morning which
+was interesting. After lunch we planned on going to an exhibit on
+Katrina but got side tracked at "Ma Sherie Amour" a jewelry and crafts
+shop on Saint Ann Street. Ended up spending around a half hour just
+chatting with the proprietor. Too late to go to the exhibit, we ended
+up going to the [[https://www.nps.gov/jazz/index.htm][National Jazz Park]] for a free concert featuring Tom
+Hook and Wendel Brunious. Fantastic set and the highlight of the
+day. 
+
+#+ATTR_HTML: :width 400 
+#+CAPTION: Jaxx
+[[/images/csta-2026/jazz.jpg]]
+
+I haven't listened to live Jazz in a while and an intimate Jazz
+concert is very different from a rock show, opera, or classical
+concert. Different too from a folk concert.
+
+I was also reminded that there was a heavy Jewish influence as they
+performed songs by Leiber and Stoller who wrote most of the Coasters
+hits in the 50s, Ira and George Gershwin, and Randy Newman.
+
+It looks like they do free Jazz on Tuesdays through Saturdays at
+3:00pm so if you're in town early or if you don't have an interesting
+session at the ends of Tuesday or Wednesdsay, check it out.
+
+Now, as for the conference, things look a little more wide open than
+in past years. Looking back, sometimes there's a theme - one year was
+CS for All, one year was the Standards, there seems to be plenty of AI
+this time around but I'm not finding the offerings overwhelming. There
+are plenty of alternatives. I found some interesting sessions dealing
+with literature, one with music, and of course a fair amount of
+cybersecurity and data science.
+
+I still have my usual gripe in that from a CS point of view, there
+once again seems to be little for teachers with a strong CS background
+and less for students who can be similarly described.
+
+For me personally, I'm curious how the conference will pay out. CSTA,
+for me has always been more about the people than about the sessions
+but as I'm now in retirement and only working part time, I know fewer
+and fewer people.  We'll see if I feel as connected or not.
+
+Anyway, two more days out playing tourist but very much looking
+forward to the conference starting.
+
