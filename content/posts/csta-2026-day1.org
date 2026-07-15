@@ -1,0 +1,119 @@
+---
+title: CSTA 2026 Day1
+date: 2026-07-14T09:20:59-04:00
+tags:
+- CSTA
+categories:
+- CSTA
+draft: false
+--- 
+
+#+ATTR_HTML: :width 400 
+#+CAPTION: Jaxx
+[[/images/csta-2026/jax.jpg]]
+
+Yesterday the conference started at around noon. I took the open hours
+in the morning to buy some pralines to take home. 
+
+Two sessions followed by a keynote and a reception.
+
+The first session I attended was "Human and AI - Prompting for
+Critical Thinking and Exploration." The talk was fine but to be
+honest, it really wasn't about CS or teaching CS. Rather it was more
+about using AI as a support tool in general. In fact examples were
+given like "write a one page explanation of the causes of the American
+Revolution." The discussion was more about helping students in general
+in writing good prompts and interacting with AI effectively.
+
+
+To do this, they provided their 4 point framework that they use
+with their students to help them in forming good prompts:
+  - verb - using verbs like compare or analyze or asking the AI to
+    generate options.
+  - format - what should the output look like - a bullet list, a
+    paragraph, a sonnet?
+  - voice - Who is the AI speaking as - a fifth grader? A doctor? 
+  - context - as they say, context is everyting.
+
+  We looked at a weak prompt and a better one and explored their
+  framework.
+
+  There was also a disussion of how, in classes they'd analyze a deep
+  fake or an AI generated essay.
+
+  The session was fine, but as I said, I'd prefer if it were more
+  related to CS. I understand as the CS teachers in their schools -
+  and as middle school teachers, they're probably going to be tasked
+  with making this work for all subject areas so this is just me being
+  selfish.
+
+
+  The second session I attended was "Why teach with genAI" and it
+  explored how one might use AI in an intro progrmmig course. The
+  example was in a course similar to APCS-A.
+
+  The meat of the session consisted of a couple of execises. One had
+  the participants ask AI to explain some code.
+
+  In the session, we were asked if the exercise was good or not. I
+  thought it depended on intent. When asking the AI to explain some
+  rudimentary Java code - think a basic class which uses a scanner,
+  the AI will typically respond with a bunch of information that a
+  beginner CS student won't be able to handle leaving them more
+  confused. To me, then, if the intent was to use AI to enhance
+  learning programming, it wasn't all that effective.
+
+  On the other hand, the intent was to explore the limits of using AI
+  for help and to begin down the road to effectively using AI, it was
+  great.
+
+  The second exercise dealt with debugging. The facilitators presented
+  code that was something like this:
+
+  #+begin_src java
+    boolean b = false;
+    if (b = true);
+      System.out.println("hello");
+      System.out.println("world!");
+  #+end_src
+
+  I don't remember the specifics but something like that embedded in a
+  small program with a main.
+
+  The goal was to use AI to identify all the errors in the code. We
+  ran out of time, but I was hoping to first run the java compiler on
+  the code to see the errors it generated so I could compare the AI
+  output with the javac output to see if the AI in fact helped with
+  debugging and understanding or not. Maybe I'll play with this when I
+  get home.
+
+  Overall a fun session. I'm not clear that using AI in the ways shown
+  through the examples are the right way or not but it was a
+  worthwhile exploration.
+
+
+  Next up was the keynote and to be honest, it didn't do anything for
+  me. It was given by two individuals, one gave their story and it was
+  compelling - how they fell into tech and achieved success even
+  without a college degree. The other? I'm still not sure what they
+  were talking about. This was followed by a very abbreviated
+  "fireside chat" where the MC asked both the speakers a couple of
+  questions. It felt disjointed, short, and never really went
+  anywhere.
+
+  The sessions were good even with my critiques but the keynote, a
+  disappointment.
+
+  This was followed by two receptions - the main one in the exhibit
+hall and then the NY Chapter held one across the street.
+
+Along with other random times when I ran into old friends and had a
+chance to catch up those were the highlights. For me, even though
+sessions and talks can be great, CSTA has always been more of a people
+conference for me.
+
+Still to come - days 2 and 3, the exhibitors, and Devorah's knitting project.
+  
+#+ATTR_HTML: :width 500 
+#+CAPTION: CSTA New York
+[[/images/csta-2026/cstany.jpg]]

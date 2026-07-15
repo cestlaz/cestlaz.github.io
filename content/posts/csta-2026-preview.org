@@ -28,7 +28,7 @@ Hook and Wendel Brunious. Fantastic set and the highlight of the
 day. 
 
 #+ATTR_HTML: :width 400 
-#+CAPTION: Jaxx
+#+CAPTION: Jazz
 [[/images/csta-2026/jazz.jpg]]
 
 I haven't listened to live Jazz in a while and an intimate Jazz
