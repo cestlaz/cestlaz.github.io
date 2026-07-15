@@ -1,0 +1,110 @@
+---
+title: CSTA 2026 Day 2
+date: 2026-07-15T09:26:45-04:00
+tags:
+- CSTA
+categories:
+- CSTA
+draft: false
+--- 
+
+Tuesday started with two more sessions. First up was "Finding Balance
+with AI" led by fellow New Yorker Matt Carlberg.
+
+The session was about how Matt has worked to find the same balance
+many teachers are struggling with - teach the students to use
+generative AI effectively and safely while also keeping a handle on
+issues like cheating. The session was a mix of Matt sharing his
+practices and small group discussions.
+
+Matt described assignments as being AI closed - no AI allowed, AI
+Open - where students might use AI in an unlimited fashion, and hybrid
+between the two extremes. So, a programming assignment done in class
+under direct teacher supervision might be closed whereas homework
+would be open since there's not real way of controlling whether or not
+a student is using AI at home.
+
+One particularly interesting point was when Matt described how he runs
+class lab assignments. He uses [[pickcode.io][Pickcode]]. [[pickcode.io][Pickcode]] is an online
+educational IDE built by a small team of developers who work closely
+with teachers. In fact, a teacher request led to a [[pickcode.io][Pickcode]] feature
+critical for Matt's practic. Pickcode allows a teacher to lock and
+unlock assignments based on time. That means that a student can only
+access a class lab assignment during class time - critical if you want
+a level playing field for all students.
+
+Matt also described his final class project.
+
+The first part was AI closed - all done in class. Students designed
+and built an RPG battle game. Part 1 was all done in class and
+combined written and coding parts. It was worth 60 points.
+
+Part 2, the intermediate level was AI open but students had to record
+their AI sessions. This was worth 20 points.
+
+For the final 20 points, students could optionally complete the
+advanced part of the assignment and that was to use AI to learn
+something new - in the case of this assignment the thing to learn was
+inheritance. Ten of the points were for completing the task and the
+final ten if the student took an optional in class on paper quiz.
+
+It was an interesting assignment and an interesting shot at both using
+and controlling the use of AI.
+
+None of us really know what the best approach will be but with people
+like Matt experimenting, refining and sharing their practices, we'll get there.
+
+My second session was "Beyond the foundation - planning with the new
+HS specialty standards."
+
+The big announcements this year at CSTA were all around standards.
+
+In addition to releasing their new [[https://csteachers.org/pk12standards/][PK - 12 standards]] they also
+released [[https://csteachers.org/teacherstandards/][teacher standards]]. I'll write about those at some later date.
+
+For he PK - 12 standards, in addition to what they are calling
+foundational standards - the stuff all kids should know, they also
+released specialty standards.
+
+Seven more areas for say, electives after the "foundational standards"
+are covered.
+
+What are they?
+
+1. Artificial Intelligence
+2. Cybersecurity
+3. Data Science
+4. Game Development
+5. Physical Computing
+6. Software Development
+7. X + CS (another subject plus CS)
+
+We didn't look into these in depth but we did look over the web site
+(https://csteachers.org/pk12standards/) which has a really slick
+interface and great filtering capabilities.
+
+While I'm not big on "the standards" (more on this in the next post),
+these are a nice addition. They don't, in my opinion, provide
+standards as in "all students should know all of this of they study,
+say AI" but rather these look like nice references for teachers who
+want to build courses or experiences in these areas.
+
+The existence of these standards can also provide "cover" for a lone
+teacher trying to justify the creation of a course.
+
+Then we had our second keynote, Cynhis Breazeal talking about "Holistic
+AI Literacy" - how we might think about AI. It was fine and the
+speaker was engaging, but it didn't really do it for me.
+
+The day closed with two receptions. One off site, sponsored by
+Juicemind. I didn't attend that one. The other back at the venue split
+up by grade band - elementary, middle, and high school. I stopped by
+the HS one. It was pretty cool with the organizers provided "bingo
+boards" to encourage people to meet one another.
+
+So, much like day 1 - a couple of good sessions, an uneven keynote and
+lots of good conversations.
+
+Day 3 and a few more thoughts still to come.
+
+
