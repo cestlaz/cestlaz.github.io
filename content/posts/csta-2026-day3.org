@@ -1,0 +1,64 @@
+---
+title:CSTA 2026 Day 3
+date: 2026-07-15T16:52:20-04:00
+tags:
+- CSTA
+categories:
+- CSTA
+draft: true
+--- 
+
+So it turns out the third day of CSTA2026 was pretty light for
+me. There was a keynote and I there was one session I thought might be
+a little interesting but that was it. Nothing else really spoke to me.
+
+Let's start with the keynote.
+
+Well, it wasn't really a keynote, it was really like a regular session
+but this way the conference organizers made sure a maximal number of
+attendees would go to it.
+
+This was a great idea on there part.
+
+The session was about the new CSTA PK12 CS Standards.
+
+As any of my readers can tell you, I'm not a fan of "the standards"
+but I won't rehash the reasons here. In this case, though, even though
+the standards are, in my opinion similarly flawed as all other
+standards, this was a good session, an important session and in spite
+of my misgivings there were some important good things to say about
+the standards and the session.
+
+The session was basically a panel where they talked about some of
+their priorities, design decisions, why you should trust them and how
+you might implement them.
+
+I'll leave that alone except to say the panel was engaging and
+informative and drill down into some of what I think are important
+points.
+
+First off, you can find the standards here: https://csteachers.org/pk12standards/
+
+Next, I already spoke about the specialty standards in my previous
+post so we'll leave them alone.
+
+filtering
+fixed url
+interdiscplinary
+
+
+
+values guiding the standards revision
+
+equity centered
+community generated
+future oriented
+grounded in research
+flexible in implementation
+
+- q what important of ethics and human centered
+- a wasn't an afterthought (this might be good)
+  - showed the web site having interdisciplinary connections
+  - and the progression - the interface is very nice
+  - has an embedded popup glossary
+xs
