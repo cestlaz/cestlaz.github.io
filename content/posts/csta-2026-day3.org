@@ -1,11 +1,11 @@
 ---
-title:CSTA 2026 Day 3
+title: CSTA 2026 Day 3
 date: 2026-07-15T16:52:20-04:00
 tags:
 - CSTA
 categories:
 - CSTA
-draft: true
+draft: false
 --- 
 
 So it turns out the third day of CSTA2026 was pretty light for
@@ -18,47 +18,46 @@ Well, it wasn't really a keynote, it was really like a regular session
 but this way the conference organizers made sure a maximal number of
 attendees would go to it.
 
-This was a great idea on there part.
+This was a good idea on there part.
 
-The session was about the new CSTA PK12 CS Standards.
+The keynot or session was about the new CSTA PK12 CS Standards.
 
 As any of my readers can tell you, I'm not a fan of "the standards"
 but I won't rehash the reasons here. In this case, though, even though
 the standards are, in my opinion similarly flawed as all other
 standards, this was a good session, an important session and in spite
-of my misgivings there were some important good things to say about
+of my misgivings there were some important postitive things to say about
 the standards and the session.
 
 The session was basically a panel where they talked about some of
 their priorities, design decisions, why you should trust them and how
-you might implement them.
+you might implement them but let's dive in to what I thought was positive and why.
 
-I'll leave that alone except to say the panel was engaging and
-informative and drill down into some of what I think are important
-points.
+First off, you can find the standards here: https://csteachers.org/pk12standards/ and I want to note that since I already wrote about the specialty standards in my last post, I'm not going to talk about them here.
 
-First off, you can find the standards here: https://csteachers.org/pk12standards/
+Let's start with a small point but an important one. These standards define CS as:
 
-Next, I already spoke about the specialty standards in my previous
-post so we'll leave them alone.
+#+begin_quote
+Computer science is the study and human-centered practice of using data, algorithms, and computing systems to solve problems, make discoveries, and express ideas.
+#+end_quote
 
-filtering
-fixed url
-interdiscplinary
+The point is "human-centered practice." Now, I've been critical of CSTA about sometimes going light on the actual CS but still, it's important to have down in writing the human-centered part. Kudos for that.  I also like the "What CS is" and "What CS is not" blurbs right below the definition.
+
+The standards themselves are hosted on a website with probably the best interface I've seen for this type of information. It's easily filterable and searchable, shows progressions for each standard, provides examples, and even covers interdisciplinary relationships. The standards I've looked at before not only state what a student should be able to demonstrate but also what they're *not* expected to demonstrate.
+
+Really terrific job.
+
+One of the reasons I'm not big on "standards" is that if teachers know their stuff - that is, their subject matter and how to teach it, they really won't need the standards, they just sit on the shelf as official documentation.
+
+Unfortunately, in CS Education, too many states are creating situations where their CS teachers don't ever have to aquire deep CS knowledge so in the case our specific subject area, standards are probably more important than I'd like them to be.
+
+Anyway, strong session and great resource. Check them out.
+
+The only other thing I did on closing day was talk to someone at a poster session. I was looking at a poster that caught my eye. It was on [[https://www.youtube.com/@STEMcoding][Stem coding]] an initiative through Ohio State to use programming to support learning physics. I started to talk to the presenter and it turned out that it was [[https://www.linkedin.com/in/jimmynewland/][Jimmy Newland]] who I've known online for some time now but never met. We had a great chat and I learned about the project. Something I'm not directly going to be able to make use of but I have some teacher friends who might.
+
+So that was day three.
+
+Still to come, oveall thoughts, the exhibit hall, and knitting for charity.
 
 
 
-values guiding the standards revision
-
-equity centered
-community generated
-future oriented
-grounded in research
-flexible in implementation
-
-- q what important of ethics and human centered
-- a wasn't an afterthought (this might be good)
-  - showed the web site having interdisciplinary connections
-  - and the progression - the interface is very nice
-  - has an embedded popup glossary
-xs
