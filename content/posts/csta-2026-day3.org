@@ -9,7 +9,7 @@ draft: false
 --- 
 
 So it turns out the third day of CSTA2026 was pretty light for
-me. There was a keynote and I there was one session I thought might be
+me. There was a keynote and there was one session I thought might be
 a little interesting but that was it. Nothing else really spoke to me.
 
 Let's start with the keynote.
@@ -20,7 +20,7 @@ attendees would go to it.
 
 This was a good idea on there part.
 
-The keynot or session was about the new CSTA PK12 CS Standards.
+The keynote or session was about the new CSTA PK12 CS Standards.
 
 As any of my readers can tell you, I'm not a fan of "the standards"
 but I won't rehash the reasons here. In this case, though, even though
