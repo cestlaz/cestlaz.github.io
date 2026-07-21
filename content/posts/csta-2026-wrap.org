@@ -1,0 +1,67 @@
+---
+title: CSTA 2026 Wrap up
+date: 2026-07-21T11:48:05-04:00
+tags:
+- CSTA
+categories:
+- CSTA
+draft: false
+--- 
+
+#+ATTR_HTML: :width 500 
+#+CAPTION: Crowdsourced Blanket
+[[/images/csta-2026/blanket.jpg]]
+
+
+Time to wrap up the 2026 CSTA conference.
+
+* Exhibit Hall
+
+It's interesting to see how the exhibit hall has evolved over the years. It's clearly larger than when I first started attending CSTA, around 10 years ago but the exhibitors have changed radically even since the first major increase in size.
+
+Gone are the big FANG vendors. Google always used to have a HUGE booth and at times other majors like Microsoft, GitHub, and Amazon as well.
+
+No more.
+
+Big companies may or may not still be sponsoring but no more big booths with fancy swag.
+
+Also gone are book vendors, at least for the most part but that somewhat makes sense.
+
+What was there this year? Lots of robots and hardware. My friend and fellow CS Education blogger Alfred Thompson wrote about that [[https://blog.acthompson.net/2026/07/robots-at-csta-2026.html][here]]. They were the largest presence. Vex, the Raspberry Pi foundation, Lego and many more. There were also a handful of online programming environments. Some organizations - the college board, and Hello World CS.
+
+Some intresting booths included a booth repping Earsketc and a group integrating STEM education and dance.
+
+Overall a nice mix though as a retired teacher, nothing really userful to me.
+
+* Hallway track
+
+I've said it before. For me, CSTA has been more of a person conference than a session conference. This year was no exception but things have changed. I used to know many more attendees than I do now. Sure, I still know some people but many friends - both teachers and  teaching adjacent have left CS Ed.  If I continue attending these things, I'll have to overcome my social awkwardness and force myself to meet new people.
+
+Still, was delighted to see a number of friends including a bunch of people I never expected there.
+
+I'm guessing that new teachers probably got a lot from the sessions but I think even for them, the personal connections they can make at CSTA - to educators from different parts of the country can be the true gold at the conference.
+
+* Crowdsourcing a blanket
+
+#+ATTR_HTML: :width 500 
+#+CAPTION: Crowdsourced Blanket
+[[/images/csta-2026/devorah-colin-charlie.png]]
+
+A highlight for me, even though I really didn't do anything was that my wife Devorah was able to relaunch her [[https://blanketstatementproject.com/?ref=blog.pickcode.io][Blanket Statement]] project. Basically, crowdourcing a hand made blanket to be donated to a child in need.
+
+She ran this project pre-covid when the GitHub booth gave us space.
+
+At CSTA2025, I was talking to [[https://www.linkedin.com/in/charlie-meyer-pickcode/][Charlie Meyer]] one of the founders of [[https://pickcode.io/][Pickcode]]. I had gotten to know Charlie and Pickcode a year or so prior. Pickcode is a rather nice educational programming IDE and I found Charlie to be very responsive to teachers so I became a fan.
+
+Long story short, Charlie and his co-founder Colin offered up space for Devorah to run the project again.
+
+You can read a bit more about how Devorah's project being hosted at Pickcode went on the Pickcode blog [[https://blog.pickcode.io/csta-2026-recap/][here]] but it was a great success. Throughout the conference, Devorah distributed and collected knitting and crocheting supplies and taught conference goers how to use them.
+
+It was pretty cool to see at this advanced, tech age, STEM conference, people walking around with knitting needles and crochet hooks.
+
+By the end of the conference, enough squares had been made to construct two blankets both of which will be donated soon.
+
+Through the genorocity of our friends at [[pickcode.io][Pickcode]] and efforts of friends like Laurent Bricker and others, Blanket Statement was a great success and hopefully it can be recreated at other conferences.
+
+So that was CSTA 2026 for me. Next CS conference will be the NY State CSTA conference in November.
+
