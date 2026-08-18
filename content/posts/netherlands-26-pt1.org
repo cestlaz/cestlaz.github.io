@@ -1,0 +1,114 @@
+---
+title: Trip Report - Netherlands 26 - part 1
+date: 2026-08-18T02:06:16-04:00
+tags:
+- travel
+- misc 
+categories:
+- travel
+draft: false
+--- 
+
+We're spending a little under 2 weeks in the Netherlands. Figured, mostly correctly that it would be a touch cooler than NYC. First couple of days were tough with the temps well into the 90s but it's cooled off since and should be much more comfortable for the rest of the trip even if it's a little rainy.
+
+We spent the first six days based out of the Hague with day trips to Delft and Gouda.
+
+#+ATTR_HTML: :width 500
+#+CAPTION: Cervantes monument
+[[/images/netherlands-26/hague1.jpg]]
+
+
+In the Hague we hit:
+
+The Mauritshuis Museum - home to Vermeer's Girl with the Pearl Earning, lots of Rembrandt, Reubens and more all housed within a palace. We spent the few extra dollars so we could also visit Prince William's Gallery, right next to the Prison Gate Museum which was also interesting and worth one's time.
+
+#+ATTR_HTML: :width 500
+#+CAPTION: Delft by Vermeer
+[[/images/netherlands-26/mhm.jpg]]
+
+#+ATTR_HTML: :width 500
+#+CAPTION: Prince William's Gallery
+[[/images/netherlands-26/william.jpg]]
+
+
+Prince William's gallery is basically a big room with wall to ceiling classic art. A bit overwhelming.
+
+The Escher Museum, also in a Palace was equally amazing. 
+
+#+ATTR_HTML: :width 500
+#+CAPTION: windmill
+[[/images/netherlands-26/windmill.jpg]]
+
+
+After the morning at the Escher museum we decided to take public transportation, which has been great to visit a working windmill. It's still used to grind flour, which they sell on location but a two days a week they allow visiters. We got an in depth essentially private tour as we climbed up into the internals, Got to see how all the mechanics worked - gearing, the break, and all the mechanisms and learned some history as well. 
+
+A big highlight, albeit a bit far afield was the Strandbeest Playground.
+
+#+begin_export html
+<figure>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rF1S499uiXM?si=omowP1l6dtz9sTjw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<figcaption>Welcome to <strikethrough>Jurrasic</strikethrough>Strandbeest park (with sound)</figcaption>
+</figure>
+#+end_export
+
+Strandbeest's are the creation of [[https://en.wikipedia.org/wiki/Theo_Jansen][Theo Jansen]], a local artist. He's been creating these walking animals for decades and they're amazing.
+
+#+begin_export html
+<figure>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/R2NEQUp_pdE?si=rlrPe6AwfGkWzjsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<figcaption>Walking one's Strandbeest</figcaption>
+</figure>
+#+end_export
+
+They've got a "Strandbeest Playground" in one of the parks on the outskirts. It includes a bunch of mounted "extinct" animals and also a couple that you can "resussitate" and walk yourselves.
+
+Getting there though was a scholep. We kept checking routes and it was always a tram ride followed by a 30 minute walk. We decided to suck it up and do it on our last day in the Hague. Annoyingly, when we were there and routed back, low and behold, Google maps finally figured out a way to route us back that only had a 16 minute walk and shorter tram ride. Technology.
+
+Food wise, we also did well with the highlights being a place where we got Suranamise and Javanese food and our last night when we went to a Yemeni place.
+
+For our day trips, we went to Delft to visit Royal Delft, where they make that famous blue porceline. Very cool museum and factory tour.
+
+#+ATTR_HTML: :width 500
+#+CAPTION: Life size porceline tile recreation of the Nightwatch
+[[/images/netherlands-26/delftwatch.jpg]]
+
+After lunch at the factory - choices were rather limited, we walked over to the Strandbeest Mortuarium. A collection of extict strandbeests through the years along with information on their development and evolution.
+
+#+ATTR_HTML: :width 500
+#+CAPTION: Strandbeest tree of life.
+[[/images/netherlands-26/sbchart.jpg]]
+
+A little out of the way but way cool.
+
+After that we walked around the town center and then back to The Hague.
+
+Our other day trip was to Gouda.
+
+First stop was teh Weigh House which houses a small museum going over some history and the products that Gouda was famous for. Not just the cheese but also porcelain pipes, candles, and it turns out stroopwaffles were also invented in Gouda.
+
+We couldn't enter the New Church or Old Church but we did get to visit Saint John's Church which included a tour of some of their amazing stained glass windows noth old and new.
+
+#+ATTR_HTML: :width 500
+#+CAPTION: One of the more modern panes
+[[/images/netherlands-26/glass.jpg]]
+
+We also found the site of the old Jewish Synagogue and our first Stumblingstones of the trip.
+
+#+ATTR_HTML: :width 500
+#+CAPTION: Stumblingstones
+[[/images/netherlands-26/stumble.jpg]]
+
+[[https://en.wikipedia.org/wiki/Stolperstein][Stumblingstones]] are a remembrence project. Since 2005 over 100,000 stones have been installed across 31 countries. Each stone has the name and life dates of a Jew executed by the Nazis. They are embedded in the sidewalk in front of the house or house location where the victim lived.
+
+It's very powerful seeing one stone here and one there but then blocks with stone cluster after stone cluster.
+
+I'd encourage you to read the [[https://en.wikipedia.org/wiki/Stolperstein#Other_countries][wikipedia page]].
+
+Walking through the Jewish section of Gouda was a reminder to be alert and outspoken particularly with the rist of Jew hate, frequently under the guise of "antizionism." 
+
+That was the first half of the trip. I don't mean to end the report on a downer, it really was a terrific week.
+
+I'm finishing this post off from our hotel in New Amsterdam. Going to Utrecht for the day tomorrow and then the rest of the week here in town.
+
+I'll probably write up that half of the trip when I'm back in New York.
+
