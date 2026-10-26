@@ -1,0 +1,60 @@
+---
+title: The New Entry Level
+date: 2026-10-26T13:27:34-04:00
+tags:
+- CS
+- Education
+categories:
+- Tech
+draft: false
+--- 
+
+I was getting lunch with a friend - a former student, the other day. Great little
+tapas place in SOHO.
+
+He's a sharp guy. In the tech industry.
+
+Back when Google and company were all starting with those "technical interviews," now known as leetcode problems and every other Tom, Dick, and Harry company was playing copycat, he took a different approach.
+
+His theory was that his company couldn't compete with, say Google, in terms of cachet, salary, or benefits for an entry level hire so if you were good enough to pass the Google screen and his screen, you'd almost certainly pick Google. At the same time, if you didn't pass Google's then, using that particular measure he'd be stuck with "lesser" candidates.
+
+So, he set out to figure out how he could evaluate his candidates differently. Try to find the top level SWE who nonetheless didn't necessarily do tremendously well at the Google style interview.
+
+Anyway, we got to talking about the current state of new hires, college CS, and of course AI.
+
+First thing he mentioned was that the quality of college CS grads is way up accross the board. This is something I predicted. CS a couple of decades ago CS became the hot field. Jobs were aplenty so everyone entered tech. There was a point that you could enroll in a bad coding bootcamp and still get a six figure entry level job in half a year.
+
+Well, those days are gone and the field, to an extent, lost its luster.
+
+To me, though, that's probably a good thing. I still think that everybody should be exposed to CS, take some CS before college, and if it's taught right, all students can benefit but too many people went into CS as a major or career for the wrong reasons.
+
+Of course, this isn't new. In the late 80's business school had a moment, Law school as well. You still get lots of parents of newcomers to our country pushing the doctor lawyer narrative wether the kid is interested and adept or not.
+
+The correction had to happen.
+
+Of course I feel bad for CS graduates from the past couple of years and for those graduating in the near future as I fear that the correction will go on a while longer, until companies realize that they need entry level employees in the pipeline and exactly how AI fluency and entry level skills will resolve with respect to each other.
+
+The thing is, we're not the hot field anymore. Sure, this leads to the challenge of having to prove our worth once again (and indeed I strongly believe in the importance of CS when taught and learned right), but it also means that as far as college majors go, kids going into CS more strongly want to go into CS - this leads to stronger CS graduates across the board.
+
+Is this a good thing? Maybe but regardless it's a worthwhile and interesting observation.
+
+Another thing my friend noted was that the AI revolution has led to opportunities for a different AI student. What he  meant, and I agree with this was that back BAI (Before AI), if you were going into tech, you had to be a strong coder. To get past the interviews, you also, presumably, needed to know your algorithms. No real attention was given in most college programs to software architecure, technology integration, program design, and all the other things that SWEs need to get the job done.
+
+There were always students who might be good at designing systems, understand the big picture or a systenm and/or component relationships and all sorts of other important aspects a SWE or tech employee might need but they might be horrible coders.
+
+I know these people exist - I've taught plenty of them. They've got a lot of great abilities but struggled with the coding. Now, with AI, the coding is no longer a barier. As long as they can audit the created code and modify and tweak it, they're good.
+
+As the market corrects, this should make more opportunities for CS students who maybe didn't fit as well in the past but should fit much better now.
+
+Finally, something I brought to which my friend concurred was that this is also an opportunity for CS programs in liberal arts schools or programs.
+
+I've always been a big believer in the liberal arts but for CS there seems to have always been more of an emphasis on the Bachelors of Science in the Engineering School. When I would go talk to HS schools, almost universally the kids were considering Engineering schools and very few were considering liberal arts for CS.
+
+This is an opportunity for people to understand that CS taught well is about thinking and problem solving, you know - liberal arts. I hope the relevant institutions realize this and start working on their PR.
+
+Anway, I had a great lunch and great talk with my friend. Something I have to do more now that I'm not bound by a work schedule.
+
+I thought it would be some interesting food for thought for the community.
+
+
+
