@@ -1,0 +1,44 @@
+---
+title: Curriculum Vs Teacher
+date: 2026-10-16T14:44:59-04:00
+tags:
+- CS
+- teaching
+- education
+categories:
+- education
+draft: false
+--- 
+
+My friend [[https://www.linkedin.com/in/neil-plotnick-29763617/][Neil]] posted [[https://www.thecrimson.com/article/2026/10/16/student-reax-new-cs50-instructor/][this]] article earlier today. Got me thinking. Enough so to post again after a couple of months.
+
+The article is about Harvard's popular CS50 course. David J. Malan took over and redesigned the course in 2007 and it's been his ever since. This year, Malan is on sabbatical and the course is being taught by Henry H. Leitner who was one of the instructors prior to Malan's reworking of the course. The piece discusses student perceptions of changes in the course.
+
+Now, I've commented about CS50 in the past. Basically about things that I've felt were design flaws in the course but that's neither here nor there. This post is about the relationship between course, curriculum and instructor.
+
+Soon after CS50 was revamped, CS50 was quickly regarded as a unicorn course with David Malan a rock star instructor. It gained tremendous popularity at Harvard and when the class was packaged for distribution to other schools, it was received with similar excitement by schools across the country and perhaps beyond.
+
+As I said, I believe that CS50 flawed in design and implementaiton. That doesn't mean it's horrible. I've seen better designed courses and worse ones. I just beleive that there are holes in the design and it's not the be all and end all that the hype had one believe.
+
+I also think it was a course delivered by a very strong charismatic, engaging  lecturer who knows his stuff and who made good use of the facilities afforded him by Harvard.
+
+This was a combination of a curriculum with an A+ instructor.
+
+Looking over the article Neil posted, it appears that the current version, taught by a different instructor is not, overall, as well received.
+
+That might be because it's not as good but that might not be the case. It could be expectations, it could be a less charismatic instructor who might be equally effective, or it could be a number of other things.
+
+The point is, so much of the percieved quality of a class is the instructor not the curriculum.
+
+A great teacher can save a meh curriculum but the best curriculum is not going to make a class with a horrible teacher a good class.
+
+It makes me think of another popular class that grew far beyond it's origins.
+
+Beauty and Joy of computing. BJC was (is) a well designed implementation of APCS Principles. Designed and first taught and championed by Dan Garcia at Berkeley.
+
+Dan's an amazing teacher and BJC with Dan Garcia, as far as I can tell is magic. BJC with another teacher can be amazing but put a bad teacher in the class and it won't be a good course. I never taught APCS Principles but if I taught BJC I can guarantee it wouldn't be nearly as good as the Dan Garcia version. I can hold my own in the classroom but BCJ uses a drag and drop language as its implementation language and I don't love that for high school kids. That would show in my version and it wouldn't be as good regardless of the materials Dan made available to me.
+
+Now, for CS50, is this new version worse? Who's to say. It sounds like the instructo teaching it isn't as popular, but then given David Malan's repuation, that's not a surprise. That doesn't mean though that he's any less effective. Maybe in reality this new version is better. Maybe worse. Maybe the same.
+
+The thing is that so much of teaching is about the student and the teacher. Sure, one needs a curriculum but assuming you've got a teacher that knows their stuff (and that should be a miminum requirement), the curriculum is the least important piece of the puzzle.
+
