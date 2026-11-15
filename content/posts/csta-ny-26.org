@@ -1,0 +1,79 @@
+---
+title: CSTA NY Conference 2026
+date: 2026-11-14T20:08:06-04:00
+tags:
+- CS Ed
+- CSTA
+categories:
+- CS Ed 
+draft: false
+--- 
+
+Devorah and I are up in New Paltz this weekend. Specifically at the University of New Paltz attending the first CSTA-NY conference. Devorah to run her [[https://blanketstatementproject.com/][Blanket Statement]] knitting project and me to actually attend the conference sessions.
+
+Great job by the organizing team. Fresh off of combining all the New York CSTA chapters into one giant Voltron chapter the conference team which spanned the state put on a terrific show.
+
+After coffee and pastries, the day kicked off with a keynote. Philip Courtney of Urban Arts along with two Urban Arts alums. Urban Arts is a New York City based program that offers free classes in game design. Classes that bring together art and tech. It was a good talk but not a great one. All the speakers were engaging and they got more than a few laughs out of the crowd. I also loved hearing about and from the former Urban Arts students - now college students, but the talk also felt like an advertisement for the Urban Arts program. Now, there really wasn't anything wrong with that. This is a program that's free for participants and it looks like they do good work but I look for more in a keynote. A call to action or something to think more deeply about throughout the rest of the conference and I didn't feel that I got either. I learned a bit about Urban Arts nad also a couple of nice personal journeys.
+
+So, good talk but not great.
+
+The first session I attended after that was by Brendan Croft. Brendan basically led us through a discussion of the APCS-A grading rubrics, gave some insight into the grading process from his experience as a reader and then led us through discussing the grading of a couple of actual questions.
+
+This was a great session. Lots of value added by Brendan. It wasn' a "this is right" or "this is wrong" session but he facilitated some nice discussion on what he thought the college board might have been thinking and we discussed wether we thought it was good or bad as well as the benefits and problems of how the exams are graded.
+
+A+
+
+Next up was a session given by [[https://dayofai.org/][Day of AI]]. They offer resources to teach AI throughout the grades. To be honest, I was a little disappointed here. The material was fine but I felt that it was really an ad for the site. Now, like Urban Arts, nothing wrong with that - it was a free resource but I was hoping for more value added rather than something I could learn about just by going to the website myself.
+
+Still there were a a few things that I noticed. The first two activities that the speaker went over weren't really AI specific. The one for second graders was really more of a general data thing and the fourth grade lesson students evaluated if an activity was fair or unfair - again not specific to AI.
+
+Nothing wrong here either but it reminded me of a lot of the CS for All work for elementary schools where they took things that were always done in elementary school under other auspices (logic, geneneral problem solving, math) and relabling them as CS.
+
+This wasn't a bad session. It was in fact informative and well led, but I'm nitpicking here - I would have liked more value added beyond what I could find on the day of AI web site myself. 
+
+This session was followed by lunch, mingling and visiting the exhibit hall booths.
+
+I got to spend time with a number of old friends and meet some new ones and it was a great opportunity to informally talk shop.
+
+Next up was a talk by Alfred Thompson on CS teaching techniques. Alfred also wrote up his conference experience [[https://blog.acthompson.net/2026/11/csta-new-york-conference-2026.html][here]] on his blog.
+
+Alfred talk was fun and informative. He focussed on four specific teaching techniques - subgoal labling, live coding, Parsons problems, and rubber duck debugging.
+
+Rather than dive in here, I'm hoping this motivates me to follow up with four more blog posts - one on my take on each of the four techniques.
+
+Another strong session.
+
+Next up was a session by Leon LaSpina.
+
+Leon went through an exercise he uses with his class after APCS-A. Specifically he has student groups build a web app but he has them do it with AI assistance.
+
+First, Leon spends a few lessons going over the base concepts the students will need and forms teams. Then the students spend time researching the specifics of what they'll need and this includes using AI and finally the students put it all together.
+
+It was a nice case study and example of how students can be introduced to using AI to aid in program development in a safe place.
+
+I also very much enjoyed this talk.
+
+Finally, I attended a talk by Chris Harris and Eileen Anderson on what they and others in Rochester have come up with as their response to AI.
+
+The work they presented and elaborated on can be found [[https://teachingabout.ai
+][here]]. They specifically talked about [[https://teachingabout.ai/provocation/s][these]] eight points.
+
+There's a lot of meat there but a big one is that AI isn't either the problem nor the solution. Rather there are problems in education that AI has eithe exposed or accelerated. We always had cheaterss but with AI cheating is easier than ever. Assessing learning was always hard but AI has made it harder. These are just two examples.
+
+One point they made that I wish I could agree with was the claim that we can use AI as an excuse for change - to try to do things right htis time.
+
+I'd like to agree with that. I mean, I'd like it to be true but we've already seen how the movie ends. When CS was brand new it was another opportunity to do things right but in the end, CS Ed ended up being like all the other subjects.
+
+I know we as CS teachers don't want to admit that but it's true. We have too many watered down teacher prep requirements and programs, we've preached to teach and accept failure but CS is graded the same way every other subject is and so on.
+
+Sure, many are fighting the good fight but looking at the big picture, CS wasn't a catalyst for major systemic education change.
+
+In any event, this was a great session on some interesting work being done in Rochester.
+
+Afterwards Devorah and I got dinner with a few freinds adn now I'm writing this up at the hotel.
+
+Tomorrow morning back to NYC.
+
+I can't say enough about the organizing team. For a first conference, or any conference really, they did such a great job - wifi worked, food was abundent and well laid out. Many talks to chose from. They've set a high bar for next year.
+
+
