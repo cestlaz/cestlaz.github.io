@@ -1,0 +1,25 @@
+<div class="post-info noselect">
+  {{ if not .Date.IsZero }}
+  <div class="post-date dt-published"><time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2006-01-02" }}</time></div>
+  {{ end }}
+  <a class="post-hidden-url u-url" href="{{ .RelPermalink }}">{{ .RelPermalink }}</a>
+  {{ with site.Params.author.name }}
+  <a href="{{ site.BaseURL }}" class="p-name p-author post-hidden-author h-card" rel="me">{{ . }}</a>
+  {{ end }}
+  <div class="post-taxonomies">
+    {{ with .Params.categories }}
+    <ul class="post-categories">
+      {{ range . }}
+      <li><a href="{{ "/categories/" | relLangURL }}{{ . | urlize }}/">{{ . }}</a></li>
+      {{ end }}
+    </ul>
+    {{ end }}
+    {{ with .Params.tags }}
+    <ul class="post-tags">
+      {{ range . }}
+      <li><a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}/">#{{ . }}</a></li>
+      {{ end }}
+    </ul>
+    {{ end }}
+  </div>
+</div>

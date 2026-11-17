@@ -1,0 +1,8 @@
+{{ if or .Params.toc site.Params.toc }}
+  {{ if gt (len .TableOfContents) 50 }}
+    <details class="toc noselect">
+      <summary class="inner">Table of Contents</summary>
+      {{ .TableOfContents }}
+    </details>
+  {{ end }}
+{{ end }}

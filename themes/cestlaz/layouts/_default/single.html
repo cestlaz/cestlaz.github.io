@@ -1,0 +1,57 @@
+{{ define "main" }}
+<main id="main" tabindex="-1">
+  <article class="post h-entry">
+    <div class="post-header">
+      <header>
+        <h1 class="p-name post-title{{ if .Params.favorite }} favorite{{ end }}{{ if .Params.draft }} draft{{ end }}">{{ trim .Title " " | markdownify }}</h1>
+        {{ partial "post-language-switcher.html" . }}
+      </header>
+      {{ partial "post-info.html" . }}
+    </div>
+    {{ partial "toc.html" . }}
+    <div class="content e-content">
+      {{ .Content }}
+    </div>
+
+    {{ if ne .Type "page" }}
+      {{ $handle := site.Params.author.bluesky | default "@zamansky.bsky.social" }}
+      {{ if not (hasPrefix $handle "@") }}{{ $handle = printf "@%s" $handle }}{{ end }}
+      {{ $text := printf "Check out the latest post by %s %s" $handle .Permalink }}
+      {{ $shareUrl := printf "https://bsky.app/intent/compose?text=%s" ($text | urlquery) }}
+      {{ $bicon := partial "font-awesome.html" (dict "iconName" "bluesky" "custom" false) }}
+      <a href="{{ $shareUrl }}" class="bluesky-share-btn">{{ $bicon }}Share on Bluesky</a>
+    {{ end }}
+  </article>
+
+  {{ if ne .Type "page" }}
+    {{ $readNextCount := site.Params.readNextPosts | default 2 }}
+    {{ if gt $readNextCount 0 }}
+      {{ $related := .Site.RegularPages.Related . | first $readNextCount }}
+      {{ with $related }}
+        <h3 class="read-next-title noselect">{{ i18n "readNext" | default "Read next" }}</h3>
+        <ul class="read-next-posts noselect">
+          {{ range . }}
+          <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+          {{ end }}
+        </ul>
+      {{ end }}
+    {{ end }}
+
+    {{ if site.Params.paginationSinglePost }}
+      {{ partial "post-pagination.html" . }}
+    {{ end }}
+
+    {{ if not .Params.disableComments }}
+      {{ partial "comments.html" . }}
+    {{ end }}
+  {{ end }}
+
+  {{ if .Store.Get "hasMermaid" }}
+    {{ partial "mermaid_support.html" . }}
+  {{ end }}
+
+  {{ if or .Params.math site.Params.mathjax }}
+    {{ partial "mathjax_support.html" . }}
+  {{ end }}
+</main>
+{{ end }}

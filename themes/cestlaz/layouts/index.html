@@ -1,0 +1,37 @@
+{{ define "main" }}
+<main id="main" tabindex="-1">
+  {{ if .Content }}
+  <div class="homepage-content">
+    {{ .Content }}
+  </div>
+  {{ end }}
+  <div class="articles h-feed">
+    {{ $sections := site.Params.postSections | default (slice "posts" "post") }}
+    {{ $sections = $sections | append "posts" | append "post" | uniq }}
+    {{ $pages := where site.RegularPages "Section" "in" $sections }}
+    {{ if eq (len $pages) 0 }}
+      {{ $pages = site.RegularPages }}
+    {{ end }}
+    {{ $paginator := .Paginate $pages }}
+    {{ range $paginator.Pages }}
+    <article class="post-list h-feed post-card">
+      <div class="post-header">
+        <header>
+          <h1 class="p-name post-title">
+            <a class="u-url" href="{{ .RelPermalink }}">{{ .Title }}</a>
+          </h1>
+        </header>
+      </div>
+      <div class="content post-summary p-summary">
+        {{ .Summary | plainify | safeHTML }}
+      </div>
+      <div class="read-more">
+        <a class="u-url" href="{{ .RelPermalink }}">{{ i18n "readMore" | default "Read more" }}</a>
+      </div>
+      {{ partial "post-info.html" . }}
+    </article>
+    {{ end }}
+    {{ partial "pagination.html" . }}
+  </div>
+</main>
+{{ end }}

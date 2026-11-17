@@ -1,0 +1,108 @@
+<meta charset="utf-8">
+<meta name="HandheldFriendly" content="True">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="referrer" content="no-referrer-when-downgrade">
+<title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ .Title }} - {{ site.Title }}{{ end }}</title>
+<meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ with .Summary }}{{ . | plainify }}{{ else }}{{ site.Params.tagline | default site.Title }}{{ end }}{{ end }}">
+
+{{ with .OutputFormats.Get "rss" -}}
+  {{ printf `<link rel="%s" type="%s" href="%s" title="%s">` .Rel .MediaType .Permalink site.Title | safeHTML }}
+{{ end -}}
+
+{{ if fileExists "static/favicon.ico" }}
+<link rel="icon" type="image/x-icon" href="{{ "favicon.ico" | absURL }}">
+{{ end }}
+{{ if fileExists "static/favicon.png" }}
+<link rel="apple-touch-icon-precomposed" href="{{ "favicon.png" | absURL }}">
+{{ end }}
+
+<style>body{visibility:hidden;opacity:0}</style>
+<noscript><style>body{visibility:visible;opacity:1}</style></noscript>
+
+<link rel="stylesheet" href="{{ "css/style.css" | relURL }}">
+{{ range site.Params.customCSS }}
+<link rel="stylesheet" href="{{ . | relURL }}">
+{{ end }}
+
+<script src="{{ "js/main.js" | relURL }}" defer></script>
+
+<script>
+const STORAGE_KEY = "user-color-scheme";
+const defaultTheme = "light";
+let currentTheme;
+let switchButton;
+let autoDefinedScheme = window.matchMedia("(prefers-color-scheme: dark)");
+
+function switchTheme() {
+  currentTheme = currentTheme === "dark" ? "light" : "dark";
+  if (localStorage) localStorage.setItem(STORAGE_KEY, currentTheme);
+  document.documentElement.setAttribute("data-theme", currentTheme);
+  changeGiscusTheme(currentTheme);
+  if (window.REMARK42 && typeof window.REMARK42.changeTheme === 'function') {
+    window.REMARK42.changeTheme(currentTheme);
+  }
+  document.body.dispatchEvent(new CustomEvent(currentTheme + "-theme-set"));
+}
+
+const autoChangeScheme = e => {
+  currentTheme = e.matches ? "dark" : "light";
+  document.documentElement.setAttribute("data-theme", currentTheme);
+  changeGiscusTheme(currentTheme);
+  if (window.REMARK42 && typeof window.REMARK42.changeTheme === 'function') {
+    window.REMARK42.changeTheme(currentTheme);
+  }
+  document.body.dispatchEvent(new CustomEvent(currentTheme + "-theme-set"));
+};
+
+document.addEventListener("DOMContentLoaded", function () {
+  switchButton = document.querySelector(".theme-switcher");
+  currentTheme = detectCurrentScheme();
+  if (currentTheme === "auto") {
+    autoChangeScheme(autoDefinedScheme);
+    if (autoDefinedScheme.addListener) {
+      autoDefinedScheme.addListener(autoChangeScheme);
+    } else if (autoDefinedScheme.addEventListener) {
+      autoDefinedScheme.addEventListener("change", autoChangeScheme);
+    }
+  } else {
+    document.documentElement.setAttribute("data-theme", currentTheme);
+  }
+  if (switchButton) {
+    switchButton.addEventListener("click", switchTheme, false);
+  }
+  showContent();
+});
+
+function detectCurrentScheme() {
+  return localStorage !== null && localStorage.getItem(STORAGE_KEY)
+    ? localStorage.getItem(STORAGE_KEY)
+    : defaultTheme
+    ? defaultTheme
+    : window.matchMedia("(prefers-color-scheme: dark)").matches
+    ? "dark"
+    : "light";
+}
+
+function showContent() {
+  document.body.style.visibility = "visible";
+  document.body.style.opacity = 1;
+}
+
+function changeGiscusTheme(e) {
+  const t = document.querySelector("iframe.giscus-frame");
+  if (!t) return;
+  t.contentWindow.postMessage({ giscus: { setConfig: { theme: e } } }, "https://giscus.app");
+}
+</script>
+
+{{ with site.Params.GoogleAnalytics }}
+  {{ if .enabled }}
+    <script async src="https://www.googletagmanager.com/gtag/js?id={{ .gtag }}"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag("js", new Date());
+      gtag("config", "{{ .gtag }}");
+    </script>
+  {{ end }}
+{{ end }}

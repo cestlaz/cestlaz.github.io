@@ -1,0 +1,14 @@
+<!doctype html>
+<html lang="{{ site.LanguageCode | default "en-us" }}" data-theme>
+<head>
+  {{ partial "head.html" . }}
+</head>
+<body>
+  <a class="skip-main" href="#main">Skip to main content</a>
+  <div class="container">
+    {{ partial "header.html" . }}
+    {{ block "main" . }}{{ end }}
+    {{ partial "footer.html" . }}
+  </div>
+</body>
+</html>

@@ -4,7 +4,7 @@ title = "C'est la Z"
 
 
 # theme ="hugo-kiera"
-theme ="anubis2"
+theme ="cestlaz"
 
 [outputs]
   home = ['html', 'rss']
@@ -32,6 +32,13 @@ pygmentsCodeFences = true
 #commentAutoload = true
 
 #googleAnalytics = "G-VPZ5Z7DJ45" #Google Analytics ID
+
+[params.remark42]
+enabled = true
+host = "https://comments.cyclopterus.org"
+site = "cestlaz"
+max_shown_comments = 10
+show_email_subscription = false
 
 [params.GoogleAnalytics]
 enabled = true

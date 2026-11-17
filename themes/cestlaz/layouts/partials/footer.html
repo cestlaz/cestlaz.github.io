@@ -1,0 +1,10 @@
+<footer class="common-footer noselect">
+  <div class="common-footer-bottom">
+    <div style="display:flex;align-items:center;gap:8px">© {{ site.Params.author.name | default site.Title }}, {{ now.Year }}</div>
+    <div style="display:flex;align-items:center"></div>
+    <div>Powered by <a target="_blank" rel="noopener noreferrer" href="https://gohugo.io/">Hugo</a>, theme <a target="_blank" rel="noopener noreferrer" href="https://github.com/cestlaz/cestlaz.github.io">C'est la Z</a>.<br></div>
+  </div>
+  {{ with site.Params.author.name }}
+  <p class="h-card vcard"><a href="{{ site.BaseURL }}" class="p-name u-url url fn" rel="me">{{ . }}</a></p>
+  {{ end }}
+</footer>

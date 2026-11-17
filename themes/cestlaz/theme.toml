@@ -1,0 +1,11 @@
+name = "cestlaz"
+license = "MIT"
+licenselink = "https://github.com/cestlaz/cestlaz.github.io/blob/master/LICENSE"
+description = "A minimalist, responsive Hugo theme mimicking C'est la Z (https://cestlaz.github.io)."
+homepage = "https://cestlaz.github.io"
+tags = ["blog", "minimalist", "clean", "responsive", "light", "dark"]
+min_version = "0.110.0"
+
+[author]
+  name = "Mike Zamansky"
+  homepage = "https://cestlaz.zamansky.net"

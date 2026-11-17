@@ -1,0 +1,15 @@
+{{ $paginator := .Paginator }}
+{{ if and $paginator (gt $paginator.TotalPages 1) }}
+<div class="pagination noselect">
+  <div class="left pagination-item{{ if not $paginator.HasPrev }} disabled{{ end }}">
+    {{ if $paginator.HasPrev }}
+    <a href="{{ $paginator.Prev.URL }}">{{ i18n "toNewPosts" | default "to new posts" }}</a>
+    {{ end }}
+  </div>
+  <div class="right pagination-item{{ if not $paginator.HasNext }} disabled{{ end }}">
+    {{ if $paginator.HasNext }}
+    <a href="{{ $paginator.Next.URL }}">{{ i18n "toOldPosts" | default "to old posts" }}</a>
+    {{ end }}
+  </div>
+</div>
+{{ end }}

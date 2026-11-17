@@ -1,0 +1,8 @@
+<div class="pagination post-pagination">
+  <div class="left pagination-item{{ if not .NextInSection }} disabled{{ end }}">
+    {{ with .NextInSection }}<a href="{{ .RelPermalink }}">{{ .Title }}</a>{{ end }}
+  </div>
+  <div class="right pagination-item{{ if not .PrevInSection }} disabled{{ end }}">
+    {{ with .PrevInSection }}<a href="{{ .RelPermalink }}">{{ .Title }}</a>{{ end }}
+  </div>
+</div>
