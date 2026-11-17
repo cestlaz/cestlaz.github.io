@@ -1,0 +1,34 @@
+---
+title: Adding Comments
+date: 2026-11-17T13:00:40-04:00
+tags:
+- misc
+categories:
+- misc
+draft: false
+--- 
+
+TL;DR
+
+I just added comments back to this blog, or rather am working on adding them.
+
+If you have a chance, could you add a comment or to reply to a comment so I can see what does and doesn't work? Thanks!
+
+-------
+
+Yeah - way back when, this blog supported comments. Never got that many but I liked that people had the option to chime in. I was using disqus and it worked pretty well although I didn't always get alerts on comments.
+
+When I redid the blog and switched themes, even though the configuration was identical, things stopped working. I let it be but figured it was time to fix things.
+
+I decided "no more disqus" - it was always a bit wonky and from what I've heard, they now put in a lot of cruft with respect to privacy and tracking.
+
+Instead, I'm trying out [[https://remark42.com/][remark42]]. It's self hosted from a docker container which means everything is on something I control which means no spyware or tracking of commenters.
+
+I also made a couple of other changes under the hood relating to the theme and hosting.
+
+So, if you get a chance could you please leave a quick comment here or reply to a comment and I'd love people to chime in on future blog posts.
+
+
+
+
+
