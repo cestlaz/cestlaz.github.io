@@ -1,0 +1,103 @@
+---
+title: Subgoal Labeling
+date: 2026-11-18T16:33:02-04:00
+tags:
+- pedagogy
+- programming
+- teaching tips
+categories:
+- pedagogy
+draft: false
+--- 
+
+First off - thanks to those of you who helped test the new commenting system.
+
+At the CSTA-NY conference, my friend Alfred Thompson presented on four CS teaching techniques (blog post, which includes a link to his slides [[https://blog.acthompson.net/2026/11/csta-new-york-conference-2026.html][here]]).
+
+I thought I'd elaborate on each of the four starting with Subgoal Labeling.
+
+The basic idea is instead of diving right in and writing lines of code, you start with a series of subgoals, higher level comments if you would and then fill in the blanks.
+
+For example, let's suppose you were going to write a program to read in a file of integers then print out the largest, smallest and median. Yeah, I know, it's a contrived example.
+
+You might use these subgoals:
+
+#+begin_src python
+# specify or get filename
+
+# read integers from the file
+
+# sort the list
+
+# determine min/max
+
+# determine median
+
+# print results
+
+
+#+end_src
+
+And then you start filling things in.
+
+Of course, you might have more explicit goals, for instance, for "determine median" you might have:
+
+#+begin_src python
+# determine median
+# if # elements is odd, it's the middle element
+# if # elements is even, it's the mean of the two middle elements
+#+end_src>
+
+or something similar.
+
+When adding the actual code, you might explicitly sort your datra for the "sort the list" subgoal, or more likely, you'll use the built in sort and of course, in a larger, more complex system, the subgoals would look different or possibly even be layered.
+
+Piece by piece you fill out the code. You might even leave the comments in as documentation. 
+
+According to our AI overlords, subgoal labeling for programming was first presented at ICER but the idea, from an academic point of view came out of work by Richard Catrambone, a psychologist in the mid 1990s.
+
+Like many published teaching techniques, the idea is far
+older. I was using subgoal labeling as a student programmer and
+professional programmer in the 80s. It's just something I came up
+with. I'm betting a lot of other programmers also came up with the
+idea.
+
+It just made sense. We were always told in classes to "comment our code" but never told what that meant. Laying out steps to completion in the comments just made a lot of sense to me.
+
+Of course, my generation didn't really invent it either.
+
+We all learned outlining in elementary school, or was it middle school. Either way, the idea of writing out a simplified task list in a hierarchical way and then fleshing out each item and subitem. A subgoal labeled program is really just an outline.
+
+Now, when I did this professionaly I would typically start with a comment above a given function describing things and outline the function entirely with comment labels. I might do multiple functions like this first, or I might label and fill in one at a time.
+
+When using the technique instructionally there are lots of options.
+
+- Give the students the entire thing already labelled: ::
+  This is good early on. It provides structure for beginners and you can teach your class how you expect solutions to be developed and how they shoud look.
+
+- Develop subgoals by projecting code as a class activity: ::
+  Call on students or just have them chime in. Fun activity, lets students who might not be able to do everything in a problem all at once still contriute.
+
+- Have the students develop the subgaols: ::
+  Have them develop the subgoals, go over them in class, then write the solution, either together as a class, in groups, or individually.
+
+
+I can think of other variations as well - student pairs - one writes goals, the other fills in code, then switch, for instance or maybe a reverse activity for code reading - read the code, make the labels.
+
+It's a very powerful technique and one that should be in every teachers toolkit.
+
+
+
+
+
+
+
+
+subgoals are comments / documentation
+
+
+ Richard Catrambone in the mid 1990s
+
+ 
+ 
+
