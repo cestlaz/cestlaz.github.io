@@ -5,7 +5,7 @@
     {{ $enabled = $remark42.enabled }}
   {{ end }}
   {{ if and $remark42 $enabled }}
-Name must be at least 3 characters
+<b>Name when signing in for comments must be at least 3 characters</b>
     {{ $host := $remark42.host | default "https://comments.cyclopterus.org" }}
     {{ $site := $remark42.site | default "cestlaz" }}
     {{ $host = strings.TrimSuffix "/" $host }}
