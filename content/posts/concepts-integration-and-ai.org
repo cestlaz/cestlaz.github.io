@@ -9,9 +9,7 @@ categories:
 draft: false
 --- 
 
-As a Met's fan, I'm used to Keith Hernandez harping on "good fundies." I mean, as a teacher as well. That was the topic of Alfred Thompson's
-[[https://blog.acthompson.net/2026/11/teach-concepts-not-tools.html
-][latest post]]. In there he references [[https://bootstrapworld.org/ai-education-starts-with-the-math/][this]] post by Bootstrap World.
+As a Met's fan, I'm used to Keith Hernandez harping on "good fundies." I mean, as a teacher as well. That was the topic of Alfred Thompson's [[https://blog.acthompson.net/2026/11/teach-concepts-not-tools.html][latest post]]. In there he references [[https://bootstrapworld.org/ai-education-starts-with-the-math/][this]] post by Bootstrap World. 
  
 Of course, one of the problems is what do we mean by fundamentals.
 
