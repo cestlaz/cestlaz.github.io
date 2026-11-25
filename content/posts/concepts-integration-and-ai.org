@@ -9,7 +9,8 @@ categories:
 draft: false
 --- 
 
-As a Met's fan, I'm used to Keith Hernandez harping on "good fundies." I mean, as a teacher as well. That was the topic of Alfred Thompson's [[https://blog.acthompson.net/2026/11/teach-concepts-not-tools.html
+As a Met's fan, I'm used to Keith Hernandez harping on "good fundies." I mean, as a teacher as well. That was the topic of Alfred Thompson's
+[[https://blog.acthompson.net/2026/11/teach-concepts-not-tools.html
 ][latest post]]. In there he references [[https://bootstrapworld.org/ai-education-starts-with-the-math/][this]] post by Bootstrap World.
  
 Of course, one of the problems is what do we mean by fundamentals.
@@ -34,7 +35,7 @@ It struck me as spending English class learning about the file menu.
 
 It was all about learning a tool which was why, even though there were some good teachers, trying to teach a good course and some students getting great value from them, oveall, it was the most disliked course at Stuy.
 
-Brief disclaimer - this is all talking about drafting from when I took it in the 1980s through let's say 2010. They still teach drafting today and it could be a wonderful course, it could be a lousy one. I don't know so don't take my indictment of the past as criticism of the present. Whole new set of teachers in a whole new department.
+Brief disclaimer - this is all talking about drafting from when I took it in the 1980s through let's say 2010. They still teach drafting today and it could be a wonderful course, it could be a lousy one. I don't know so don't take my indictment of the past as criticism of the present. Whole knew set of teachers in a whole new department.
 
 Of course teaching the tool was and is largely unneeded. When in college, we had to do some light design work as we were reworking some spaces. We ended up with a copy of Autocad - the industry standard at the time and not a particularly learner friendly program and figured it out. Neither I nor my partner had every been shown how to use it but we were overall pretty tech savvy and I had my by hand drafting experience from Stuy and we got the job done.
 
